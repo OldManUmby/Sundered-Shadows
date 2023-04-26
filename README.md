@@ -1,4 +1,4 @@
-![Rune9 Logo](./Rune9.Logo.png)
+![Rune9 Logo](./Cinergy9.Logo.png)
 
 # Cinergy9
 
