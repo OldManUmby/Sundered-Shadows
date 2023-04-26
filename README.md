@@ -8,4 +8,4 @@
 
 ***Will there be an SRD?*** Yes. The *Cinergy9 Systems Reference Document* (C9SRD) contains guidelines for publishing content under a *yet-to-be-determined* game license. Stay Tuned.
 
-Visit the official [Cinergy9](https://cinergy9.games) website for more information.
+Visit the official [Cinergy9](https://cinergy9.games) website, hosted at Old Man Umby's Games & Theory for more information.
