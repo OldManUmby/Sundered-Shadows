@@ -1,14 +1,9 @@
-![SSRPG Logo](./SSRPG.Logo.jpg)
+![SSRPG Logo](./SSRPG.Logo.png)
 
-<!--Add logo design above-->
+# The Sundered Shadows Roleplaying Game
 
-# Sundered Shadows
+###### A Minimal Adventure Ruleset | More story. Quick action. Less rules.
 
-###### A Minimal Roleplaying Game Ruleset | More story. Quick action. Less rules.
-
-*Sundered Shadows RPG* is a minimal d20-based ruleset for storytelling and quick action.
+*Sundered Shadows* is a rules-lite d20-based tabletop RPG for better storytelling and quick action.
 
 ***Will there be an SRD?*** Yes. *Sundered Shadows RPG* contains guidelines for publishing content under a `yet-to-be-determined` game license.
-
-## Project Outline
-
