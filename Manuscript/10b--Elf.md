@@ -2,7 +2,7 @@
 
 <!--Add copy here -->
 
-### Lineages
+### Elven Lineages
 
 Elven lineages have the traits of typical elves in addition to those specified.
 
@@ -43,3 +43,7 @@ Except where noted in a lineage, all elves generate ability scores as follows.
 ***Speed.*** <!--Add copy here -->
 
 ***Languages.*** <!--Add copy here -->
+
+### Elven Callings
+
+<!--Add copy here -->

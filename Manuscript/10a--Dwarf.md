@@ -20,9 +20,23 @@ Strong familial ties and a feeling of community are the cornerstones of dwarven 
 
 Even though dwarves frequently inhabit underground areas, their influence goes beyond the boundaries of their mountain dwellings. Many dwarves travel to the outside world for adventure or to trade their exquisitely produced goods. Some even take up arms as fearsome warriors, utilizing their power, grit, and adept understanding of armor and weapons.
 
-### Lineages
+### Dwarven Lineages
 
 Dwarven lineages have the traits of typical dwarves in addition to those specified.
+
+#### Deep Dwarf
+
+Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark and other fascinating worlds rather than leaving their massive underground cities, where they predominantly reside. Because they are so removed from the surface world, Deep Dwarves are fiercely independent and self-sufficient. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for knowledge.
+
+##### Master of the Dark
+
+The complicated and dangerous network of tunnels that weave across the Underdark is well-known to Deep Dwarves. They are skilled at traversing the tangled corridors, dodging lethal traps, and spotting the cues of hidden perils. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
+
+Even while Deep Dwarves tend to distrust strangers, they recognize the importance of forming partnerships when facing shared threats. Those who acquire their trust have access to their in-depth knowledge of the Underdark, a valuable resource for anybody trying to explore its perilous depths or unearth its ancient secrets.
+
+##### Walk in Shadows
+
+`The Deep Dwarves' close ties to the dark have influenced their way of life and skills. They have created a special kind of magic called "shadowcraft," which enables them to exploit shadows and darkness. Thanks to this occult feature, they can hide from curious eyes, conjure illusions, or attack their enemies from behind a veil of shadows. Deep Dwarves mine the rare minerals and exotic fungi found in the depths, and they employ these materials to create one-of-a-kind magic items infused with their eerie enchantments.`
 
 #### Hill Dwarf
 
@@ -50,42 +64,24 @@ They are skilled at utilizing the complex networks of mines and caverns to acces
 
 Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve.
 
-#### Deep Dwarf
-
-Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark and other fascinating worlds rather than leaving their massive underground cities, where they predominantly reside. Because they are so removed from the surface world, Deep Dwarves are fiercely independent and self-sufficient. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for knowledge.
-
-##### Master of the Dark
-
-The complicated and dangerous network of tunnels that weave across the Underdark is well-known to Deep Dwarves. They are skilled at traversing the tangled corridors, dodging lethal traps, and spotting the cues of hidden perils. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
-
-Even while Deep Dwarves tend to distrust strangers, they recognize the importance of forming partnerships when facing shared threats. Those who acquire their trust have access to their in-depth knowledge of the Underdark, a valuable resource for anybody trying to explore its perilous depths or unearth its ancient secrets.
-
-##### Walk in Shadows
-
-`The Deep Dwarves' close ties to the dark have influenced their way of life and skills. They have created a special kind of magic called "shadowcraft," which enables them to exploit shadows and darkness. Thanks to this occult feature, they can hide from curious eyes, conjure illusions, or attack their enemies from behind a veil of shadows. Deep Dwarves mine the rare minerals and exotic fungi found in the depths, and they employ these materials to create one-of-a-kind magic items infused with their eerie enchantments.`
-
 ### Dwarven Abilities
 
 Except where noted in a lineage, all dwarves generate ability scores as follows.
 
 ***Strength.*** Roll 4d6 once; tally the highest three dice.
-
 ***Dexterity.*** Roll 3d6 once; tally the results.
-
 ***Constitution.*** Roll 4d6 once; tally the highest three dice.
-
 ***Intelligence.*** Roll 3d6 once; tally the results.
-
 ***Wisdom.*** Roll 3d6 once; tally the results.
-
 ***Charisma.*** Roll 3d6 once; tally the results.
 
 ### Dwarven Features
 
-***Age.*** The starting age for dwarves is 40+1d10. The average dwarf lives 300 years.
-
+***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
 ***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
-
 ***Speed.*** Base movement is 25 feet, not encumbered by armor.
-
 ***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
+
+### Dwarven Callings
+
+<!--Add copy here -->

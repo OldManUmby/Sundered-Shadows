@@ -2,7 +2,7 @@
 
 <!--Add copy here -->
 
-### Lineages
+### Halfling Lineages
 
 Halfling lineages have the traits of typical halflings in addition to those specified.
 
@@ -43,3 +43,7 @@ Except where noted in a lineage, all halflings generate ability scores as follow
 ***Speed.*** <!--Add copy here -->
 
 ***Languages.*** <!--Add copy here -->
+
+### Halfling Callings
+
+<!--Add copy here -->
