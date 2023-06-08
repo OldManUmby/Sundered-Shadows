@@ -1,12 +1,12 @@
 ## Dwarf
 
-The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives deep within the craggy mountains where the sounds of hammers and forges fill the air. These rugged underground dwellers have built out a long and illustrious existence that spans the pages of history.
+The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence that spans the pages of history.
 
-Dwarves have a rich culture that they share among themselves that is replete with song, dancing, and humor despite being frequently perceived as severe and stern. Joyous laughing and the clinking of tankards may be heard resonating through the stone halls during big victory celebrations and festivals to honor their gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats.
+Dwarves have a rich culture that they share among themselves that is replete with song, dancing, and humor despite being frequently perceived as severe and stern. Joyous laughing and the clinking of tankards may be heard resonating through dwarven halls during big victory celebrations and festivals to honor their gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats.
 
 ### Stout and Hardy
 
-Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have an undoubtedly powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves typically stand 4 to 5 feet tall yet still weigh as much as an average human.
+Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have an undoubtedly `powerful presence`. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves typically stand 4 to 5 feet tall yet still weigh as much as an average human.
 
 ### Masters of the Forge
 
@@ -18,11 +18,11 @@ Strong familial ties and a feeling of community are the cornerstones of dwarven 
 
 ### Beyond the Mountains
 
-Even though dwarves frequently inhabit underground areas, their influence goes beyond the boundaries of their mountain dwellings. Many dwarves travel to the outside world for adventure or to trade their exquisitely produced goods. Some even take up arms as fearsome warriors, utilizing their power, grit, and adept understanding of armor and weapons.
+Even though dwarves frequently inhabit underground areas, their influence goes beyond the boundaries of their mountain dwellings. Many dwarves travel to the outside world for adventure or to trade their exquisitely produced goods. Some even take up arms as fearsome warriors, utilizing their strength, grit, and adept understanding of armor and weapons.
 
 ### Dwarven Lineages
 
-Dwarven lineages have the traits of typical dwarves in addition to those specified.
+Dwarven lineages have the traits of typical dwarves in addition to those specified under each lineage.
 
 #### Deep Dwarf
 
@@ -66,7 +66,7 @@ Mountain Dwarves receive extensive training in combat from an early age and are 
 
 ### Dwarven Abilities
 
-Except where noted in a lineage, all dwarves generate ability scores as follows.
+Except where noted in thier lineage, all dwarves generate ability scores as follows.
 
 ***Strength.*** Roll 4d6 once; tally the highest three dice.
 ***Dexterity.*** Roll 3d6 once; tally the results.

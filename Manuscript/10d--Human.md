@@ -20,7 +20,7 @@ Human lineages have the traits of typical humans in addition to those specified.
 
 ### Human Abilities
 
-Except where noted in a lineage, all humans generate ability scores as follows.
+Except where noted in thier lineage, all humans generate ability scores as follows.
 
 ***Strength.*** <!--Add copy here -->
 ***Dexterity.*** <!--Add copy here -->
