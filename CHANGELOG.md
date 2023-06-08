@@ -18,6 +18,6 @@ This changelog does NOT include fixing the grammar in the copy or other minor ad
 ###### June 8th, 2023
 
 - ***BackCover.*** Added game introduction and summary.
-- ***Introduction.*** Expanded *Aesthetics* to include "This game IS and IS NOT."
+- ***Introduction.*** Added placeholder for "This Game IS and IS NOT."
 - ***Restructuring.*** Reorganized file structure for balanced file size.
 - ***Dwarf Description.*** Added initial copy text for dwarf and lineages.
