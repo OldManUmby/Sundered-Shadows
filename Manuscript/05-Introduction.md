@@ -52,6 +52,4 @@ These customary conventions are practiced throughout this ruleset.
 
 <!--Add more Conventions as needed-->
 
-
-
 ==WORK IN PROGRESS==
