@@ -1,5 +1,7 @@
 # Changelog
 
+This changelog does NOT include fixing the grammar in the copy or other minor adjustments.
+
 ###### June 6th, 2023
 
 - ***File Structure.*** Using *Typora*, added project folder and initial markdown files.
