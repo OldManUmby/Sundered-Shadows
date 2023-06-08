@@ -34,9 +34,13 @@ The complicated and dangerous network of tunnels that weave across the Underdark
 
 Even while Deep Dwarves tend to distrust strangers, they recognize the importance of forming partnerships when facing shared threats. Those who acquire their trust have access to their in-depth knowledge of the Underdark, a valuable resource for anybody trying to explore its perilous depths or unearth its ancient secrets.
 
+***Darkvision.*** Deep Dwarves can see in total darkness to a range of 60 feet.
+
 ##### Walk in Shadows
 
 `The Deep Dwarves' close ties to the dark have influenced their way of life and skills. They have created a special kind of magic called "shadowcraft," which enables them to exploit shadows and darkness. Thanks to this occult feature, they can hide from curious eyes, conjure illusions, or attack their enemies from behind a veil of shadows. Deep Dwarves mine the rare minerals and exotic fungi found in the depths, and they employ these materials to create one-of-a-kind magic items infused with their eerie enchantments.`
+
+<!--Add Nature benefits here -->
 
 #### Hill Dwarf
 
@@ -46,19 +50,27 @@ Hill Dwarves are well-known for their friendly personalities and close relations
 
 Hill Dwarves are known for creating outstanding armor and weaponry and have an innate love for blacksmithing. They have perfected their techniques over many generations to produce armor that provides exceptional protection and weapons that are expertly balanced and lethal in combat. Their mastery and attention to detail are unparalleled, and both soldiers and explorers frequently covet their products.
 
+***Tool Proficiency.*** Hill Dwarves gain proficiency in `Metalworking Tools`.
+
 ##### Connected to Nature
 
-Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. They cultivate abundant crops and care for luxuriant vineyards since they are competent farmers and gardeners. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives, giving them a greater propensity for natural magic over their mountain cousins.
+Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. They cultivate abundant crops and care for luxuriant vineyards since they are competent farmers and gardeners. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives.
+
+<!--Add Nature benefits here -->
 
 #### Mountain Dwarf
 
-The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven culture. They are the ultimate masters of mining and stoneworking, living within vast mountain strongholds and plunging far beneath the surface in pursuit of valuable metals and gems.
+The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven culture. They are the ultimate masters of mining and stoneworking, living within vast mountain strongholds and plunging far beneath the surface in pursuit of valuable metals and gems. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
+
+***Darkvision.*** Mountain Dwarves can see in total darkness to a range of 60 feet.
 
 ##### Masters of Stoneworking
 
 Mountain Dwarves excel at building majestic structures that stand the test of time because of their unmatched stoneworking knowledge. Their magnificent architectural wonders, which feature enormous stone halls, complex carvings, and expertly carved pillars extending into their mountain homes' interiors, represent their deep connection to the mountains. Mountain Dwarves can easily navigate the underground tunnel network because of their acute eyes and natural ability to see in the dark.
 
 They are skilled at utilizing the complex networks of mines and caverns to access the vast mineral treasures buried beneath the earth. Because of their unmatched mining and resource extraction expertise, they are in high demand as experienced miners and gem cutters.
+
+***Tool Proficiency.*** Mountain Dwarves gain proficiency in `Stoneworking Tools`.
 
 ##### Natural Defenders
 
