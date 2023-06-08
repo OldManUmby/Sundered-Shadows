@@ -62,7 +62,7 @@ Even while Deep Dwarves tend to distrust strangers, they recognize the importanc
 
 ##### Walk in Shadows
 
-`The Deep Dwarves' close ties to the dark have influenced their way of life and skills. They have created a special kind of magic called "shadowcraft," which enables them to exploit shadows and darkness. Thanks to this occult skill, they can hide from curious eyes, conjure illusions, or attack their enemies from behind a veil of shadows. Deep Dwarves mine the rare minerals and exotic fungi found in the depths, and they employ these materials to create one-of-a-kind magic items infused with their eerie enchantments.`
+`The Deep Dwarves' close ties to the dark have influenced their way of life and skills. They have created a special kind of magic called "shadowcraft," which enables them to exploit shadows and darkness. Thanks to this occult feature, they can hide from curious eyes, conjure illusions, or attack their enemies from behind a veil of shadows. Deep Dwarves mine the rare minerals and exotic fungi found in the depths, and they employ these materials to create one-of-a-kind magic items infused with their eerie enchantments.`
 
 ### Dwarven Abilities
 
