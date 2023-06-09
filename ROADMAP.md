@@ -26,5 +26,19 @@
 - [x] ***BackCover.*** Create initial copy text of the game summary on the Back Cover.
 - [x] ***Introduction.*** Add a placeholder for "This Game IS and IS NOT."
 - [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
-- [x] ***Dwarf Description.*** Create initial copy text for dwarf and lineages.
-- [ ] 
+- [x] ***Dwarf Description.*** Create initial copy text for ancestry and lineages.
+
+
+
+## Up Next ...
+
+- [ ] ***Dwarf Features.*** Create initial features and benefits.
+
+- [ ] ***Elf Description.*** Create initial copy text for ancestry and lineages.
+- [ ] ***Elf Features.*** Create initial features and benefits.
+
+- [ ] ***Halfling Description.*** Create initial copy text for ancestry and lineages.
+- [ ] ***Halfling Features.*** Create initial features and benefits.
+
+- [ ] ***Human Description.*** Create initial copy text for ancestry and lineages.
+- [ ] ***Human Features.*** Create initial features and benefits.
