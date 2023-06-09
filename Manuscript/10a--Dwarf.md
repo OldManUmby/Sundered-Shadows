@@ -8,7 +8,7 @@ Dwarves have a rich culture that they share among themselves that is replete wit
 
 #### Stout and Hardy
 
-Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have an undoubtedly `powerful presence`. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves typically stand 4 to 5 feet tall yet still weigh as much as an average human.
+Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have an undoubtedly powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves typically stand 4 to 5 feet tall yet still weigh as much as an average human.
 
 #### Masters of the Forge
 
@@ -37,46 +37,37 @@ Except where noted in their lineage, all dwarves generate ability scores as foll
 
 ***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
 ***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
-***Speed.*** Base movement is 25 feet, not encumbered by armor.
+***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
 ***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
 ### Dwarven Lineages
 
-Dwarven lineages have the traits of typical dwarves in addition to those specified under each lineage.
+Dwarven lineages have the traits of typical dwarves and those specified under each lineage.
 
 #### Deep Dwarf
 
-Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark and other fascinating worlds rather than leaving their massive underground cities, where they predominantly reside. Because they are so removed from the surface world, Deep Dwarves are fiercely independent and self-sufficient. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for knowledge.
+Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark rather than leaving their massive underground cities, where they predominantly reside. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for secret lore. Those who acquire their trust have access to their in-depth knowledge of the Underdark, a valuable resource for anybody trying to explore its perilous depths or unearth its ancient secrets.
 
-##### Master of the Dark
+The Deep Dwarves' close ties to the dark have influenced their way of life. They have abilities that enable them to exploit shadows and darkness.
 
-The complicated and dangerous network of tunnels that weave across the Underdark is well-known to Deep Dwarves. They are skilled at traversing the tangled corridors, dodging lethal traps, and spotting the cues of hidden perils. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
-
-Even while Deep Dwarves tend to distrust strangers, they recognize the importance of forming partnerships when facing shared threats. Those who acquire their trust have access to their in-depth knowledge of the Underdark, a valuable resource for anybody trying to explore its perilous depths or unearth its ancient secrets.
-
-***Darkvision.*** Deep Dwarves can see in total darkness to a range of 60 feet.
-
-##### Walk in Shadows
-
-`The Deep Dwarves' close ties to the dark have influenced their way of life and skills. They have created a special kind of magic called "shadowcraft," which enables them to exploit shadows and darkness. Thanks to this occult feature, they can hide from curious eyes, conjure illusions, or attack their enemies from behind a veil of shadows. Deep Dwarves mine the rare minerals and exotic fungi found in the depths, and they employ these materials to create one-of-a-kind magic items infused with their eerie enchantments.`
-
-<!--Add Nature benefits here -->
+***Darkvision.*** `See in total darkness to a range of 60 feet.`
+***Shadowcraft.*** `Blend into shadows and dark places (as Invisibility spell) - once/day.`
 
 #### Hill Dwarf
 
-Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. They have developed thriving trade networks and are highly demanded of their craftsmanship and blacksmithing abilities.
+Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. 
 
-##### Masters of Metalworking
-
-Hill Dwarves are known for creating outstanding armor and weaponry and have an innate love for blacksmithing. They have perfected their techniques over many generations to produce armor that provides exceptional protection and weapons that are expertly balanced and lethal in combat. Their mastery and attention to detail are unparalleled, and both soldiers and explorers frequently covet their products.
+Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
 
 ***Tool Proficiency.*** Hill Dwarves gain proficiency in `Metalworking Tools`.
+
+<!--Add Trait here -->
 
 ##### Connected to Nature
 
 Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. They cultivate abundant crops and care for luxuriant vineyards since they are competent farmers and gardeners. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives.
 
-<!--Add Nature benefits here -->
+<!--Add Trait here -->
 
 #### Mountain Dwarf
 
@@ -90,6 +81,7 @@ Mountain Dwarves excel at building majestic structures that stand the test of ti
 
 They are skilled at utilizing the complex networks of mines and caverns to access the vast mineral treasures buried beneath the earth. Because of their unmatched mining and resource extraction expertise, they are in high demand as experienced miners and gem cutters.
 
+***Darkvision.*** `See in total darkness to a range of 60 feet.`
 ***Tool Proficiency.*** Mountain Dwarves gain proficiency in `Stoneworking Tools`.
 
 ##### Natural Defenders
@@ -99,4 +91,3 @@ Mountain Dwarves receive extensive training in combat from an early age and are 
 ### Dwarven Callings
 
 <!--Add copy here -->
-
