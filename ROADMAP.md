@@ -26,7 +26,7 @@
 - [x] ***BackCover.*** Create initial copy text of the game summary on the Back Cover.
 - [x] ***Introduction.*** Add a placeholder for "This Game IS and IS NOT."
 - [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
-- [x] ***Dwarf Description.*** Create initial copy text for ancestry and lineages.
+- [ ] ***Dwarf Description.*** Create initial copy text for ancestry and lineages.
 
 
 
