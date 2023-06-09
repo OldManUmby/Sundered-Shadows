@@ -29,7 +29,7 @@ Except where noted in thier lineage, all halflings generate ability scores as fo
 ***Wisdom.*** <!--Add copy here -->
 ***Charisma.*** <!--Add copy here -->
 
-### Halfling Features
+### Halfling Traits
 
 ***Age.*** The starting age for halflings is 20+1d10. The average halfling lives 150 years.
 ***Size.*** <!--Add copy here -->

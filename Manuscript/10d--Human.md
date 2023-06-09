@@ -29,7 +29,7 @@ Except where noted in thier lineage, all humans generate ability scores as follo
 ***Wisdom.*** <!--Add copy here -->
 ***Charisma.*** <!--Add copy here -->
 
-### Human Features
+### Human Traits
 
 ***Age.*** The starting age for humans is 15+1d10. The average human lives 100 years.
 ***Size.*** <!--Add copy here -->

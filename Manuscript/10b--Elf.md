@@ -29,7 +29,7 @@ Except where noted in thier lineage, all elves generate ability scores as follow
 ***Wisdom.*** <!--Add copy here -->
 ***Charisma.*** <!--Add copy here -->
 
-### Elven Features
+### Elven Traits
 
 ***Age.*** The starting age for elves is 100+1d10. The average elf lives 500 years.
 ***Size.*** Elves are Medium size, standing 5'+1d12" tall, slender, and about 150 pounds. 
