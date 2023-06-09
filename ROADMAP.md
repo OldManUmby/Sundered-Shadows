@@ -47,7 +47,7 @@
 
 ###### Callings
 
-- [ ] Dwarf Callings. Create the initial archetypes.
-- [ ] Elf Callings. Create the initial archetypes.
-- [ ] Halfling Callings. Create the initial archetypes.
-- [ ] Human Callings. Create the initial archetypes.
+- [ ] ***Dwarf Callings.*** Create the initial archetypes.
+- [ ] ***Elf Callings.*** Create the initial archetypes.
+- [ ] ***Halfling Callings.*** Create the initial archetypes.
+- [ ] ***Human Callings.*** Create the initial archetypes.
