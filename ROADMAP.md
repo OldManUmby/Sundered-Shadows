@@ -32,6 +32,8 @@
 
 ## Up Next ...
 
+###### Ancestry
+
 - [ ] ***Dwarf Features.*** Create initial features and benefits.
 
 - [ ] ***Elf Description.*** Create initial copy text for ancestry and lineages.
@@ -42,3 +44,10 @@
 
 - [ ] ***Human Description.*** Create initial copy text for ancestry and lineages.
 - [ ] ***Human Features.*** Create initial features and benefits.
+
+###### Callings
+
+- [ ] Dwarf Callings. Create the initial archetypes.
+- [ ] Elf Callings. Create the initial archetypes.
+- [ ] Halfling Callings. Create the initial archetypes.
+- [ ] Human Callings. Create the initial archetypes.
