@@ -33,13 +33,6 @@ Except where noted in their lineage, all dwarves generate ability scores as foll
 ***Wisdom.*** Roll 3d6 once; tally the dice.
 ***Charisma.*** Roll 3d6 once; tally the dice.
 
-### Dwarven Traits
-
-***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
-***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
-***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
-***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
-
 ### Dwarven Lineages
 
 Dwarven lineages have the traits of typical dwarves and those specified under each lineage.
@@ -50,6 +43,13 @@ Deep Dwarves are a secretive lineage familiar with mysterious and perilous depth
 
 The Deep Dwarves' close ties to the dark have influenced their way of life. They have abilities that enable them to exploit shadows and darkness.
 
+##### Deep Dwarf Traits
+
+***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
+***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
+***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
+***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
+
 ***Darkvision.*** `See in total darkness to a range of 60 feet.`
 ***Shadowcraft.*** `Blend into shadows and dark places (as Invisibility spell) - once/day.`
 
@@ -58,6 +58,13 @@ The Deep Dwarves' close ties to the dark have influenced their way of life. They
 Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. 
 
 Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
+
+##### Hill Dwarf Traits
+
+***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
+***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
+***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
+***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
 ***Tool Proficiency.*** Hill Dwarves gain proficiency in `Metalworking Tools`.
 
@@ -72,6 +79,13 @@ Hill Dwarves frequently act as stewards of their natural environs, coexisting pe
 #### Mountain Dwarf
 
 The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven culture. They are the ultimate masters of mining and stoneworking, living within vast mountain strongholds and plunging far beneath the surface in pursuit of valuable metals and gems. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
+
+##### Mountain Dwarf Traits
+
+***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
+***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
+***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
+***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
 ***Darkvision.*** Mountain Dwarves can see in total darkness to a range of 60 feet.
 
