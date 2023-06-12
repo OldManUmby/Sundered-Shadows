@@ -2,9 +2,7 @@
 
 *"There's no one more stubborn than a dwarf or more loyal."*
 
-The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence that spans the pages of history.
-
-Dwarves have a rich culture that they share among themselves that is replete with song, dancing, and humor despite being frequently perceived as severe and stern. Joyous laughing and the clinking of tankards may be heard resonating through dwarven halls during big victory celebrations and festivals to honor their gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats.
+The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence that is replete with song, dancing, and humor despite being frequently perceived as severe and stern. Joyous laughing and the clinking of tankards may be heard resonating through dwarven halls during big victory celebrations and festivals to honor their gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats.
 
 #### Stout and Hardy
 
@@ -22,16 +20,13 @@ Strong familial ties and a feeling of community are the cornerstones of dwarven 
 
 Even though dwarves frequently inhabit underground areas, their influence goes beyond the boundaries of their mountain dwellings. Many dwarves travel to the outside world for adventure or to trade their exquisitely produced goods. Some even take up arms as fearsome warriors, utilizing their strength, grit, and adept understanding of armor and weapons.
 
-### Dwarven Abilities
+### Dwarven Traits
 
-Except where noted in their lineage, all dwarves generate ability scores as follows.
-
-***Strength.*** Roll 4d6 once; tally the highest three dice.
-***Dexterity.*** Roll 3d6 once; tally the dice.
-***Constitution.*** Roll 4d6 once; tally the highest three dice.
-***Intelligence.*** Roll 3d6 once; tally the dice.
-***Wisdom.*** Roll 3d6 once; tally the dice.
-***Charisma.*** Roll 3d6 once; tally the dice.
+***Abilities.*** For Strength and Constitution, roll 4d6; tally the highest three dice.
+***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
+***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
+***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
+***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
 ### Dwarven Lineages
 
@@ -45,11 +40,6 @@ The Deep Dwarves' close ties to the dark have influenced their way of life. They
 
 ##### Deep Dwarf Traits
 
-***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
-***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
-***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
-***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
-
 ***Darkvision.*** `See in total darkness to a range of 60 feet.`
 ***Shadowcraft.*** `Blend into shadows and dark places (as Invisibility spell) - once/day.`
 
@@ -60,11 +50,6 @@ Hill Dwarves are well-known for their friendly personalities and close relations
 Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
 
 ##### Hill Dwarf Traits
-
-***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
-***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
-***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
-***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
 ***Tool Proficiency.*** Hill Dwarves gain proficiency in `Metalworking Tools`.
 
@@ -81,11 +66,6 @@ Hill Dwarves frequently act as stewards of their natural environs, coexisting pe
 The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven culture. They are the ultimate masters of mining and stoneworking, living within vast mountain strongholds and plunging far beneath the surface in pursuit of valuable metals and gems. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
 
 ##### Mountain Dwarf Traits
-
-***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
-***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
-***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
-***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
 ***Darkvision.*** Mountain Dwarves can see in total darkness to a range of 60 feet.
 
