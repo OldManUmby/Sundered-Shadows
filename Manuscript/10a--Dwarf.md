@@ -1,6 +1,6 @@
 ## Dwarf
 
-*"There's no one more stubborn than a dwarf, or more loyal."*
+*"There's no one more stubborn than a dwarf or more loyal."*
 
 The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence that spans the pages of history.
 
