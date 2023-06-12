@@ -27,11 +27,11 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 Except where noted in their lineage, all dwarves generate ability scores as follows.
 
 ***Strength.*** Roll 4d6 once; tally the highest three dice.
-***Dexterity.*** Roll 3d6 once; tally the results.
+***Dexterity.*** Roll 3d6 once; tally the dice.
 ***Constitution.*** Roll 4d6 once; tally the highest three dice.
-***Intelligence.*** Roll 3d6 once; tally the results.
-***Wisdom.*** Roll 3d6 once; tally the results.
-***Charisma.*** Roll 3d6 once; tally the results.
+***Intelligence.*** Roll 3d6 once; tally the dice.
+***Wisdom.*** Roll 3d6 once; tally the dice.
+***Charisma.*** Roll 3d6 once; tally the dice.
 
 ### Dwarven Traits
 
