@@ -14,7 +14,7 @@ The gamemaster's job is to create the adventures, but it's everyone's job to cre
 >
 > If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
 
-## What Do I Need To Play?
+## What do I need to play?
 
 A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
 

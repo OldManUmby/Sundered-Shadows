@@ -77,6 +77,14 @@ Mountain Dwarves receive extensive training in combat from an early age and are 
 
 <!--Add Traits here -->
 
+#### Sundered Dwarf
+
+<!--Add copy here -->
+
+##### Sundered Dwarf Traits
+
+<!--Add Traits here -->
+
 ### Dwarven Archetypes
 
 <!--Add copy here -->
