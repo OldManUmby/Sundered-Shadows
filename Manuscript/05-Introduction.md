@@ -16,7 +16,7 @@ The gamemaster's job is to create the adventures, but it's everyone's job to cre
 
 ## What Do I Need To Play?
 
-A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will need to draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
+A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
 
 ### Dice
 
