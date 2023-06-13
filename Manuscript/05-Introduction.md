@@ -4,29 +4,29 @@ A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pasti
 
 ## What is Sundered Shadows?
 
-*Sundered Shadows RPG* is a rules-lite roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features and equipment options. *Sundered Shadows* is a classic non-tactical "theatre of the mind" game, meaning it runs a bit looser and faster, and although maps and miniatures can be utilized, most game aids are minimal.
+*Sundered Shadows* (SSRPG) is a rules-lite roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features and equipment options. *Sundered Shadows* is a classic non-tactical "theatre of the mind" game, meaning it runs a bit looser and faster, and although maps and miniatures can be utilized, most game aids are minimal.
 
 > ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
 >
 > If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
 
-## Duties
+### Sundered Shadow IS ... 
 
-To summarize, in a playgroup, one person serves as the gamemaster whose sole job is to create, manage, and narrate the adventures, including the dialogue, behavior, and schemes of the non-player characters (NPCs), which consist of all `supporting roles`, villains, and beasts. All others in the group are players responsible for the actions of their player characters (PCs), the heroes trying to survive and thrive during the adventures. However, the gamemaster and the players genuinely co-write the ongoing campaigns from each person's - or character's - point of view.
+<!--Add copy here -->
+
+### Sundered Shadow IS NOT ... 
+
+<!--Add copy here -->
 
 ## Aesthetics
 
-This ruleset is designed to be campaign neutral and utilized in any world-building project the gamemaster can imagine or wish to construct. As such, specific references and descriptions are deliberately vague or absent from this material.
+This ruleset is designed to be campaign neutral and utilized in any worldbuilding project the gamemaster can imagine or wish to construct; thus, specific references and descriptions are left deliberately vague or are absent from this material.
 
 For more features and options, advanced game materials are available for download at our official website, including adventures, campaigns, and supplements, which offer more details and character features.
 
-### This Game IS ... 
+## Duties
 
-<!--Add copy here -->
-
-### This Game IS NOT ... 
-
-<!--Add copy here -->
+To summarize, in a playgroup, one person serves as the gamemaster (GM) whose sole job is to create, manage, and narrate the adventures, including the dialogue, behavior, and schemes of the non-player characters (NPCs), which consist of `supporting roles`, villains, and beasts. The gamemaster's job is to create adventure and fun. All others in the group are players responsible for the actions of their player characters (PCs), the heroes trying to survive and thrive during the adventures. However, the gamemaster and the players genuinely co-write the overall storyline from each person's - or character's - point of view.
 
 ## Supplies
 
@@ -53,5 +53,7 @@ These customary conventions are practiced throughout this ruleset.
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction.
 
 <!--Add more Conventions as needed-->
+
+
 
 ==WORK IN PROGRESS==
