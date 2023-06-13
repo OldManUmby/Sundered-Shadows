@@ -77,6 +77,6 @@ Mountain Dwarves receive extensive training in combat from an early age and are 
 
 <!--Add Traits here -->
 
-### Dwarven Classes
+### Dwarven Archetypes
 
 <!--Add copy here -->
