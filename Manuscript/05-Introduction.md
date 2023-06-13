@@ -2,7 +2,9 @@
 
 A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pastime involving a playgroup of at least two players, though more players are typical. Together, this association plays through adventures in a fictional setting similar to a novel, TV series, or movie.
 
-*Sundered Shadows RPG* attempts to bring a lite and minimalistic ruleset designed for storytelling and action flow yet allows for remarkable detail with many character features and equipment options. By its very nature, this ruleset is a classic non-tactical "theatre of the mind" game, meaning it runs a bit looser and faster than more number-crunching game systems. Although maps and miniatures can be utilized, most game aids are deliberately minimal.
+## What is Sundered Shadows?
+
+*Sundered Shadows RPG* is a rules-lite roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features and equipment options. *Sundered Shadows* is a classic non-tactical "theatre of the mind" game, meaning it runs a bit looser and faster, and although maps and miniatures can be utilized, most game aids are minimal.
 
 > ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
 >

@@ -28,7 +28,7 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 ***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
 ***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
-***?? Proficiency.*** Dwarves are proficient in <!--Add Proficiencies here -->.
+***Proficiency Options.*** Dwarves can choose from the following proficiencies: <!--Add Proficiencies here -->.
 
 ### Dwarven Lineages
 
