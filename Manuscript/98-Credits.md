@@ -2,7 +2,7 @@
 
 ***Writing and Layout.*** B.A. Umberger
 
-<!--Add Credits as warranted-->
+<!--Add Credits here-->
 
 ## Tributes
 
@@ -10,4 +10,8 @@ We'd like to take this opportunity to pay tribute to the following for their ins
 
 * David Arneson and Gary Gygax, the fathers of classic gaming.
 
-<!--Add more Tributes here-->
+<!--Add Tributes here-->
+
+## Special Thanks
+
+<!--Add Thanks here-->
