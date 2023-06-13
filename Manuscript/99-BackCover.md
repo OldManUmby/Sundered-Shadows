@@ -10,12 +10,15 @@ In *Sundered Shadows*, you are not bound by the constraints of the rules. Here, 
 
 *Sundered Shadows* is a roleplaying game of minimal rules using classical d20 mechanics. *Sundered Shadows* rests upon the concepts of better storytelling and heightened action with fewer rules and dice rolls.
 
-**Features of Sundered Shadows:**
+### Game Features
 
-- Improved classical d20 mechanics
-- Minimal ruleset for quick action rounds
-- Heightened action economy
-- Etc...
+***Classic Approach.*** *Sundered Shadows* is a classic d20-based roleplaying game. As such, this ruleset utilizes standard ability arrays and familiar concepts such as `armor class, hit points, saving throws, proficiencies`, and much more.
+
+***Modern Mechanics.*** *Sundered Shadows* employs a plethora of community hacks derived from other modern game systems, such as `damage resistance for armor, injury thresholds, additional levels of proficiency`, and much more.
+
+***Streamlined Ruleset.*** *Sundered Shadows* improves action economy by removing unnecessary elements and mechanics which slow gameplay, such as performance-based damage, <!--Add more Streamlines here-->, and much more.
+
+***Campaign Neutral.*** *Sundered Shadows* is a guideline designed to be utilized in any fantasy world the gamemaster can imagine or create; thus, gamesters are encouraged to fill in any missing details with their worldbuilding elements.
 
 
 

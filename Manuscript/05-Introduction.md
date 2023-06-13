@@ -8,21 +8,11 @@ The gamemaster's job is to create the adventures, but it's everyone's job to cre
 
 ## What is Sundered Shadows?
 
-*Sundered Shadows* (SSRPG) is a rules-lite roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features, gear, and optional rules. *Sundered Shadows* is a non-tactical "theatre of the mind" game, meaning it runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
+*Sundered Shadows* (SSRPG) is a rules-lite d20-based roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features, gear, and optional rules. *Sundered Shadows* is a non-tactical "theatre of the mind" game, meaning it runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
 
 >  ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
 >
 > If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
-
-### Game Features
-
-***Classic Approach.*** *Sundered Shadows* is a classic d20-based roleplaying game. As such, this ruleset utilizes standard ability arrays and familiar concepts such as `armor class, hit points, saving throws, proficiencies`, and much more.
-
-***Modern Mechanics.*** *Sundered Shadows* employs a plethora of community hacks derived from other modern game systems, such as `damage resistance for armor, injury thresholds, additional levels of proficiency`, and much more.
-
-***Streamlined Ruleset.*** *Sundered Shadows* detaches itself from unnecessary elements and mechanics which slow gameplay, such as performance-based damage, <!--Add more Streamlines here-->, and much more.
-
-***Campaign Neutral.*** *Sundered Shadows* is a guideline designed to be utilized in any fantasy world the gamemaster can imagine or create; thus, gamesters are encouraged to fill in any missing details with their own worldbuilding elements.
 
 ## What Do I Need To Play?
 
