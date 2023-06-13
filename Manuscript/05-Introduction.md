@@ -1,40 +1,32 @@
 # ==INTRODUCTION==
 
-A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pastime involving a playgroup of at least two players, though more players are typical. Together, this association plays through adventures in a fictional setting similar to a novel, TV series, or movie.
+A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pastime involving a playgroup of at least two players, though more players are typical. Together, this group plays through adventures in a fictional setting similar to a novel, TV series, or movie.
+
+The players are responsible for the actions of the protagonist or player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists or non-player characters (NPCs).
+
+The gamemaster's job is to create the adventures, but it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's (or character's) perspective.
 
 ## What is Sundered Shadows?
 
-*Sundered Shadows* (SSRPG) is a rules-lite roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features and equipment options. *Sundered Shadows* is a classic non-tactical "theatre of the mind" game, meaning it runs a bit looser and faster, and although maps and miniatures can be utilized, most game aids are minimal.
+*Sundered Shadows* (SSRPG) is a rules-lite roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features, gear, and optional rules. *Sundered Shadows* is a non-tactical "theatre of the mind" game, meaning it runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
 
-> ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
+>  ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
 >
 > If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
 
-### Sundered Shadow IS ... 
+### Game Features
 
-<!--Add copy here -->
+***Classic Approach.*** *Sundered Shadows* is a classic d20-based roleplaying game. As such, this ruleset utilizes standard ability arrays and familiar concepts such as `armor class, hit points, saving throws, proficiencies`, and much more.
 
-### Sundered Shadow IS NOT ... 
+***Modern Mechanics.*** *Sundered Shadows* employs a plethora of community hacks derived from other modern game systems, such as `damage resistance for armor, injury thresholds, additional levels of proficiency`, and much more.
 
-<!--Add copy here -->
+***Streamlined Ruleset.*** *Sundered Shadows* detaches itself from unnecessary elements and mechanics which slow gameplay, such as performance-based damage, <!--Add more Streamlines here-->, and much more.
 
-## Aesthetics
+***Campaign Neutral.*** *Sundered Shadows* is a guideline designed to be utilized in any fantasy world the gamemaster can imagine or create; thus, gamesters are encouraged to fill in any missing details with their own worldbuilding elements.
 
-This ruleset is designed to be campaign neutral and utilized in any worldbuilding project the gamemaster can imagine or wish to construct; thus, specific references and descriptions are left deliberately vague or are absent from this material.
+## What Do I Need To Play?
 
-For more features and options, advanced game materials are available for download at our official website, including adventures, campaigns, and supplements, which offer more details and character features.
-
-## Duties
-
-To summarize, in a playgroup, one person serves as the gamemaster (GM) whose sole job is to create, manage, and narrate the adventures, including the dialogue, behavior, and schemes of the non-player characters (NPCs), which consist of `supporting roles`, villains, and beasts. The gamemaster's job is to create adventure and fun. All others in the group are players responsible for the actions of their player characters (PCs), the heroes trying to survive and thrive during the adventures. However, the gamemaster and the players genuinely co-write the overall storyline from each person's - or character's - point of view.
-
-## Supplies
-
-A few materials and tools are needed to utilize this ruleset; these items can be physical, digital, or a combination; however, always check with your gamemaster first, as there may be specific requirements for your game.
-
-Typically, a game group will need a copy of the rules, note/graph paper, pencils, plenty of character record sheets - see `Appendix $$` for character sheets - and a set of gaming dice for each person. Maps and miniatures are optional; see your gamemaster for more information.
-
-Various digital record forms and even pre-generated characters are available for download at our official website.
+A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will need to draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
 
 ### Dice
 
@@ -52,8 +44,6 @@ These customary conventions are practiced throughout this ruleset.
 
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction.
 
-<!--Add more Conventions as needed-->
-
-
+<!--Add Conventions here-->
 
 ==WORK IN PROGRESS==
