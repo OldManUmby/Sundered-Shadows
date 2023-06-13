@@ -28,6 +28,8 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 ***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
 ***Languages.*** Dwarves can speak, read/write Common, and Dwarvish.
 
+***?? Proficiency.*** Dwarves are proficient in <!--Add Proficiencies here -->.
+
 ### Dwarven Lineages
 
 Dwarven lineages have the traits of typical dwarves and those specified under each lineage.
@@ -40,8 +42,8 @@ The Deep Dwarves' close ties to the dark have influenced their way of life. They
 
 ##### Deep Dwarf Traits
 
-***Darkvision.*** `See in total darkness to a range of 60 feet.`
-***Shadowcraft.*** `Blend into shadows and dark places (as Invisibility spell) - once/day.`
+***Darkvision.*** `See acuity in total darkness to a range of 60 feet.`
+***Shadowcraft.*** `Blend into shadows and dark places (as Invisibility spell).`
 
 #### Hill Dwarf
 
@@ -49,25 +51,17 @@ Hill Dwarves are well-known for their friendly personalities and close relations
 
 Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
 
-##### Hill Dwarf Traits
-
-***Tool Proficiency.*** Hill Dwarves gain proficiency in `Metalworking Tools`.
-
-<!--Add Trait here -->
-
 ##### Connected to Nature
 
 Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. They cultivate abundant crops and care for luxuriant vineyards since they are competent farmers and gardeners. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives.
 
-<!--Add Trait here -->
+##### Hill Dwarf Traits
+
+<!--Add Traits here -->
 
 #### Mountain Dwarf
 
 The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven culture. They are the ultimate masters of mining and stoneworking, living within vast mountain strongholds and plunging far beneath the surface in pursuit of valuable metals and gems. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
-
-##### Mountain Dwarf Traits
-
-***Darkvision.*** Mountain Dwarves can see in total darkness to a range of 60 feet.
 
 ##### Masters of Stoneworking
 
@@ -75,13 +69,14 @@ Mountain Dwarves excel at building majestic structures that stand the test of ti
 
 They are skilled at utilizing the complex networks of mines and caverns to access the vast mineral treasures buried beneath the earth. Because of their unmatched mining and resource extraction expertise, they are in high demand as experienced miners and gem cutters.
 
-***Darkvision.*** `See in total darkness to a range of 60 feet.`
-***Tool Proficiency.*** Mountain Dwarves gain proficiency in `Stoneworking Tools`.
-
 ##### Natural Defenders
 
 Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve.
 
-### Dwarven Callings
+##### Mountain Dwarf Traits
+
+<!--Add Traits here -->
+
+### Dwarven Classes
 
 <!--Add copy here -->
