@@ -2,9 +2,11 @@
 
 A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pastime involving a playgroup of at least two players, though more players are typical. Together, this group plays through adventures in a fictional setting similar to a novel, TV series, or movie.
 
-The players are responsible for the actions of the protagonist or player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists or non-player characters (NPCs).
+## Who Plays What?
 
-The gamemaster's job is to create the adventures, but it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's (or character's) perspective.
+The players are responsible for the actions of the protagonist - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists - a.k.a. non-player characters (NPCs).
+
+Although it's the gamemaster's job to create the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's - or character's - point of view.
 
 ## What is Sundered Shadows?
 
@@ -18,11 +20,11 @@ The gamemaster's job is to create the adventures, but it's everyone's job to cre
 
 A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
 
-### Dice
+### The Dice
 
 This ruleset utilizes gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 12-sided die (d12), and 20-sided die (d20); a pair of 10-sided die (d10) will also be required. Utilizing the d10 pair, one can also roll a d100 (a.k.a. percentile dice). Ideally, each player and the gamemaster should have a complete set of dice, though you could use less; however, the more dice available, the smoother the play.
 
-> ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*. Other dice expressions include Advantage and Disadvantage; see `Gameplay` for more information.
+> ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice to roll will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*. Other dice expressions include Advantage and Disadvantage; see `Gameplay` for more information.
 >
 > ***Percentile Dice (d100).*** This die type consists of two 10-sided dice, where one die represents the "tens" position, and the other represents the "ones" position. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of 100% is seen as "00" (double zeros) on the dice.
 
