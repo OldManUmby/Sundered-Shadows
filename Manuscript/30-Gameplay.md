@@ -2,7 +2,7 @@
 
 When things get dicey, each character and opponent gets a turn. One player rolls 1d6 for their side versus a roll by the gamemaster. Each side modifies its die with the lowest proficiency bonus from its group. The side with the highest roll gets to act first and chooses the order of their actions as needed.
 
-`The participants in a one-on-one conflict may also add their Dexterity bonus. Reach weapons gain advantage on initiative versus non-reach weapon users.`
+`The participants in a one-on-one conflict may add their Dexterity bonus. Reach weapons gain advantage on initiative versus non-reach weapon users.`
 
 ### Action Check
 
