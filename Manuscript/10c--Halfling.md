@@ -20,7 +20,7 @@ Halfling lineages have the traits of typical halflings in addition to those spec
 
 ### Halfling Abilities
 
-Except where noted in thier lineage, all halflings generate ability scores as follows.
+Except where noted in their lineage, all halflings generate ability scores as follows.
 
 ***Strength.*** <!--Add copy here -->
 ***Dexterity.*** <!--Add copy here -->
@@ -36,6 +36,6 @@ Except where noted in thier lineage, all halflings generate ability scores as fo
 ***Speed.*** <!--Add copy here -->
 ***Languages.*** <!--Add copy here -->
 
-### Halfling Callings
+### Halfling Classes
 
 <!--Add copy here -->
