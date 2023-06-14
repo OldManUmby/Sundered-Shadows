@@ -26,13 +26,18 @@
 - [x] ***BackCover.*** Create initial copy text of the game summary on the Back Cover.
 - [x] ***Introduction.*** Add a placeholder for "This Game IS and IS NOT."
 - [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
+
+
+
+## Under Construction
+
+###### Gameplay
+
+- [ ] ***Game Mechanics.*** Turns, Initiative, and Checks.
+
+###### Races
+
 - [ ] ***Dwarf Description.*** Create initial copy text for race and lineages.
-
-
-
-## Up Next ...
-
-###### Ancestry
 
 - [ ] ***Dwarf Features.*** Create racial traits.
 
@@ -45,9 +50,9 @@
 - [ ] ***Human Description.*** Create initial copy text for race and lineages.
 - [ ] ***Human Features.*** Create racial traits.
 
-###### Callings
+###### Classes
 
-- [ ] ***Dwarf Callings.*** Create the initial archetypes.
-- [ ] ***Elf Callings.*** Create the initial archetypes.
-- [ ] ***Halfling Callings.*** Create the initial archetypes.
-- [ ] ***Human Callings.*** Create the initial archetypes.
+- [ ] ***Dwarf Classes.*** Create the initial archetypes.
+- [ ] ***Elf Classes.*** Create the initial archetypes.
+- [ ] ***Halfling Classes.*** Create the initial archetypes.
+- [ ] ***Human Classes.*** Create the initial archetypes.
