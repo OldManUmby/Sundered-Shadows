@@ -10,7 +10,7 @@ Anytime a character is challenged, attempts something new, or the outcome is in 
 
 ### Difficulty Class
 
-The gamemaster determines the Difficulty Class (DC) for unopposed actions, starting with the DC table below. The DC may fall or rise, -4 thru +4, based upon any additional modifiers the gamemaster determines.
+The gamemaster determines the Difficulty Class (DC) for unopposed actions, starting with the DC table below. The DC may fall or rise per the gamemaster.
 
 | Difficulty | Easy | Moderate | Difficult | Extreme |
 | :--------: | :--: | :------: | :-------: | :-----: |
@@ -20,9 +20,9 @@ The gamemaster determines the Difficulty Class (DC) for unopposed actions, start
 
 Roll 1d20 + proficiency +/- modifiers versus the Difficulty Class (DC).
 
-***Action is Opposed.*** DC = The opponent's Armor Class (AC) or a `Skill Check (SC)` rolled by the GM.
+***Action is Opposed.*** DC = The opponent's Armor Class (AC) or an opposed `Skill Check (SC)` rolled by the GM.
 
-***Action is Unopposed.*** DC = The Difficulty assigned by the GM.
+***Action is Unopposed.*** DC = The Difficulty assigned by the GM, -4 thru +4, based upon any additional modifiers the gamemaster determines.
 
 ***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful, else it fails.
 
