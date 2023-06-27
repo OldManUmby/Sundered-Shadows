@@ -6,11 +6,11 @@
 
 <!--Add Types of Actions here -->
 
-Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. This check will be compared against a Difficulty Class to resolve the outcome.
+Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. This check is rolled by the player and will be compared against a Difficulty Class to resolve the outcome.
 
 ### Difficulty Class
 
-The gamemaster determines the Difficulty Class (DC) for unopposed actions, starting with the DC table below. The DC may fall or rise per the gamemaster.
+The gamemaster determines the Difficulty Class (DC) for unopposed actions, starting with the DC table below. The DC may fall or rise per the gamemaster's keen understanding of the situation.
 
 | Difficulty | Easy | Moderate | Difficult | Extreme |
 | :--------: | :--: | :------: | :-------: | :-----: |
