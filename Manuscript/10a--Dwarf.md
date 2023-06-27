@@ -2,7 +2,7 @@
 
 *"There's no one more stubborn than a dwarf or more loyal."*
 
-The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence that is replete with song, dancing, and humor despite being frequently perceived as severe and stern. Joyous laughing and the clinking of tankards may be heard resonating through dwarven halls during big victory celebrations and festivals to honor their gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats.
+The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence that is replete with song, dance, and humor despite being frequently perceived as severe and stern. Hardy laughing and the clinking of tankards may be heard resonating through dwarven halls during big victory celebrations and festivals to honor their gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats.
 
 #### Stout and Hardy
 
@@ -14,7 +14,7 @@ The Dwarves are unequaled artisans and master craftsmen known for their unrivale
 
 #### Clans and Kinship
 
-Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethics, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
+Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
 
 #### Beyond the Mountains
 
@@ -42,14 +42,12 @@ The Deep Dwarves' close ties to the dark have influenced their way of life. They
 
 ##### Deep Dwarf Traits
 
-***Darkvision.*** `See acuity in total darkness to a range of 60 feet.`
+***Darkvision.*** `See acutely in total darkness to a range of 60 feet.`
 ***Shadowcraft.*** `Blend into shadows and dark places (as Invisibility spell).`
 
 #### Hill Dwarf
 
-Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. 
-
-Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
+Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
 
 ##### Connected to Nature
 
