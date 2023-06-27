@@ -4,7 +4,7 @@ A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pasti
 
 ## Who Plays What?
 
-The players are responsible for the actions of the protagonist - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists - a.k.a. non-player characters (NPCs).
+The players are responsible for the actions of the protagonist - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists - a.k.a. non-player characters (NPCs). A Monster is also a form of protagonist or character.
 
 Although it's the gamemaster's job to create the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's - or character's - point of view.
 
