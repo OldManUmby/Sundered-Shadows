@@ -32,13 +32,13 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 *DC = The Difficulty is assigned by the GM starting with the Difficulting Class table below.*
 
-#### Assigning The DC
-
-:: Table: Difficulty Class
+:: Table: Difficulty Classes
 
 | Difficulty | Easy | Moderate | Hard | Extreme |
 | :--------: | :--: | :------: | :--: | :-----: |
 |   **DC**   |  5   |    10    |  15  |   20+   |
+
+#### Adjusting The DC
 
 ***DC Modifiers.*** The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
