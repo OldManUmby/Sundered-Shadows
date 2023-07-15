@@ -38,11 +38,11 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 ***DC Modifiers.*** The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
-***Mundane Actions.*** A `DC 0` is considered a mundane action for any character. In such cases, the gamemaster may wave the action check entirely as it is regarded as an automatic success. However, any character may still play the odds.
+***Mundane Actions.*** Through modifiers, if an action reaches `DC 0`  or less, it is considered a mundane action for any character. In such cases, the gamemaster may wave the action check entirely as an automatic success. However, the performance is considered PR 1; to improve the performance rating of a mundane action, a character may `Play the Odds`.
 
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Impossible Actions.*** A `DC 25` is considered an impossible action for `mortal characters`. In such cases, the gamemaster will wave the action check entirely as it is regarded as an automatic failure. `However, an immortal character may roll an impossible action check.`
+***Impossible Actions.*** A `DC 25` is considered an impossible action for `mortal characters`. In such cases, the gamemaster will wave the action check entirely as an automatic failure. `However, an immortal character may roll an impossible action check.`
 
 ### Performance Rating
 
@@ -60,7 +60,7 @@ When an action succeeds, performance is calculated. Subtract the required DC of 
 
 When things get dicey, each character and opponent gets a turn. One player rolls 1d6 for their side versus a roll by the gamemaster. Each side modifies its die with the `lowest Combat Proficiency` of those entering initiative.
 
-`In a one-on-one conflict, participants may add their Dexterity bonuses, and reach weapons gain advantage on initiative rolls versus non-reach weapons.`
+Participants may add their Dexterity bonuses in a one-on-one conflict, and reach weapons gain advantage on initiative rolls versus non-reach weapons.`
 
 The side with the highest roll gets to declare their actions first and chooses the order of character actions as needed; this simulates the characters working together in combat.
 
