@@ -38,7 +38,7 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some obvious oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Impossible Actions.*** A DC 25 is considered an impossible action for mortal characters. In such cases, the gamemaster will wave the action check entirely as it is considered an automatic failure. However, an immortal character may roll an impossible action check.
+***Impossible Actions.*** A DC 25 is considered an impossible action for `mortal characters`. In such cases, the gamemaster will wave the action check entirely as it is considered an automatic failure. `However, an immortal character may roll an impossible action check.`
 
 ### Performance Rating
 
