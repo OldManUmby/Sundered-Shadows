@@ -30,15 +30,15 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 | Difficulty | Easy | Moderate | Hard | Extreme |
 | :--------: | :--: | :------: | :--: | :-----: |
-|   **DC**   |  5   |    10    |  15  |   20    |
+|   **DC**   |  5   |    10    |  15  |   20+   |
 
-***DC Modifiers.*** The Difficulty Class table is only a starting point, from here, the gamemaster adjusts the DC, -5 thru +5, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is 0 thru 25; a DC cannot be any lower or higher.
+***DC Modifiers.*** The Difficulty Class table is only a starting point, from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
-***Mundane Actions.*** A DC 0 is considered a mundane action for any character. In such cases, the gamemaster may wave the action check entirely as it is considered an automatic success. However, any character may still play the odds.
+***Mundane Actions.*** A `DC 0` is considered a mundane action for any character. In such cases, the gamemaster may wave the action check entirely as it is considered an automatic success. However, any character may still play the odds.
 
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some obvious oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Impossible Actions.*** A DC 25 is considered an impossible action for `mortal characters`. In such cases, the gamemaster will wave the action check entirely as it is considered an automatic failure. `However, an immortal character may roll an impossible action check.`
+***Impossible Actions.*** A `DC 25` is considered an impossible action for `mortal characters`. In such cases, the gamemaster will wave the action check entirely as it is considered an automatic failure. `However, an immortal character may roll an impossible action check.`
 
 ### Performance Rating
 
