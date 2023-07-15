@@ -16,6 +16,8 @@ Although it's the gamemaster's job to create the adventures, it's everyone's job
 >
 > If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
 
+
+
 ## What do I need to play?
 
 A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
@@ -35,7 +37,3 @@ These customary conventions are practiced throughout this ruleset.
 ***Specific Beats General.*** You may find aspects of the rules that break or contradict other elements. When a contradiction occurs, specific rules often beat general rules; however, the gamemaster will arbitrate as needed.
 
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction.
-
-<!--Add Conventions here-->
-
-==WORK IN PROGRESS==
