@@ -38,11 +38,11 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 ***DC Modifiers.*** The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
-***Mundane Actions.*** Through modifiers, if an action reaches `DC 0`  or less, it is considered a mundane action for any character. In such cases, the gamemaster may wave the action check entirely as an automatic success. However, the performance is considered PR 1; to improve the performance rating of a mundane action, a character may `Play the Odds`.
+***Mundane Actions.*** Through modifiers, if an action reaches `DC 0`  or less, it is considered a mundane action for any character. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic success. However, the performance is considered PR 1; to improve the performance rating of a mundane action, a character may `Play the Odds`.
 
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Impossible Actions.*** A `DC 25` is considered an impossible action for `mortal characters`. In such cases, the gamemaster will wave the action check entirely as an automatic failure. `However, an immortal character may roll an impossible action check.`
+***Impossible Actions.*** An action of DC 25 or higher may be considered an impossible action for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
 
 ### Performance Rating
 
