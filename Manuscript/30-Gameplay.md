@@ -12,11 +12,11 @@ Anytime a character is challenged, attempts something new, or the outcome is in 
 
 *Roll 1d20 + proficiency +/- modifiers versus the Difficulty Class (DC).*
 
-***Advantage.*** A character with an overwhelming situational advantage gains an extra d20 for the action check, of the two dice, the highest rolled die is used for the outcome; the lower die is discarded. The `rules and the GM` will determine when an disadvanatge exists.
+***Advantage.*** A character with an obvious situational advantage gains an extra d20 for the action check, of the two dice, the *highest* rolled die is used for the outcome; the *lower* rolled die is discarded. The `rules and the GM` will determine when an disadvanatge exists.
 
-***Disadvantage.*** A character with an overwhelming situational disadvantage gains an extra d20 for the action check, of the two dice, the lowest rolled die is used for the outcome; the higher die is discarded. The `rules and the GM` will determine when an disadvanatge exists.
+***Disadvantage.*** A character with an obvious situational disadvantage gains an extra d20 for the action check, of the two dice, the *lowest* rolled die is used for the outcome; the *higher* rolled die is discarded. The `rules and the GM` will determine when an disadvanatge exists.
 
-***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails; both have significant results.
+***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails.
 
 ### Difficulty Class
 
