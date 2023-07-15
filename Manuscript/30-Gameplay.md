@@ -16,7 +16,7 @@ Anytime a character is challenged, attempts something new, or the outcome is in 
 
 ***Disadvantage.*** A character with an apparent situational disadvantage gains an extra d20 for the action check, of the two dice, the *lowest* rolled die is used for the outcome; the *higher* rolled die is discarded. The `rules and the GM` will determine when a disadvantage exists.
 
-***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails.
+***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails. If successful, a performance rating is then calculated.
 
 ### Difficulty Class
 
