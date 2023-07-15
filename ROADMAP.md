@@ -29,13 +29,13 @@
 
 ###### July 14th, 2023
 
-- [x] ***Game Mechanics.*** Action Check, Difficulty Class, and Performance Rating.
+- [x] ***Game Mechanics.*** Define Action Check, Difficulty Class, and Performance Rating.
 
-- [x] ***Game Mechanics.*** Added the idea of Mortal/Immortal characters.
+- [x] ***Game Mechanics.*** Add the idea of Mortal/Immortal characters.
 
 ###### July 15th, 2023
 
-- [x] ***Game Mechanics.*** Advantage/Disadvantage.
+- [x] ***Game Mechanics.*** Add Advantage/Disadvantage.
 - [ ] 
 
 
