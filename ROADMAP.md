@@ -27,13 +27,17 @@
 - [x] ***Introduction.*** Add a placeholder for "This Game IS and IS NOT."
 - [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
 
+###### July 15th, 2023
+
+- [x] ***Game Mechanics.*** Action Check, Difficulty Class, and Performance Rating.
+
 
 
 ## Work-In-Progress
 
 ###### Gameplay
 
-- [ ] ***Game Mechanics.*** Turns, Initiative, and Checks.
+- [ ] ***Game Mechanics.*** Turns and Initiative.
 
 ###### Races
 
