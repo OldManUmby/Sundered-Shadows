@@ -18,6 +18,8 @@ Anytime a character is challenged, attempts something new, or the outcome is in 
 
 ***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails. If successful, a performance rating is then calculated.
 
+***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` Performance is significant as it determines the finality of the action.
+
 ### Difficulty Class
 
 The gamemaster determines the Difficulty Class (DC) for all actions starting with the question, "Is the action opposed or unopposed?"
@@ -43,10 +45,6 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
 ***Impossible Actions.*** An action of DC 25 or higher may be considered an impossible action for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
-
-### Performance Rating
-
-When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the result is the action's Performance Rating (PR). For example, an action check rolling an 18 against a DC 15 yields a PR 3 (18-15=3). Performance is significant as it determines the finality of the action.
 
 ### Movement
 
