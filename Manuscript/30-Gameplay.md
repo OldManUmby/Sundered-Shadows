@@ -18,7 +18,7 @@ Anytime a character is challenged, attempts something new, or the outcome is in 
 
 ***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails. If successful, a performance rating is then calculated.
 
-***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` `Performance is significant as it determines the finality of the action.`
+***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` `Performance Rating is significant as it determines the finality of actions.`
 
 ### Difficulty Class
 
