@@ -6,7 +6,7 @@
 
 <!--Add Types of Actions here -->
 
-Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. The player rolls the check; then, it will be compared against a Difficulty Class to determine the action's performance.
+Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. Next, the player rolls the check, comparing it against a Difficulty Class to determine the action's performance.
 
 ### Action Check
 
@@ -60,7 +60,7 @@ When an action succeeds, performance is calculated. Subtract the required DC of 
 
 When things get dicey, each character and opponent gets a turn. One player rolls 1d6 for their side versus a roll by the gamemaster. Each side modifies its die with the `lowest Combat Proficiency` of those entering initiative.
 
-`In a one-on-one conflict, both participants may add their Dexterity bonuses, and reach weapons gain advantage on initiative rolls versus non-reach weapons.`
+`In a one-on-one conflict, participants may add their Dexterity bonuses, and reach weapons gain advantage on initiative rolls versus non-reach weapons.`
 
 The side with the highest roll gets to declare their actions first and chooses the order of character actions as needed; this simulates the characters working together in combat.
 
