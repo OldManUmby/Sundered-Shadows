@@ -6,9 +6,7 @@ A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pasti
 
 *Sundered Shadows* (SSRPG) is a return to non-tactical, theatre-of-the-mind gameplay. *Sundered Shadows* is a rules-lite, d20-based system designed for storytelling, danger, and action flow, and yet allows for a sundry of character features, gear, and supplemental rules. *Sundered Shadows* runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
 
-> ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Sundered Shadows. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players using theatre-of-the-mind. Many modern rulesets rely on tactical rules that simply get in the way and interfere with the creativity of the moment. These games utilize a tactical landscape that is too restrictive, it's like watching a turn-by-turn video game in slow motion, and it gets worse under most virtual tabletops (VTTs). Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick cinematic detail without worrying about the tactical rules.
->
-> Although handouts and maps can be utilized, this methodology allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure. Some consider this mind’s eye approach the quintessential gaming style!
+> ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Sundered Shadows. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many modern rulesets rely on tactical rules that simply get in the way and interfere with the moment's creativity. These games utilize a tactical landscape that is too restrictive, it's like watching a turn-by-turn video game in slow motion, and it gets worse under the guise of virtual tabletops (VTTs). Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick cinematic detail without worrying about the tactical rules. Although handouts and maps can be utilized, this methodology allows gaming groups to concentrate more on the storylines, descriptions, and characterizations. This provides an opportunity to visualize and respond to everything in more detail and in less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure. Many consider this mind’s eye approach the quintessential gaming style!
 
 ## Who Plays What?
 
@@ -16,7 +14,7 @@ The players are responsible for the actions of the protagonists - a.k.a. player 
 
 ### Expectations
 
-One of the most critical aspects of *Sundered Shadows* is that the gamemaster has the final say over any rule, decision, or situation. If the GM wishes to change or houserule anything in the game, that is within the GM's purview. However, it's always best to set expectations and any rule changes before playing; a good session zero can be utilized this way.
+One of the most critical aspects of *Sundered Shadows* is that the gamemaster arbitrates everything and has the final say over any rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game, that is within the GM's purview. However, it's always best to set expectations and any rule changes before playing; a good session zero can be utilized this way.
 
 ## What do I need to play?
 
