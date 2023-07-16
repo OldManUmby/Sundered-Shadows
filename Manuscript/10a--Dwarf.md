@@ -64,14 +64,6 @@ Mountain Dwarves excel at building majestic structures that stand the test of ti
 
 <!--Add Traits here -->
 
-#### Sundered Dwarf
-
-<!--Add copy here -->
-
-##### Sundered Dwarf Traits
-
-<!--Add Traits here -->
-
 ### Dwarven Archetypes
 
 <!--Add copy here -->
