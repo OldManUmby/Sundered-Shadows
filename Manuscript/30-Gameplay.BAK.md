@@ -2,11 +2,11 @@
 
 The core of Sundered Shadows assumes that character actions do not represent a solitary movement; instead, an action is a series of quick, combined activities. For example, spellcasting involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While swordplay involves many quick feints, parries, thrusts, and short maneuvers, all in a relatively short period. Remembering and emphasizing this process when determining and describing actions is essential during gameplay.
 
-### Action
+## Actions
 
 Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the difficulty, and calculates its performance. All other actions are considered routine or freebies and require no action check.
 
-Standard actions include attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
+Standard actions include attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`; these are the most common actions a character will perform.
 
 ### Non-Standard Actions
 
@@ -26,7 +26,7 @@ Standard actions include attacking, defending, maneuvering, spellcasting, and us
 
 <!--Add examples here -->
 
-## Action Check
+### Action Check
 
 *Roll 1d20 + proficiency +/- modifiers versus the Difficulty Class (DC).*
 
