@@ -4,23 +4,47 @@
 
 ## Actions
 
-<!--Add Types of Actions here -->
+Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate check, compares it against the difficulty, and determines its effectiveness. `Actions that require no action check are called freebie actions.`
 
-Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. Next, the player rolls the check, comparing it against a Difficulty Class to determine the action's performance.
+Standard actions include attacking, defending, maneuvering, spellcasting, and using abilities, skills, and devices.
 
-### Action Check
+Given the length of time involved in a character's turn, actions do not represent a solitary movement but rather a series of quick, short movements. For example, the casting of a spell requires multiple factors involving specific vocal, somatic, and material components, plus the use of a spell focus, all working in unison. Another example includes an attack with a sword that may involve several quick feints, thrusts, and maneuvers before a damaging strike occurs.
 
-*Roll 1d20 + proficiency +/- modifiers versus the Difficulty Class (DC).*
+### Non-Standard Action Types
 
-***Advantage.*** A character with an apparent situational advantage gains an extra d20 for the action check, of the two dice, the *highest* rolled die is used for the outcome; the *lower* rolled die is discarded. The `rules and the GM` will determine when an advantage exists.
+***Bonus.*** Momentum and extra actions gained under special circumstances.
 
-***Disadvantage.*** A character with an apparent situational disadvantage gains an extra d20 for the action check, of the two dice, the *lowest* rolled die is used for the outcome; the *higher* rolled die is discarded. The `rules and the GM` will determine when a disadvantage exists.
+<!--Add examples here -->
 
-***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails. If successful, a performance rating is then calculated.
+***Extended.*** Tasks requiring more than one action to perform.
 
-***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` `Performance Rating is significant as it determines the finality of actions.`
+<!--Add examples here -->
 
-### Difficulty Class
+***Group.*** An assisted action check performed by multiple characters. `Initiative is a group action.`
+
+<!--Add examples here -->
+
+***Save.*** A reaction involving a character's natural ability and experience.
+
+<!--Add examples here -->
+
+## Action Check
+
+To check an action, roll 1d20, then add the appropriate ability rating, proficiency, and any modifiers. Then, compare the roll against the difficulty class.
+
+> **1d20 + Ability + Proficiency + Modifiers vs. Difficulty Class.**
+
+***Advantage.*** A character with a situational advantage gains an extra d20 for the action check; of the two dice, the *highest* die rolled is used for the outcome; the *lower* die rolled is discarded. The `rules and the GM` will determine when an advantage exists.
+
+***Disadvantage.*** A character with a situational disadvantage gains an extra d20 for the action check; of the two dice, the *lowest* die rolled is used for the outcome; the *higher* die rolled is discarded. The `rules and the GM` will determine when a disadvantage exists.
+
+***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails. If successful, effectiveness is then calculated.
+
+***Effectiveness.*** When an action succeeds, subtract the required DC of the action check from the roll's outcome; the difference is the effectiveness of the action.
+
+> ** Roll - DC = Effectiveness.**
+
+## Difficulty Class
 
 The gamemaster determines the Difficulty Class (DC) for all actions starting with the question, "Is the action opposed or unopposed?"
 
@@ -38,7 +62,7 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 | :--------: | :--: | :------: | :--: | :-----: |
 |   **DC**   |  5   |    10    |  15  |   20+   |
 
-#### Adjusting The DC
+## Action Modifiers
 
 ***DC Modifiers.*** The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
@@ -48,7 +72,7 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 ***Impossible Actions.*** An action of DC 25 or higher may be considered an impossible action for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
 
-### Movement
+## Movement
 
 <!--Add copy here -->
 
