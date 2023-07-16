@@ -14,7 +14,7 @@ One of the most important aspects of *Sundered Shadows* is that the gamemaster h
 
 ## What is Sundered Shadows?
 
-*Sundered Shadows* (SSRPG) is a rules-lite d20-based old-school renaissance (OSR) roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features, gear, and optional rules. *Sundered Shadows* is a non-tactical "theatre of the mind" game, meaning it runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
+*Sundered Shadows* (SSRPG) is a rules-lite d20-based old-school renaissance (OSR) roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features, gear, and optional rules. *Sundered Shadows* is a non-tactical `theatre of the mind` game, meaning it runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
 
 >  ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
 >
