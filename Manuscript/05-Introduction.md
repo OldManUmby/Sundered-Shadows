@@ -4,9 +4,13 @@ A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pasti
 
 ## Who Plays What?
 
-The players are responsible for the actions of the protagonist - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists - a.k.a. non-player characters (NPCs). A Monster is also a form of protagonist or character.
+The players are responsible for the actions of the protagonist - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists - a.k.a. non-player characters (NPCs). All animals and monsters are also forms of NPCs.
 
 Although it's the gamemaster's job to create the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's - or character's - point of view.
+
+### Expectations
+
+One of the most important aspects of *Sundered Shadows* is that the gamemaster has the final say over any adventure, campaign, or gameplay decisions and all the rules of this system. If the GM wishes to change or houserule anything in the game, then that is within the GM's purview. However, it's always best to set expectations and rule changes before playing; a good session zero can be utilized in this way.
 
 ## What is Sundered Shadows?
 
@@ -15,8 +19,6 @@ Although it's the gamemaster's job to create the adventures, it's everyone's job
 >  ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
 >
 > If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
-
-
 
 ## What do I need to play?
 
