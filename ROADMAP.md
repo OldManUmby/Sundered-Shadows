@@ -36,9 +36,7 @@
 ###### July 15th, 2023
 
 - [x] ***Game Mechanics.*** Add Advantage/Disadvantage.
-- [ ] 
-
-
+- [x] ***Introduction.*** Add expectations.
 
 ## Work-In-Progress
 
