@@ -4,13 +4,13 @@ The core of Sundered Shadows assumes that character actions do not represent a s
 
 ## Actions
 
-Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the difficulty, and calculates its performance. All other actions are considered routine or freebies and require no action check.
+Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the opposition, and calculates its effectiveness. All other actions are considered routine or freebies and require no action check.
 
 Standard actions include attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`; these are the most common actions a character will perform.
 
 ### Non-Standard Actions
 
-***Bonus.*** Momentum and extra actions gained under special circumstances.
+***Bonus.*** Extra action checks gained for reasons of momentum or special circumstances.
 
 <!--Add examples here -->
 
@@ -22,13 +22,13 @@ Standard actions include attacking, defending, maneuvering, spellcasting, and us
 
 <!--Add examples here -->
 
-***Save.*** A reaction involving a character's natural ability and experience.
+***Save.*** A reaction check involving a character's natural ability and experience.
 
 <!--Add examples here -->
 
 ### Action Check
 
-*Roll 1d20 + proficiency +/- modifiers versus the Difficulty Class (DC).*
+*Roll 1d20 + Proficiency + Modifiers vs. DC*
 
 ***Advantage.*** A character with an apparent situational advantage gains an extra d20 for the action check, of the two dice, the *highest* rolled die is used for the outcome; the *lower* rolled die is discarded. The `rules and the GM` will determine when an advantage exists.
 
@@ -38,13 +38,13 @@ Standard actions include attacking, defending, maneuvering, spellcasting, and us
 
 ***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` `Performance Rating is significant as it determines the finality of actions.`
 
-## Difficulty Class
+### Defense/Difficulty Check
 
 The gamemaster determines the Difficulty Class (DC) for all actions starting with the question, "Is the action opposed or unopposed?"
 
-***Action is Opposed.*** Refers to actions that are in direct conflict with another character's action. For example, a character attacks while an opposed character defends, or a character hides while an opposed character searches.
+***Action is Opposed.*** Refers to actions that are in direct conflict with another character's action. For example, a character attacks while an opposed character defends, or a character hides while an opposed character searches. When a character is attacking, they are automatically opposed, and the difficulty class is synonymous with defense class, as both use the acronym DC.
 
-*DC = The opponent's Armor Class (AC) or an opposed `Skill Check (SC)` rolled by the GM.*
+*DC = The opponent's Defense Class (DC) or an opposed `Skill Check (SC)` rolled by the GM*
 
 ***Action is Unopposed.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties. For example, a character is attempting to fix a broken wagon wheel or trying to lift a heavy object; there is no opposed character involved, just a level of difficulty.
 
