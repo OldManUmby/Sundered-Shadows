@@ -20,7 +20,7 @@ One of the most critical aspects of *Sundered Shadows* is that the gamemaster ha
 
 ## What do I need to play?
 
-A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats. See `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably a set for each person.
+A few supplies are needed to utilize this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats; see `Appendix $$` for various game aids and sheets. Also, the playgroup will need a set of gaming dice, preferably for each person.
 
 ### The Dice
 
