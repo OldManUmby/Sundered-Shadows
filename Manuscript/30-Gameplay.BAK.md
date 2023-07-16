@@ -1,14 +1,8 @@
 # ==GAMEPLAY==
 
-<!--Add copy here -->
+The core of Sundered Shadows assumes that character actions do not represent a solitary movement; instead, an action is a series of quick, combined activities. For example, spellcasting involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While swordplay involves many quick feints, parries, thrusts, and short maneuvers, all in a relatively short period. Remembering and emphasizing this process when determining and describing actions is essential during gameplay.
 
-## Actions
-
-Actions do not represent a solitary movement; rather, an action is a series of quick, combined movements, especially given the time involved during a character's turn. For example, casting a spell involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While attacking with a sword involves many quick feints, parries, thrusts, and short side-to-side movements before any actual harm can be done. This process cannot be duplicated in a tactical environment and is an important concept to remember when determining the game style and actions of a character.
-
-<!--Also, for this reason, *Sundered Shadows* utilizes resource dice for tracking things like ammo and supplies in lots, rather than every individual piece of gear (see Resouce Dice for more information).-->
-
-## Actions
+### Action
 
 Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the difficulty, and calculates its performance. All other actions are considered routine or freebies and require no action check.
 
@@ -70,7 +64,7 @@ The Difficulty Class table is only a starting point; from here, the gamemaster a
 
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Impossible Actions.*** An action of DC 25 or higher may be considered an impossible action for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
+***Impossible Actions.*** A DC 25 or higher action may be considered impossible for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
 
 ## Movement
 
