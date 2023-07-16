@@ -4,11 +4,13 @@
 
 ## Actions
 
-Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate check, compares it against the difficulty, and determines its effectiveness. `Actions that require no action check are called freebie actions.`
+Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate check, compares it against the difficulty, and determines its performance. All other actions are considered routine or freebies and require no action check.
 
 Standard actions include attacking, defending, maneuvering, spellcasting, and using abilities, skills, and devices.
 
-Given the length of time involved in a character's turn, actions do not represent a solitary movement but rather a series of quick, short movements. For example, the casting of a spell requires multiple factors involving specific vocal, somatic, and material components, plus the use of a spell focus, all working in unison. Another example includes an attack with a sword that may involve several quick feints, thrusts, and maneuvers before a damaging strike occurs.
+### What Do Actions Represent?
+
+Given the time involved during a character's turn, actions do not represent a solitary movement but rather a series of quick, combined movements. For example, casting a spell involves specific vocal, somatic, and material components, and a spell focus, all working in unison. Another example includes attacking with a sword, which may involve several quick feints, thrusts, and short maneuvers before any actual harm is done.
 
 ### Non-Standard Action Types
 
@@ -32,7 +34,7 @@ Given the length of time involved in a character's turn, actions do not represen
 
 To check an action, roll 1d20, then add the appropriate ability rating, proficiency, and any modifiers. Then, compare the roll against the difficulty class.
 
-> **1d20 + Ability + Proficiency + Modifiers vs. Difficulty Class.**
+> **1d20 + Ability + Proficiency + Modifiers vs. DC.**
 
 ***Advantage.*** A character with a situational advantage gains an extra d20 for the action check; of the two dice, the *highest* die rolled is used for the outcome; the *lower* die rolled is discarded. The `rules and the GM` will determine when an advantage exists.
 
@@ -44,13 +46,19 @@ To check an action, roll 1d20, then add the appropriate ability rating, proficie
 
 > ** Roll - DC = Effectiveness.**
 
-## Difficulty Class
+## Defense/Difficulty Class
 
-The gamemaster determines the Difficulty Class (DC) for all actions starting with the question, "Is the action opposed or unopposed?"
+DC refers to either Defense Class or Difficulty Class; they are synonymous and represent a target number needed to perform an action.
 
-***Action is Opposed.*** Refers to actions that are in direct conflict with another character's action. For example, a character attacks while an opposed character defends, or a character hides while an opposed character searches.
+***Defense Class.*** A target number representing the capacity to defend against opposed combat actions. An opposed action refers to an action that is in direct opposition to another character's action. For example, a character attacks while an opposed character defends -or- a character hides while an opposed character searches.
 
-*DC = The opponent's Armor Class (AC) or an opposed `Skill Check (SC)` rolled by the GM.*
+***Difficulty Class.*** A target number representing the level of difficulty in performing unopposed non-combat actions.
+
+The gamemaster determines the DC for all actions starting with the question, "Is the action opposed or unopposed?"
+
+***Action is Opposed.*** Refers to an action that is in direct opposition to another character's action. For example, a character attacks while an opposed character defends -or- a character hides while an opposed character searches.
+
+*DC = The opposition's `Defense` or opposed Action Check rolled by the GM.*
 
 ***Action is Unopposed.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties. For example, a character is attempting to fix a broken wagon wheel or trying to lift a heavy object; there is no opposed character involved, just a level of difficulty.
 
@@ -66,11 +74,11 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 ***DC Modifiers.*** The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
-***Mundane Actions.*** Through modifiers, if an action reaches `DC 0`  or less, it is considered a mundane action for any character. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic success. However, the performance is considered PR 1; to improve the performance rating of a mundane action, a character may `Play the Odds`.
+***Mundane Actions.*** Through modifiers, if an action reaches `DC 0`  (or less), it is considered a mundane action for any character. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic success. However, the performance is considered PR 1; to improve the performance rating of a mundane action, a character may `Play the Odds`.
 
 > ***Play the Odds.*** If a character (or the GM) still wishes to determine the performance of a mundane action, an action check can be made, but doing so returns the action to a *non-mundane* status of DC 2. Thus, if the check rolls a 1, a `Critical Failure` occurs due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Impossible Actions.*** An action of DC 25 or higher may be considered an impossible action for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
+***Impossible Actions.*** A DC 25 or higher action may be considered impossible for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
 
 ## Movement
 

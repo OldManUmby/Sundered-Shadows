@@ -4,6 +4,34 @@
 
 ## Actions
 
+Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the difficulty, and calculates its performance. `All other actions are considered routine or freebies and require no action check.`
+
+Standard actions include attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
+
+### What Do Actions Represent?
+
+Actions do not represent a solitary movement, not given the time involved during a character's turn, but rather a series of quick, combined movements. For example, casting a spell involves specific vocal, somatic, and material components, plus a spell focus, all working in unison. While attacking with a sword involves many quick feints, thrusts, and short movements before any actual harm may be done. This is why `theatre of the mind` works so well and, for this reason, why *Sundered Shadows* utilizes resource dice for tracking things like ammo and supplies lots rather than every individual piece of gear (see Resouce Dice for more information).
+
+### Non-Standard Action Types
+
+***Bonus.*** Momentum and extra actions gained under special circumstances.
+
+<!--Add examples here -->
+
+***Extended.*** Tasks requiring more than one action to perform.
+
+<!--Add examples here -->
+
+***Group.*** An assisted action check performed by multiple characters. `Initiative is a group action.`
+
+<!--Add examples here -->
+
+***Save.*** A reaction involving a character's natural ability and experience.
+
+<!--Add examples here -->
+
+## Actions
+
 <!--Add Types of Actions here -->
 
 Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. Next, the player rolls the check, comparing it against a Difficulty Class to determine the action's performance.
