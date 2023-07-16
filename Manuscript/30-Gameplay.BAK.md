@@ -4,10 +4,9 @@
 
 ## Actions
 
-Actions do not represent a solitary movement, not given the time involved during a character's turn, but rather a series of quick, combined movements. For example, casting a spell involves specific vocal, somatic, and material components, plus a spell focus, all working in unison. While attacking with a sword involves many quick feints, parries, thrusts, and short side-to-side movements before any actual harm can be done. This process cannot be duplicated in a tactical environment and is an important concept to remember when determining the game style and actions of a character.
+Actions do not represent a solitary movement; rather, an action is a series of quick, combined movements, especially given the time involved during a character's turn. For example, casting a spell involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While attacking with a sword involves many quick feints, parries, thrusts, and short side-to-side movements before any actual harm can be done. This process cannot be duplicated in a tactical environment and is an important concept to remember when determining the game style and actions of a character.
 
-> ***Cinematics.*** This is why the `theatre of the mind` methodology works so well; it's non-tactical and allows players to describe their character's actions in full cinematic detail. Tactical rules simply get in the way and interfere with the creativity of the moment. Using a turn-by-turn tactical landscape is too restrictive, like watching a video game in slow motion.
-> `Also, for this reason, *Sundered Shadows* utilizes resource dice for tracking things like ammo and supplies in lots, rather than every individual piece of gear (see Resouce Dice for more information).`
+<!--Also, for this reason, *Sundered Shadows* utilizes resource dice for tracking things like ammo and supplies in lots, rather than every individual piece of gear (see Resouce Dice for more information).-->
 
 ## Actions
 
