@@ -23,7 +23,7 @@
 
 ###### June 8th, 2023
 
-- [x] ***BackCover.*** Create initial copy text of the game summary on the Back Cover.
+- [x] ***Back Cover.*** Create initial copy text of the game summary on the Back Cover.
 - [x] ***Introduction.*** Add a placeholder for "This Game IS and IS NOT."
 - [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
 
