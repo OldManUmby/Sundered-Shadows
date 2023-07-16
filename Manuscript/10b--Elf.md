@@ -6,15 +6,15 @@
 
 Elven lineages have the traits of typical elves in addition to those specified.
 
+#### Dark Elf
+
+<!--Add copy here -->
+
 #### High Elf
 
 <!--Add copy here -->
 
 #### Wood Elf
-
-<!--Add copy here -->
-
-#### Dark Elf
 
 <!--Add copy here -->
 
