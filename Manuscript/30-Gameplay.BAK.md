@@ -4,21 +4,24 @@
 
 ## Actions
 
-Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the difficulty, and calculates its performance. `All other actions are considered routine or freebies and require no action check.`
+Actions do not represent a solitary movement, not given the time involved during a character's turn, but rather a series of quick, combined movements. For example, casting a spell involves specific vocal, somatic, and material components, plus a spell focus, all working in unison. While attacking with a sword involves many quick feints, parries, thrusts, and short side-to-side movements before any actual harm can be done. This process cannot be duplicated in a tactical environment and is an important concept to remember when determining the game style and actions of a character.
+
+> ***Cinematics.*** This is why the `theatre of the mind` methodology works so well; it's non-tactical and allows players to describe their character's actions in full cinematic detail. Tactical rules simply get in the way and interfere with the creativity of the moment. Using a turn-by-turn tactical landscape is too restrictive, like watching a video game in slow motion.
+> `Also, for this reason, *Sundered Shadows* utilizes resource dice for tracking things like ammo and supplies in lots, rather than every individual piece of gear (see Resouce Dice for more information).`
+
+## Actions
+
+Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the difficulty, and calculates its performance. All other actions are considered routine or freebies and require no action check.
 
 Standard actions include attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
 
-### What Do Actions Represent?
-
-Actions do not represent a solitary movement, not given the time involved during a character's turn, but rather a series of quick, combined movements. For example, casting a spell involves specific vocal, somatic, and material components, plus a spell focus, all working in unison. While attacking with a sword involves many quick feints, thrusts, and short movements before any actual harm may be done. This is why `theatre of the mind` works so well and, for this reason, why *Sundered Shadows* utilizes resource dice for tracking things like ammo and supplies lots rather than every individual piece of gear (see Resouce Dice for more information).
-
-### Non-Standard Action Types
+### Non-Standard Actions
 
 ***Bonus.*** Momentum and extra actions gained under special circumstances.
 
 <!--Add examples here -->
 
-***Extended.*** Tasks requiring more than one action to perform.
+***Extended.*** Tasks requiring more than one action check to perform.
 
 <!--Add examples here -->
 
@@ -30,13 +33,7 @@ Actions do not represent a solitary movement, not given the time involved during
 
 <!--Add examples here -->
 
-## Actions
-
-<!--Add Types of Actions here -->
-
-Anytime a character is challenged, attempts something new, or the outcome is in question, and a degree of success or failure must be ascertained, the gamemaster will request an Action Check. Next, the player rolls the check, comparing it against a Difficulty Class to determine the action's performance.
-
-### Action Check
+## Action Check
 
 *Roll 1d20 + proficiency +/- modifiers versus the Difficulty Class (DC).*
 
@@ -48,7 +45,7 @@ Anytime a character is challenged, attempts something new, or the outcome is in 
 
 ***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` `Performance Rating is significant as it determines the finality of actions.`
 
-### Difficulty Class
+## Difficulty Class
 
 The gamemaster determines the Difficulty Class (DC) for all actions starting with the question, "Is the action opposed or unopposed?"
 
@@ -66,9 +63,9 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 | :--------: | :--: | :------: | :--: | :-----: |
 |   **DC**   |  5   |    10    |  15  |   20+   |
 
-#### Adjusting The DC
+## Check Modifiers
 
-***DC Modifiers.*** The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
+The Difficulty Class table is only a starting point; from here, the gamemaster adjusts the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete DC range is `0 thru 25`; a DC cannot be any lower or higher.
 
 ***Mundane Actions.*** Through modifiers, if an action reaches `DC 0`  or less, it is considered a mundane action for any character. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic success. However, the performance is considered PR 1; to improve the performance rating of a mundane action, a character may `Play the Odds`.
 
@@ -76,7 +73,7 @@ The gamemaster determines the Difficulty Class (DC) for all actions starting wit
 
 ***Impossible Actions.*** An action of DC 25 or higher may be considered an impossible action for mortal characters. The gamemaster will make the determination. In such cases, the GM may wave the action check entirely as an automatic failure; no action check is allowed. However, an immortal character may still roll an impossible action check (see `Immortality` for more information).
 
-### Movement
+## Movement
 
 <!--Add copy here -->
 

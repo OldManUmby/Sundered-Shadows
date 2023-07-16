@@ -2,6 +2,14 @@
 
 A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pastime involving a playgroup of at least two players, though more players are typical. Together, this group plays through adventures in a fictional setting similar to a novel, TV series, or movie.
 
+## What is Sundered Shadows?
+
+*Sundered Shadows* (SSRPG) is a return to non-tactical, theatre-of-the-mind gameplay. *Sundered Shadows* is a rules-lite, d20-based system designed for storytelling, danger, and action flow, and yet allows for a sundry of character features, gear, and supplemental rules. *Sundered Shadows* runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
+
+> ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Sundered Shadows. Using theatre-of-the-mind, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many modern rulesets rely on tactical rules that simply get in the way and interfere with the creativity of the moment. These games utilize a tactical landscape that is too restrictive, it's like watching a turn-by-turn video game in slow motion, and it gets worse under most virtual tabletops (VTTs). Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick cinematic detail without worrying about the tactical rules.
+>
+> Although handouts and maps can be utilized, this methodology allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and in less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure. Some consider this mind’s eye approach the quintessential gaming style!
+
 ## Who Plays What?
 
 The players are responsible for the actions of the protagonist - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the protagonists - a.k.a. non-player characters (NPCs). All animals and monsters are also forms of NPCs.
@@ -10,15 +18,7 @@ Although it's the gamemaster's job to create the adventures, it's everyone's job
 
 ### Expectations
 
-One of the most important aspects of *Sundered Shadows* is that the gamemaster has the final say over any adventure, campaign, or gameplay decisions and all the rules of this system. If the GM wishes to change or houserule anything in the game, then that is within the GM's purview. However, it's always best to set expectations and rule changes before playing; a good session zero can be utilized in this way.
-
-## What is Sundered Shadows?
-
-*Sundered Shadows* (SSRPG) is a rules-lite d20-based old-school renaissance (OSR) roleplaying game designed for storytelling, danger, and action flow and yet allows for a sundry of character features, gear, and optional rules. *Sundered Shadows* is a non-tactical `theatre of the mind` game, meaning it runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
-
->  ***Theatre of the Mind.*** This style of play is where everything in-game is wholly imagined and takes place in the players' minds. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many groups rely on a mix of game aids, handouts, and maps, but at its core rests the detailed descriptions and visualizations of ‘theatre of the mind.’ Some consider this mind’s eye approach the quintessential gaming style.
->
-> If adequately utilized, theatre of the mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations, visualizing and responding to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
+One of the most important aspects of *Sundered Shadows* is that the gamemaster has the final say over any rule, decision, or situation. If the GM wishes to change or houserule anything in the game, then that is within the GM's purview. However, it's always best to set expectations and rule changes before playing; a good session zero can be utilized in this way.
 
 ## What do I need to play?
 
