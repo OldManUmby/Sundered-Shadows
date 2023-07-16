@@ -1,6 +1,6 @@
 # ==GAMEPLAY==
 
-The core of Sundered Shadows assumes that character actions do not represent a solitary movement; instead, an action is a series of quick, combined activities. For example, spellcasting involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While swordplay involves many quick feints, parries, thrusts, and short maneuvers, all in a relatively short period. Remembering and emphasizing this process when determining and describing actions is essential during gameplay.
+The core of Sundered Shadows assumes that character actions do not represent a solitary movement; instead, an action is a series of quick, combined maneuvers. For example, spellcasting involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While swordplay involves many feints, parries, thrusts, and concise moves, all in a relatively short period. Remembering and emphasizing this process when determining and describing actions is essential during gameplay.
 
 ## Actions
 
