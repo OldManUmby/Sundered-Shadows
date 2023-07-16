@@ -1,60 +1,48 @@
 # ==GAMEPLAY==
 
-The core of Sundered Shadows assumes that character actions do not represent a solitary movement; instead, an action is a series of quick, combined maneuvers. For example, spellcasting involves specific `vocal, somatic, and material components, plus a spell focus`, all working in unison. While swordplay involves many feints, parries, thrusts, and concise moves, all in a relatively short period. Remembering and emphasizing this process when determining and describing actions is essential during gameplay.
-
 ## Actions
 
-Anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check. Next, the player rolls the appropriate dice, compares it against the opposition, and calculates its effectiveness. All other actions are considered routine or freebies and require no action check.
+Most character actions do not typically require dice rolls; these are considered routine actions or freebies. However, anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
 
-Standard actions include attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`; these are the most common actions a character will perform.
+Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions requiring extreme exertion, or complex tasks requiring a degree of concentration or planning.
 
-### Non-Standard Actions
+### Action Types
 
-***Bonus.*** Extra action checks gained for reasons of momentum or special circumstances.
-
-<!--Add examples here -->
-
+***Standard.*** Action checks like attacking, defending, maneuvering, spellcasting, and using abilities, skills, and devices
+***Bonus.*** Extra action checks gained for reasons of momentum or exceptional circumstances.
 ***Extended.*** Tasks requiring more than one action check to perform.
-
-<!--Add examples here -->
-
-***Group.*** An assisted action check performed by multiple characters. `Initiative is a group action.`
-
-<!--Add examples here -->
-
+***Group.*** An assisted action check performed by multiple characters.
 ***Save.*** A reaction check involving a character's natural ability and experience.
 
-<!--Add examples here -->
+### Defense/Difficulty Class (DC)
 
-### Action Check
+Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. Determining DC, however, starts by asking, "Is the action opposed or unopposed?"
 
-*Roll 1d20 + Proficiency + Modifiers vs. DC*
+***Opposed Action Checks.*** Refers to actions that directly conflict with an opposing character's action, like a contest. For example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent. In another example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed action check rolled by the gamemaster; this would be more reminiscent of a difficulty class.
 
-***Advantage.*** A character with an apparent situational advantage gains an extra d20 for the action check, of the two dice, the *highest* rolled die is used for the outcome; the *lower* rolled die is discarded. The `rules and the GM` will determine when an advantage exists.
+> DC = Defense Class or an opposed Action Check rolled by the gamemaster.
 
-***Disadvantage.*** A character with an apparent situational disadvantage gains an extra d20 for the action check, of the two dice, the *lowest* rolled die is used for the outcome; the *higher* rolled die is discarded. The `rules and the GM` will determine when a disadvantage exists.
+***Unopposed Action Checks.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties. For example, a character is attempting to fix a broken wagon wheel or lift a heavy object; no defense class or opposed action check is involved, simply a level of difficulty assigned by the gamemaster.
 
-***Success or Failure.*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it fails. If successful, a performance rating is then calculated.
-
-***Performance Rating.*** When an action succeeds, performance is calculated. Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR). `For example, a DC 15 action check versus a roll of 18 yields a PR 3 (18-15=3).` `Performance Rating is significant as it determines the finality of actions.`
-
-### Defense/Difficulty Check
-
-The gamemaster determines the Difficulty Class (DC) for all actions starting with the question, "Is the action opposed or unopposed?"
-
-***Action is Opposed.*** Refers to actions that are in direct conflict with another character's action. For example, a character attacks while an opposed character defends, or a character hides while an opposed character searches. When a character is attacking, they are automatically opposed, and the difficulty class is synonymous with defense class, as both use the acronym DC.
-
-*DC = The opponent's Defense Class (DC) or an opposed `Skill Check (SC)` rolled by the GM*
-
-***Action is Unopposed.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties. For example, a character is attempting to fix a broken wagon wheel or trying to lift a heavy object; there is no opposed character involved, just a level of difficulty.
-
-*DC = The Difficulty is assigned by the GM starting with the Difficulting Class table below.*
+> DC = Difficulty Class assigned by the gamemaster.
 
 :: Table: Difficulty Classes
 
 | Difficulty | Easy | Moderate | Hard | Extreme |
 | :--------: | :--: | :------: | :--: | :-----: |
 |   **DC**   |  5   |    10    |  15  |   20+   |
+
+### Action Check
+
+*Roll 1d20 + Proficiency + Modifiers vs. DC*
+
+***Advantage.*** A character with a situational advantage gains an extra d20 for the action check, of the two dice, the *highest* rolled die is used for the outcome; the *lower* rolled die is discarded. The rules and the GM will determine when an advantage exists.
+
+***Disadvantage.*** A character with a situational disadvantage gains an extra d20 for the action check, of the two dice, the *lowest* rolled die is used for the outcome; the *higher* rolled die is discarded. The rules and the GM will determine when a disadvantage exists.
+
+***Effectiveness.*** If the roll reaches or exceeds the DC, the check is effective; otherwise, it's ineffective. If effective, a performance rating is then calculated.
+
+***Performance.*** Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's Performance Rating (PR).
 
 ## Check Modifiers
 
