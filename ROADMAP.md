@@ -54,11 +54,16 @@
 - [x] ***Gameplay.*** Change Impossible actions to Improbable actions.
 - [x] ***Back Cover.*** Rewrite based on the updated Introduction section.
 
+### July 17th, 2023
+
+- [x] ***Ancestry.*** Add Ability Modifiers.
+- [x] ***Ancestry.*** Add the idea of Ability Categories like Body and Mind.
+- [x] ***Game Mechanics.*** Add/Define Turns and Initiative.
+
 ## Work-In-Progress
 
 ### Gameplay
 
-- [x] ***Game Mechanics.*** Add/Define Initiative, Turns, and Movement.
 - [ ] ***Game Mechanics.*** Skillsets, Expertise, and Mastery.
 
 ### Ancestry
