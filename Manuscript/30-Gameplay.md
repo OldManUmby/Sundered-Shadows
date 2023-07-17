@@ -1,16 +1,35 @@
 # ==GAMEPLAY==
 
+## Turns
 
+The gamemaster will make this determination, but generally, when things get dicey and the order of actions becomes relevant, everyone involved will each get a turn to take their actions. In such cases, initiative may be declared by the gamemaster. Combat is the most common use of initiative.
+
+Turns are divided into the following.
+
+| Unit     | Duration     | Common Usage |
+| -------- | ------------ | ------------ |
+| Moment   | 1-10 seconds | Initiative   |
+| Period   | 1-10 minutes | Exploration  |
+| Length   | 1-10 hours   | Recovery     |
+| Downtime | 1-10 days    | Training     |
+
+### Initiative
+
+Once initiative is declared, one player rolls 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each modifies its die with the `lowest Proficiency` from its side.
+
+In one-on-one conflicts, the participants may add their DEX bonuses. `Also, reach-weapons gain advantage on initiative versus non-reach-weapons.`
+
+The side with the highest roll gets to declare their actions first and may choose the order of actions from among their side as warranted; this simulates the party's capacity to work together.
 
 ## Actions
 
-Typically, most character actions do not require dice rolls; these are non-combat action considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
+Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
 
-Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions requiring extreme exertion, or complex tasks requiring a degree of concentration or planning.
+Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions performed under stress or requiring extreme exertion, or complex tasks where a degree of concentration or planning is needed. For example, swordplay requires a character to perform many side-to-side movements, dodging, feints, jabbing, parrying, and more just to land that one strike that truly makes a difference in the fight and all that takes place in a single character's action turn.
 
 ### Action Types
 
-***Standard.*** Action checks like attacking, defending, maneuvering, spellcasting, and using abilities, skills, and devices
+***Standard.*** Action checks like attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
 ***Bonus.*** Extra action checks gained for reasons of momentum or special circumstances.
 ***Extended.*** Tasks requiring more than one action check to perform.
 ***Group.*** An assisted action check performed by multiple characters.
@@ -75,28 +94,6 @@ Once an action has been determined, a player adjusts the check based on the foll
 
 <!--Add list of more Check Modifiers-->
 
-==WORK IN PROGRESS==
-
-## Turns
-
-
-
-## Movement
-
-<!--Add copy here -->
-
-## Combat
-
-<!--Add copy here -->
-
-### Initiative
-
-When things get dicey, the protagonists and antagonists get a turn. One player rolls 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side. Each side modifies its die with the `lowest Proficiency` from its side.
-
-In one-on-one conflicts, the participants may add their DEX bonuses. Also, reach-weapons gain advantage on initiative versus non-reach-weapons.
-
-The side with the highest roll gets to declare their actions first and may choose the order of actions from among their side as warranted; this simulates the party working together.
-
 ## Resource-Die
 
-Used for resource management and situations where step-die mechanics can be utilized. This system could replace counting ammo, effort, fatigue, healing, rations, torches, lantern oil, and certain kinds of damage like fire, holy water, and poison. The step-mechanics follow this order up or down: d4, d6, d8, d10, d12, d20. Starting at the appropriate end, either a d4 or a d20, when a 1-2 is rolled, you drop or rise to the next die. When you reach the opposite end of the chain, the situation changes, generally for the worse.
+Used for resource management and situations where step-die mechanics can be utilized. This system could replace counting ammo, effort, fatigue, healing, rations, torches, lantern oil, and certain kinds of damage like fire, holy water, and poison. The step-mechanics follow this dice chain up or down: d4, d6, d8, d10, d12, d20. So, starting at the appropriate end of the chain, when a 1-2 is rolled, you step up or down to the next die. When you reach the opposite end of the chain, the resource is spent.
