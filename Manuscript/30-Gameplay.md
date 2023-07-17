@@ -9,7 +9,7 @@ Action checks are generally not considered solitary actions. More often, action 
 ### Action Types
 
 ***Standard.*** Action checks like attacking, defending, maneuvering, spellcasting, and using abilities, skills, and devices
-***Bonus.*** Extra action checks gained for reasons of momentum or exceptional circumstances.
+***Bonus.*** Extra action checks gained for reasons of momentum or special circumstances.
 ***Extended.*** Tasks requiring more than one action check to perform.
 ***Group.*** An assisted action check performed by multiple characters.
 ***Save.*** A reaction check involving a character's natural ability and experience.
@@ -61,7 +61,7 @@ Remember that the gamemaster only modifies the DC, not the character's action ch
 
 However, mundane actions are only considered PER 1; to improve the performance rating of a mundane action, a character may Play the Odds vs. DC 2; `Critical Failure` occurs on a Natural 1 due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-*** Improbable Actions.*** If a target number reaches `DC 25`, the action becomes improbable. The gamemaster will make the final determination but, in most cases, will wave the action check entirely as the action cannot be attained by *mortal* characters. However, an *immortal* character may still roll an improbable action check (see `Immortality` for more information).
+***Improbable Actions.*** If a target number reaches `DC 25`, the action becomes improbable. The gamemaster will make the final determination but, in most cases, will wave the action check entirely as the action cannot be attained by *mortal* characters. However, an *immortal* character may still roll an improbable action check (see `Immortality` for more information).
 
 ==WORK IN PROGRESS==
 
@@ -73,7 +73,7 @@ However, mundane actions are only considered PER 1; to improve the performance r
 
 <!--Add copy here -->
 
-### Initiative
+## Initiative
 
 When things get dicey, each character and opponent gets a turn. One player rolls 1d6 for their side versus a roll by the gamemaster. Each side modifies its die with the `lowest Combat Proficiency` of those entering initiative.
 
