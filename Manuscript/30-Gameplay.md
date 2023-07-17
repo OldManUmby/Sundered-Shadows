@@ -29,7 +29,7 @@ Action checks are generally not considered solitary actions. More often, action 
 
 ***Performance (PER).*** Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's performance.
 
-### Defense/Difficulty Class (DC)
+#### Defense/Difficulty Class (DC)
 
 Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. Determining DC, however, starts by asking, "Is the action opposed or unopposed?"
 
