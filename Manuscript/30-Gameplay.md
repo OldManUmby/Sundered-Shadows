@@ -6,12 +6,12 @@ The gamemaster will make this determination, but generally, when things get dice
 
 Turns are divided into the following.
 
-| Unit     | Duration     | Common Usage |
-| -------- | ------------ | ------------ |
-| Moment   | 1-10 seconds | Initiative   |
-| Period   | 1-10 minutes | Exploration  |
-| Length   | 1-10 hours   | Recovery     |
-| Downtime | 1-10 days    | Training     |
+| Units of Time    | Duration     | Common Usage |
+| ---------------- | ------------ | ------------ |
+| a Moment of time | 1-10 seconds | Initiative   |
+| a Period of time | 1-10 minutes | Exploration  |
+| a Length of time | 1-10 hours   | Recovery     |
+| Downtime         | 1-10 days    | Training     |
 
 ### Initiative
 
