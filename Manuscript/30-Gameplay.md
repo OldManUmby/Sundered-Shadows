@@ -1,5 +1,11 @@
 # ==GAMEPLAY==
 
+There are two types of gameplay, combat, and non-combat, and although actions are universal, each gameplay employs a set of unique activities.
+
+***Combat Gameplay.*** Takes place under initiative. Most actions are combat related, though non-combat actions can occur.
+
+***Non-Combat Gameplay.*** Takes place out of initiative. Most actions are non-combat, except for surprise actions.
+
 ## Actions
 
 Typically, most character actions do not require dice rolls; these are considered mundane actions. However, anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
@@ -51,9 +57,11 @@ For unopposed action checks, the gamemaster shall assign a level of difficulty b
 | -----------------: | :--------: | :---------: | :---: | :-------: |
 | **TARGET NUMBER**: |     5      |     10      |  15   |    20+    |
 
-#### Check Modifiers
+#### DC Modifiers
 
 Once the initial target number has been determined, the gamemaster may adjust the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete range of DC target numbers is `0 thru 25`; a DC cannot be any lower or higher.
+
+<!--Add list of DC Modifiers-->
 
 Remember that the gamemaster only modifies the DC, not the character's action checks. Players need only deal with bonuses to the action check, never penalties, as those are applied to the DC instead.
 
@@ -63,7 +71,19 @@ However, mundane actions are only considered PER 1; to improve the performance r
 
 ***Improbable Actions.*** If a target number reaches `DC 25`, the action becomes improbable. The gamemaster will make the final determination but, in most cases, will wave the action check entirely as the action cannot be attained by *mortal* characters. However, an *immortal* character may still roll an improbable action check (see `Immortality` for more information).
 
+#### Check Modifiers
+
+Once an action has been determined, a player adjusts the check based on the following factors.
+
+***Ability Score Modifiers.*** <!--Add copy here -->
+
+<!--Add list of more Check Modifiers-->
+
 ==WORK IN PROGRESS==
+
+## Turns
+
+
 
 ## Movement
 
@@ -73,10 +93,14 @@ However, mundane actions are only considered PER 1; to improve the performance r
 
 <!--Add copy here -->
 
-## Initiative
+### Initiative
 
-When things get dicey, each character and opponent gets a turn. One player rolls 1d6 for their side versus a roll by the gamemaster. Each side modifies its die with the `lowest Combat Proficiency` of those entering initiative.
+When things get dicey, the protagonists and antagonists get a turn. One player rolls 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side. Each side modifies its die with the `lowest Proficiency` from its side.
 
-Participants may add their Dexterity bonuses in a one-on-one conflict, and reach weapons gain advantage on initiative rolls versus non-reach weapons.`
+In one-on-one conflicts, the participants may add their DEX bonuses. Also, reach-weapons gain advantage on initiative versus non-reach-weapons.
 
-The side with the highest roll gets to declare their actions first and chooses the order of character actions as needed; this simulates the characters working together in combat.
+The side with the highest roll gets to declare their actions first and may choose the order of actions from among their side as warranted; this simulates the party working together.
+
+## Resource-Die
+
+Used for resource management and situations where step-die mechanics can be utilized. This system could replace counting ammo, effort, fatigue, healing, rations, torches, lantern oil, and certain kinds of damage like fire, holy water, and poison. The step-mechanics follow this order up or down: d4, d6, d8, d10, d12, d20. Starting at the appropriate end, either a d4 or a d20, when a 1-2 is rolled, you drop or rise to the next die. When you reach the opposite end of the chain, the situation changes, generally for the worse.
