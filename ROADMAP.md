@@ -58,7 +58,8 @@
 
 - [x] ***Ancestry.*** Add Ability Modifiers.
 - [x] ***Ancestry.*** Add the idea of Ability Categories like Body and Mind.
-- [x] ***Game Mechanics.*** Add/Define Turns and Initiative.
+- [x] ***Gameplay.*** Add/Define Turns and Initiative.
+- [x] ***Gameplay.*** Add/Define Resource-Die.
 
 ## Work-In-Progress
 
