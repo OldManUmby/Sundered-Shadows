@@ -17,7 +17,7 @@ Turns are divided into the following.
 
 Once initiative is declared, one player rolls 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each modifies its die with the `lowest Proficiency` from its side.
 
-In one-on-one conflicts, the participants may add their DEX bonuses. `Also, reach-weapons gain advantage on initiative versus non-reach-weapons.`
+In one-on-one conflicts, each participant will adjust their initiative roll with their DEX Modifier. `Also, reach-weapons gain advantage on initiative versus non-reach-weapons.`
 
 The side with the highest roll gets to declare their actions first and may choose the order of actions from among their side as warranted; this simulates the party's capacity to work together.
 
