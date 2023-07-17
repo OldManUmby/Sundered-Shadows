@@ -37,3 +37,7 @@ These customary conventions are practiced throughout this ruleset.
 ***Specific Beats General.*** You may find aspects of the rules that break or contradict other elements. When a contradiction occurs, specific rules often beat general rules; however, the gamemaster will arbitrate as needed.
 
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction.
+
+## Jargon
+
+***Play the Odds.*** Within this ruleset, there are several points where a static value is used to speed gameplay; `this value will be highlighted within the rules`. If a character wishes to make a dice roll in place of the static value, they may do so, but not without risk. All static values are calculated at 60% of the total possible range. Should a player choose to play the odds, they only have a 40% of attaining a higher value; the gamemaster should always point out this fact before the player proceeds. Should the player proceed and they roll a lower number than the provided static value, they must accept the new value rolled. <!--Can a player circumvent this with Inspiration?-->
