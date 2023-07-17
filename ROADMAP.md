@@ -2,9 +2,9 @@
 
 ## Project Software
 
-- ***Typora.*** Markdown development copy.
-- ***Affinity Designer.*** Graphics, logos, and map overlays.
-- ***Affinity Photo.*** Photobashing images.
+- ***Typora.*** Markdown development.
+- ***Affinity Designer.*** Graphics, logos, and maps.
+- ***Affinity Photo.*** Photobashing.
 - ***Affinity Publisher.*** Print-ready and digital publishing files.
 
 ## Completed Tasks
@@ -59,6 +59,7 @@
 ### Gameplay
 
 - [x] ***Game Mechanics.*** Add/Define Initiative, Turns, and Movement.
+- [ ] ***Game Mechanics.*** Skillsets, Expertise, and Mastery.
 
 ### Ancestry
 
@@ -106,3 +107,9 @@
   - [ ] Urban Human.
 - [ ] ***Backgrounds.*** Create the initial backgrounds.
 - [ ] ***Archetypes.*** Create the initial archetypes.
+
+### Gear
+
+- [ ] ***Armor & Shields.*** Create initial items and features.
+- [ ] ***Weapons.*** Create initial items and features.
+- [ ] ***Tools.*** Create initial items and features.
