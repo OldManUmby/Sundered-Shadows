@@ -17,8 +17,8 @@
 
 ### June 7th, 2023
 
-- [x] ***Scrutinize Name.***  Research the name "Sundered Shadows" against RPGs and domains.
-- [x] ***Establish Name.*** Utilize the name "Sundered Shadows" in the project and files.
+- [x] ***Scrutinize Title.***  Research the name "Sundered Shadows" against RPGs and domains.
+- [x] ***Establish Title.*** Utilize the name "Sundered Shadows" in the project and files.
 - [x] ***Logo Design.*** Create the initial B&W logo design with basic layers.
 - [x] ***Export Logo.*** Export the B&W logo to JPG and PNG.
 - [x] ***GitHub Repo.*** Create the GitHub project repository and sync local files.
@@ -58,26 +58,51 @@
 
 ### Gameplay
 
-- [ ] ***Game Mechanics.*** Add/Define Initiative, Turns, and Movement.
+- [x] ***Game Mechanics.*** Add/Define Initiative, Turns, and Movement.
 
-### Races
+### Ancestry
 
-- [ ] ***Dwarf Description.*** Create initial copy text for race and lineages.
+#### Dwarf
 
-- [ ] ***Dwarf Features.*** Create racial traits.
+- [x] ***Description.*** Create initial copy text for race and lineages.
+- [x] ***Features.*** Create racial traits.
+- [x] ***Lineages.*** Create the initial lineages.
+  - [x] Deep Dwarf.
+  - [x] Hill Dwarf.
+  - [x] Mountain Dwarf.
 
-- [ ] ***Elf Description.*** Create initial copy text for race and lineages.
-- [ ] ***Elf Features.*** Create racial traits.
+- [ ] ***Backgrounds.*** Create the initial backgrounds.
+- [ ] ***Archetypes.*** Create the initial archetypes.
 
-- [ ] ***Halfling Description.*** Create initial copy text for race and lineages.
-- [ ] ***Halfling Features.*** Create racial traits.
+#### Elf
 
-- [ ] ***Human Description.*** Create initial copy text for race and lineages.
-- [ ] ***Human Features.*** Create racial traits.
+- [ ] ***Description.*** Create initial copy text for race and lineages.
+- [ ] ***Features.*** Create racial traits.
+- [ ] ***Lineages.*** Create the initial lineages.
+  - [ ] Dark Elf.
+  - [ ] High Elf.
+  - [ ] Wood Elf.
+- [ ] ***Backgrounds.*** Create the initial backgrounds.
+- [ ] ***Archetypes.*** Create the initial archetypes.
 
-### Classes
+#### Halfling
 
-- [ ] ***Dwarf Classes.*** Create the initial archetypes.
-- [ ] ***Elf Classes.*** Create the initial archetypes.
-- [ ] ***Halfling Classes.*** Create the initial archetypes.
-- [ ] ***Human Classes.*** Create the initial archetypes.
+- [ ] ***Description.*** Create initial copy text for race and lineages.
+- [ ] ***Features.*** Create racial traits.
+- [ ] ***Lineages.*** Create the initial lineages.
+  - [ ] Lightfoot Halfling.
+  - [ ] Meddler Halfling.
+  - [ ] Stout Halfling.
+- [ ] ***Backgrounds.*** Create the initial backgrounds.
+- [ ] ***Archetypes.*** Create the initial archetypes.
+
+#### Human
+
+- [ ] ***Description.*** Create initial copy text for race and lineages.
+- [ ] ***Features.*** Create racial traits.
+- [ ] ***Lineages.*** Create the initial lineages.
+  - [ ] Nomad Human.
+  - [ ] Rural Human.
+  - [ ] Urban Human.
+- [ ] ***Backgrounds.*** Create the initial backgrounds.
+- [ ] ***Archetypes.*** Create the initial archetypes.
