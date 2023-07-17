@@ -54,7 +54,7 @@ Action checks are generally not considered solitary actions. More often, action 
 
 Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. Determining DC, however, starts by asking, "Is the action opposed or unopposed?"
 
-***Opposed Action Checks.*** Refers to actions that directly conflict with an opposing character's action, like a contest. For example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent. In another example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster; this would be reminiscent of a difficulty class.
+***Opposed Action Checks.*** Refers to actions that directly conflict with an opposing character's action, like a contest. For example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent. In another example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster. These two examples best represent opposed DC.
 
 > DC = Defense Class or an Opposed Action Check rolled by the gamemaster.
 
@@ -78,7 +78,7 @@ Once the initial target number has been determined, the gamemaster may adjust th
 
 <!--Add list of DC Modifiers-->
 
-Remember that the gamemaster only modifies the DC, not the character's action checks. Players need only deal with bonuses to the action check, never penalties, as those are applied to the DC instead.
+Remember that the gamemaster only modifies the DC, not the character's action checks. Players need only deal with bonus points to the action check, never penalty points, as those are applied to the DC instead.
 
 ***Mundane Actions.*** If a target number reaches `DC 0`, the action becomes mundane. The gamemaster will make the final determination but, in most cases, will wave the action check entirely as a roll is not necessary to complete the action. 
 
