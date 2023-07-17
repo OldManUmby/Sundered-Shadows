@@ -6,7 +6,7 @@ In this section, you'll find instructions for creating a player character (PC). 
 
 ## Abilities
 
-<!--Define abilities here -->
+The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - while the final three represent the mental aspects - `a.k.a. Mind/Intellect`.
 
 ***Strength.*** <!--Add copy here -->
 
@@ -40,5 +40,5 @@ In this section, you'll find instructions for creating a player character (PC). 
 
 ### Generating Ability Scores
 
-Except where noted in their lineage, all races generate ability scores as follows. Roll 3d6 and tally the dice; repeat this process for each ability in order. The first three abilities list the physical aspects - `a.k.a. Body` - while the final three represent the mental aspects - `a.k.a. Mind`.
+Except where noted in their lineage, all races generate ability scores as follows. Roll 3d6 and tally the dice; repeat this process for each ability in order.
 
