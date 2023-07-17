@@ -1,14 +1,10 @@
 # ==GAMEPLAY==
 
-There are two types of gameplay, combat, and non-combat, and although actions are universal, each gameplay employs a set of unique activities.
 
-***Combat Gameplay.*** Takes place under initiative. Most actions are combat related, though non-combat actions can occur.
-
-***Non-Combat Gameplay.*** Takes place out of initiative. Most actions are non-combat, except for surprise actions.
 
 ## Actions
 
-Typically, most character actions do not require dice rolls; these are considered mundane actions. However, anytime a character is challenged, attempts something new, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
+Typically, most character actions do not require dice rolls; these are non-combat action considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
 
 Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions requiring extreme exertion, or complex tasks requiring a degree of concentration or planning.
 
