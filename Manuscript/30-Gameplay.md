@@ -15,17 +15,19 @@ Turns are divided into the following.
 
 ### Initiative
 
-Once initiative is declared, one player rolls 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each modifies its die with the `lowest Proficiency` from its side.
+> Roll 1d6 + Proficiency + Modifiers.
 
-In one-on-one conflicts, each participant will adjust their initiative roll with their DEX Modifier. `Also, reach-weapons gain advantage on initiative versus non-reach-weapons.`
+Once initiative is declared, one player rolls an Initiative Check using 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest Proficiency` from those entering combat. In a one-on-one conflict, each participant will also add their DEX Modifier to the check.
 
-The side with the highest roll gets to declare their actions first and may choose the order of actions from among their side as warranted; this simulates the party's capacity to work together.
+#### Who Acts First?
+
+The side with the highest initiative total gets to declare their actions first and may choose the order of actions from their side; this simulates the party's capacity to work together. In the event of a tie, the player's side always wins initiative.
 
 ## Actions
 
 Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
 
-Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions performed under stress or requiring extreme exertion, or complex tasks where a degree of concentration or planning is needed. For example, swordplay requires a character to perform many side-to-side movements, dodging, feints, jabbing, parrying, and more just to land that one strike that truly makes a difference in the fight and all that takes place in a single character's action turn.
+Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions performed under stress or requiring extreme exertion, or complex tasks where a degree of concentration or planning is needed. For example, swordplay requires a character to perform many side-to-side movements, dodging, feints, jabbing, parrying, and more just to land that one strike that truly makes a difference and all that can occur under a single action check by a character.
 
 ### Action Types
 
@@ -37,7 +39,7 @@ Action checks are generally not considered solitary actions. More often, action 
 
 ### Action Checks
 
-*Roll 1d20 + Proficiency + Modifiers vs. DC*
+> Roll 1d20 + Proficiency + Modifiers.
 
 ***Advantage (ADV).*** A character with a situational advantage gains an extra d20 for the action check, of the two dice, the *highest* rolled die is used for the outcome; the *lower* rolled die is discarded. The rules and the GM will determine when an advantage exists.
 
@@ -49,23 +51,19 @@ Action checks are generally not considered solitary actions. More often, action 
 
 #### Defense/Difficulty Class (DC)
 
-Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. Determining DC, however, starts by asking, "Is the action opposed or unopposed?"
+Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. The gamemaster has three methods for determining DC.
 
-***Opposed Actions.*** Refers to actions that directly conflict with an opposing action, like a contest. There are two methods of obtaining the DC for opposed checks, using the opponent's defense class or rolling an opposed action check.
+***Attacks.*** Used for attacks where an opposition can defend. The target number for the attack action is provided by an opponent's defense class.
 
-> For attack actions, the DC = the target number provided by the Defense Class of the opponent.
+> DC = The Defense Class of an opponent.
 
-In a defense class example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent.
+***Contests.*** Used for actions that directly conflict with an opposing action. The target number for the action check is provided by an opposed action check rolled by the gamemaster.
 
-> For opposed actions, the DC = the target number provided by an Opposed Action Check rolled by the gamemaster.
+> DC = An Opposed Check rolled by the gamemaster.
 
-In an opposed action example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster.
+***Proficiency.*** Used for actions involving the use of an `ability, skill, or tool proficiency`. The target number is simply a level of difficulty assigned by the gamemaster.
 
-***Unopposed Actions.*** Refers to actions that do not directly conflict with another action but rather the action's inherent difficulties.
-
-> In all cases, the DC = Difficulty Class assigned by the gamemaster.
-
-In a difficulty check example, a character is attempting to fix a broken wagon wheel or lift a heavy object; although these actions are challenging, there is no defense class or opposed action check involved, simply a level of difficulty assigned by the gamemaster.
+> DC = A Difficulty Class assigned by the gamemaster.
 
 #### Assigning DC
 
