@@ -66,6 +66,7 @@
 ### Gameplay
 
 - [ ] ***Game Mechanics.*** Skillsets, Expertise, and Mastery.
+- [ ] ***Game Mechanics.*** Update Crit System for Performance-based Checks.
 
 ### Ancestry
 
@@ -117,5 +118,5 @@
 ### Gear
 
 - [ ] ***Armor & Shields.*** Create initial items and features.
-- [ ] ***Weapons.*** Create initial items and features.
+- [ ] ***Weapons.*** Create initial items and features (like Crit).
 - [ ] ***Tools.*** Create initial items and features.
