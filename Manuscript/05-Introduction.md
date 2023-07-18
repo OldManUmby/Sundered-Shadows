@@ -14,9 +14,9 @@ A tabletop roleplaying game (TTRPG or RPG) is a collaborative storytelling pasti
 
 ## Who Plays What?
 
-The players are responsible for the actions of the protagonists - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the antagonists - a.k.a. non-player characters (NPCs) - including all animals, monsters, and powers-that-be. Although it's the gamemaster's job to create the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's - or character's - point of view.
+The players are responsible for the actions of the protagonists - a.k.a. player characters (PCs), the heroes trying to survive and thrive during the adventures. However, one of the players serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the antagonists - a.k.a. non-player characters (NPCs) - including all animals, monsters, and powers-that-be. Although it's the gamemaster's job to create the adventures, it's everyone's job to create an atmosphere of fun.
 
-***Gamemaster's Discretion.*** One of the most critical aspects of *Sundered Shadows* is that the gamemaster arbitrates everything and has the final say over any rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game, that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed rule changes before playing; a good session zero can be utilized this way.
+***Gamemaster's Discretion.*** One of the most critical aspects of *Sundered Shadows* is that the gamemaster arbitrates everything and has the final say over any rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game, that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed rule changes before playing; a good session zero can be utilized this way. Together, the gamemaster and the players genuinely co-write the ongoing storyline from each person's - or character's - point of view.
 
 ## What do I need to play?
 
