@@ -99,4 +99,4 @@ Once an action has been determined, a player adjusts the check based on the foll
 
 ## Resource-Die
 
-Used for resource management and situations where a step-die mechanic can be utilized. This system could replace counting ammo, effort, fatigue, healing, rations, torches, lantern oil, and certain kinds of damage like fire, holy water, and poison. The step-mechanics follow this dice chain up or down: d4, d6, d8, d10, d12, d20. So, starting at the appropriate end of the chain, when a 1-2 is rolled, you step up or down to the next die. When you reach the opposite end of the chain, the resource is spent.
+Used for resource management and situations where a step-die mechanic can be utilized. This system could replace counting ammo, effort, fatigue, healing, rations, torches, lantern oil, and certain kinds of damage like fire, holy water, and poison. The step-mechanics follow a dice-chain up or down: d4, d6, d8, d10, d12, d20. So, starting at the appropriate end of the chain, when a 1-2 is rolled, you step up or down to the next die. When you reach the opposite end of the chain, the resource is spent.
