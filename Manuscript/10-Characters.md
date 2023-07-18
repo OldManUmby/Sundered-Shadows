@@ -26,17 +26,17 @@ The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - wh
 
 :: Table - Ability Modifiers
 
-| Ability Score | Ability Modifier |      |
-| :-----------: | :--------------: | ---- |
-|       3       |        -4        |      |
-|      4-5      |        -3        |      |
-|      6-7      |        -2        |      |
-|      8-9      |        -1        |      |
-|     10-11     |        0         |      |
-|     12-13     |        +1        |      |
-|     14-15     |        +2        |      |
-|     16-17     |        +3        |      |
-|      18       |        +4        |      |
+| Ability Score | Ability Modifier |
+| :-----------: | :--------------: |
+|       3       |        -4        |
+|      4-5      |        -3        |
+|      6-7      |        -2        |
+|      8-9      |        -1        |
+|     10-11     |        0         |
+|     12-13     |        +1        |
+|     14-15     |        +2        |
+|     16-17     |        +3        |
+|      18       |        +4        |
 
 ### Generating Ability Scores
 
