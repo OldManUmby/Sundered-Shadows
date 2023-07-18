@@ -8,9 +8,9 @@ Turns are divided into the following.
 
 | Units of Time    | Duration     | Common Usage |
 | ---------------- | ------------ | ------------ |
-| a Moment of time | 1-10 seconds | Initiative   |
-| a Period of time | 1-10 minutes | Exploration  |
-| a Length of time | 1-10 hours   | Recovery     |
+| Moment of time   | 1-10 seconds | Initiative   |
+| Interval of time | 1-10 minutes | Exploration  |
+| Period of time   | 1-10 hours   | Recovery     |
 | Downtime         | 1-10 days    | Training     |
 
 ### Initiative
