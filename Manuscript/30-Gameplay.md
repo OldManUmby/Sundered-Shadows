@@ -45,22 +45,27 @@ Action checks are generally not considered solitary actions. More often, action 
 
 ***Effectiveness (EFF).*** If the roll reaches or exceeds the DC, the check is successful; otherwise, it has failed. If successful, performance is calculated.
 
-- ***Natural 1.*** During an action check, especially an attack action, when the d20 rolls an unmodified 1, such an action is considered a `critical failure`.<!--More critical required-->
-- ***Natural 20.*** During an action check, especially an attack action, when the d20 rolls an unmodified 20, such an action is considered a `critical success`.<!--More critical required-->
-
 ***Performance (PER).*** Subtract the required DC of the action from the outcome of the rolled check; the difference is the action's performance.
 
 #### Defense/Difficulty Class (DC)
 
 Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. Determining DC, however, starts by asking, "Is the action opposed or unopposed?"
 
-***Opposed Action Checks.*** Refers to actions that directly conflict with an opposing character's action, like a contest. For example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent. In another example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster. These two examples best represent opposed DC.
+***Opposed Action Checks.*** Refers to actions that directly conflict with an opposing character's action, like a contest. There are two methods of obtaining the DC for opposed checks, using the opponent's defense class or rolling an opposed action check.
 
-> DC = Defense Class or an Opposed Action Check rolled by the gamemaster.
+> For attack actions, the DC = the target number provided by the defense class of the opponent.
 
-***Unopposed Action Checks.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties. For example, a character is attempting to fix a broken wagon wheel or lift a heavy object; although these actions are challenging, there is no defense class or opposed action check involved, simply a level of difficulty assigned by the gamemaster.
+In a defense class example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent.
 
-> DC = Difficulty Class assigned by the gamemaster.
+> For opposed actions, the DC = the target number provided by an opposed action check rolled by the gamemaster.
+
+* In an opposed action example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster. These two examples best represent opposed DC.
+
+***Unopposed Action Checks.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties.
+
+> In all cases, the DC = Difficulty Class assigned by the gamemaster.
+
+In a difficulty check example, a character is attempting to fix a broken wagon wheel or lift a heavy object; although these actions are challenging, there is no defense class or opposed action check involved, simply a level of difficulty assigned by the gamemaster.
 
 #### Assigning DC
 
