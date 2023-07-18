@@ -6,18 +6,18 @@ The gamemaster will make this determination, but generally, when things get dice
 
 Turns are divided into the following.
 
-| Units of Time    | Duration     | Common Usages              |
-| ---------------- | ------------ | -------------------------- |
-| Moment of time   | 1-10 seconds | Combat or Spellcasting     |
-| Interval of time | 1-10 minutes | Exploration or Socializing |
-| Period of time   | 1-10 hours   | Recovery or Travel         |
-| Downtime         | 1-10 days    | Recreation or Training     |
+| Units of Time | Duration     | Common Usages              |
+| ------------- | ------------ | -------------------------- |
+| Moment        | 1-10 seconds | Combat or Spellcasting     |
+| Interval      | 1-10 minutes | Exploration or Socializing |
+| Period        | 1-10 hours   | Recovery or Travel         |
+| Downtime      | 1-10 days    | Recreation or Training     |
 
 ### Initiative
 
 > Roll 1d6 + Proficiency + Modifiers.
 
-Once initiative is declared, one player rolls an Initiative Check using 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest Proficiency` from those entering combat. In a one-on-one conflict, each participant will also add their DEX Modifier to the check.
+Once initiative is declared, one player rolls an Initiative Check using 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest Proficiency` from those entering combat. Each participant will also add their DEX Modifier to the check in a one-on-one conflict.
 
 #### Who Acts First?
 
@@ -53,15 +53,15 @@ An action check is generally not considered a solitary action. There are excepti
 
 Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. The gamemaster has three methods for determining DC.
 
-***Attacks.*** Used for attacks where an opposition can defend. The target number for the attack action is provided by an opponent's defense class.
+***Attacks.*** Used for attacks where an opposition can defend. An opponent's defense class provides the target number for the attack action.
 
 > DC = The Defense Class of an opponent.
 
-***Contests.*** Used for actions that directly conflict with an opposing action. The target number for the action check is provided by an opposed action check rolled by the gamemaster.
+***Contests.*** Used for actions that directly conflict with an opposing action. An opposed action check rolled by the gamemaster provides the target number for the action check.
 
 > DC = An Opposed Check rolled by the gamemaster.
 
-***Proficiency.*** Used for actions involving the use of an `ability, skill, device, or tool proficiency`. The target number is simply a level of difficulty assigned by the gamemaster.
+***Proficiency.*** Used for actions involving an `ability, skill, device, or tool proficiency`. A level of difficulty assigned by the gamemaster provides the target number for the action check.
 
 > DC = A Difficulty Class assigned by the gamemaster.
 
