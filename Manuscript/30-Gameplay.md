@@ -1,12 +1,10 @@
 # ==GAMEPLAY==
 
-## Turns
+<!--Add copy here-->
 
-The gamemaster will make this determination, but generally, when things get dicey, and conflicts must be resolved, the order of actions becomes relevant. In such cases, initiative may be declared by the gamemaster to ensure everyone gets to take a turn. Combat is the most common use of initiative.
+## Time
 
-### Time
-
-Turns are divided into the following segments of game time.
+Game time is divided into the following segments.
 
 | Segments | Duration     | Common Usages              |
 | -------- | ------------ | -------------------------- |
@@ -15,15 +13,23 @@ Turns are divided into the following segments of game time.
 | Period   | 1-10 hours   | Recovery or Travel         |
 | Downtime | 1-10 days    | Recreation or Training     |
 
+## Turns
+
+The gamemaster will make this determination, but generally, when things get dicey, and conflicts must be resolved, the order of actions becomes relevant. In such situations, initiative may be declared by the gamemaster to ensure everyone gets to take a turn. Initiative always takes place in the moment; thus, combat is the most common use of initiative.
+
 ### Initiative
 
-> Roll 1d6 + Proficiency + Modifiers.
+***Group Initiative.*** One player rolls an Initiative Check using 1d10 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest proficiency` from those entering the fray. In some instances, the rules or the gamemaster may apply other modifiers.
 
-Once initiative is declared, one player rolls an Initiative Check using 1d10 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest Proficiency` from those entering combat. Each participant will also add their DEX Modifier to the check in a one-on-one conflict.
+> Roll 1d10 + Proficiency + Other Modifiers.
+
+***Individual Initiative.*** In one-on-one conflicts, each participant rolls an Initiative Check using 1d10; each side adds their `proficiency` and their dexterity modifier to the check. In some instances, the rules or the gamemaster may apply other modifiers.
+
+> Roll 1d10 + Proficiency + DEX Modifier + Other Modifiers.
 
 #### Who Acts First?
 
-The side with the highest initiative total gets to declare their actions first and may choose the order of actions from their side; this simulates the party's capacity to work together. In the event of a tie, the player's side always wins initiative.
+The side with the highest initiative total gets to declare their actions first. In addition, each side may declare the order of their participants; this simulates a group's capacity to work together. When a tie occurs, it makes little difference what the order is as all actions are considered simultaneous.
 
 ## Actions
 
