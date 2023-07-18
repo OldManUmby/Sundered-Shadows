@@ -26,7 +26,6 @@
 ### June 8th, 2023
 
 - [x] ***Back Cover.*** Create initial copy text of the game summary on the Back Cover.
-- [x] ***Introduction.*** Add a placeholder for "This Game IS and IS NOT."
 - [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
 
 ### July 14th, 2023
@@ -62,6 +61,10 @@
 - [x] ***Gameplay.*** Add/Define Resource-Die.
 
 ## Work-In-Progress
+
+### Introduction
+
+- [ ] ***Introduction.*** Add/Define "This Game IS and IS NOT."
 
 ### Gameplay
 
