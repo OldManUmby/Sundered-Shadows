@@ -17,7 +17,7 @@ Turns are divided into the following.
 
 > Roll 1d6 + Proficiency + Modifiers.
 
-Once initiative is declared, one player rolls an Initiative Check using 1d6 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest Proficiency` from those entering combat. Each participant will also add their DEX Modifier to the check in a one-on-one conflict.
+Once initiative is declared, one player rolls an Initiative Check using 1d10 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest Proficiency` from those entering combat. Each participant will also add their DEX Modifier to the check in a one-on-one conflict.
 
 #### Who Acts First?
 
