@@ -2,16 +2,18 @@
 
 ## Turns
 
-The gamemaster will make this determination, but generally, when things get dicey and the order of actions becomes relevant, everyone involved will each get a turn to take their actions. In such cases, initiative may be declared by the gamemaster. Combat is the most common use of initiative.
+The gamemaster will make this determination, but generally, when things get dicey, and conflicts must be resolved, the order of actions becomes relevant. In such cases, initiative may be declared by the gamemaster to ensure everyone gets to take a turn. Combat is the most common use of initiative.
 
-Turns are divided into the following.
+### Time
 
-| Units of Time | Duration     | Common Usages              |
-| ------------- | ------------ | -------------------------- |
-| Moment        | 1-10 seconds | Combat or Spellcasting     |
-| Interval      | 1-10 minutes | Exploration or Socializing |
-| Period        | 1-10 hours   | Recovery or Travel         |
-| Downtime      | 1-10 days    | Recreation or Training     |
+Turns are divided into the following segments of game time.
+
+| Segments | Duration     | Common Usages              |
+| -------- | ------------ | -------------------------- |
+| Moment   | 1-10 seconds | Combat or Spellcasting     |
+| Interval | 1-10 minutes | Exploration or Socializing |
+| Period   | 1-10 hours   | Recovery or Travel         |
+| Downtime | 1-10 days    | Recreation or Training     |
 
 ### Initiative
 
@@ -31,7 +33,7 @@ An action check is generally not considered a solitary action. There are excepti
 
 ### Action Types
 
-***Standard.*** Action checks like attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
+***Standard.*** Actions like attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
 ***Bonus.*** Extra action checks gained for reasons of momentum or special circumstances.
 ***Extended.*** Tasks requiring more than one action check to perform.
 ***Group.*** An assisted action check performed by multiple characters.
