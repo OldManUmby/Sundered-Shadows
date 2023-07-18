@@ -61,7 +61,7 @@ Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are syno
 
 > DC = An Opposed Check rolled by the gamemaster.
 
-***Proficiency.*** Used for actions involving the use of an `ability, skill, or tool proficiency`. The target number is simply a level of difficulty assigned by the gamemaster.
+***Proficiency.*** Used for actions involving the use of an `ability, skill, device, or tool proficiency`. The target number is simply a level of difficulty assigned by the gamemaster.
 
 > DC = A Difficulty Class assigned by the gamemaster.
 
