@@ -51,17 +51,17 @@ Action checks are generally not considered solitary actions. More often, action 
 
 Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. Determining DC, however, starts by asking, "Is the action opposed or unopposed?"
 
-***Opposed Action Checks.*** Refers to actions that directly conflict with an opposing character's action, like a contest. There are two methods of obtaining the DC for opposed checks, using the opponent's defense class or rolling an opposed action check.
+***Opposed Actions.*** Refers to actions that directly conflict with an opposing action, like a contest. There are two methods of obtaining the DC for opposed checks, using the opponent's defense class or rolling an opposed action check.
 
-> For attack actions, the DC = the target number provided by the defense class of the opponent.
+> For attack actions, the DC = the target number provided by the Defense Class of the opponent.
 
 In a defense class example, a character attacks while an opposed character defends; thus, the target number for the action check is provided by the defense class of the opponent.
 
-> For opposed actions, the DC = the target number provided by an opposed action check rolled by the gamemaster.
+> For opposed actions, the DC = the target number provided by an Opposed Action Check rolled by the gamemaster.
 
-* In an opposed action example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster. These two examples best represent opposed DC.
+In an opposed action example, a character hides while an opposed character searches; thus, the target number for the action check is provided by an opposed check rolled by the gamemaster.
 
-***Unopposed Action Checks.*** Refers to actions that do not directly conflict with another character but rather the action's inherent difficulties.
+***Unopposed Actions.*** Refers to actions that do not directly conflict with another action but rather the action's inherent difficulties.
 
 > In all cases, the DC = Difficulty Class assigned by the gamemaster.
 
