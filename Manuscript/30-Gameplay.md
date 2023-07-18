@@ -27,7 +27,7 @@ The side with the highest initiative total gets to declare their actions first a
 
 Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
 
-Action checks are generally not considered solitary actions. More often, action checks are a series of short, quick maneuvers, combined actions, actions performed under stress or requiring extreme exertion, or complex tasks where a degree of concentration or planning is needed. For example, swordplay requires a character to perform many side-to-side movements, dodging, feints, jabbing, parrying, and more just to land that one strike that truly makes a difference and all that can occur under a single action check by a character.
+An action check is generally not considered a solitary action. There are exceptions, but most often, an action check is a series of short, quick maneuvers, an action performed under stress or requiring extreme exertion, or a complex undertaking where a degree of concentration is needed, all under a single action check by a character.
 
 ### Action Types
 
