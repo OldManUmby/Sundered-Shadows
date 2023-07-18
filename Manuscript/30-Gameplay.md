@@ -73,7 +73,7 @@ For unopposed action checks, the gamemaster shall assign a level of difficulty b
 
 |        Difficulty: | Controlled | Challenging | Risky | Desperate |
 | -----------------: | :--------: | :---------: | :---: | :-------: |
-| **TARGET NUMBER**: |     5      |     10      |  15   |    20+    |
+| **Target Number**: |     5      |     10      |  15   |    20+    |
 
 #### DC Modifiers
 
