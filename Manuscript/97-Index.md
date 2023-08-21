@@ -1,3 +1,0 @@
-# ==INDEX==
-
-<!--add copy here-->

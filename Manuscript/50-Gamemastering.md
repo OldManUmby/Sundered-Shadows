@@ -1,3 +1,0 @@
-# ==GAMEMASTERING==
-
-<!--add copy here-->

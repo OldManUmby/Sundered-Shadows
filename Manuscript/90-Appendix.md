@@ -1,3 +1,0 @@
-# ==APPENDIX $$==
-
-<!--add copy here-->

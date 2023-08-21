@@ -1,3 +1,0 @@
-# ==GEAR==
-
-<!--add copy here-->
