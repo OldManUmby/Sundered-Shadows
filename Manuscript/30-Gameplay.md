@@ -39,15 +39,15 @@ However, some actions do resolve at slightly different moments. So, when things 
 
 Range is divided into the following zones.
 
-|    Zone |      Approx. Distance       |
-| ------: | :-------------------------: |
-|    Self |            Self             |
-|   Reach |        Within reach         |
-|   Close |      Just beyond reach      |
-|    Near |      Surrounding area       |
-|     Far | Line of sight; within focus |
-| Distant | Line of sight; out of focus |
-|  Remote |        Beyond Sight         |
+|    Zone |      Approx. Distance      |
+| ------: | :------------------------: |
+|    Self |            Self            |
+|   Reach |        Within reach        |
+|   Close |     Just beyond reach      |
+|    Near |      Surrounding area      |
+|     Far | Within sight; within focus |
+| Distant | Within sight; out of focus |
+|  Remote |        Beyond Sight        |
 
 ## Actions
 
