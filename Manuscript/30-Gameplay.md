@@ -4,7 +4,7 @@
 
 ## Segments of Time
 
-Game time is divided into the following segments.
+Time is divided into the following segments.
 
 |  Segment | Approx. Duration | Common Usages                            |
 | -------: | :--------------: | ---------------------------------------- |
@@ -15,7 +15,7 @@ Game time is divided into the following segments.
 
 ## Actions in the Moment
 
-All actions occur in the moment, and since all actions are simultaneous, there are no "turns." Still, each character gets their moment in the spotlight. 
+All actions occur at the moment, and since all actions are simultaneous, there are no "turns." Still, each character gets their moment in the spotlight.
 
 ### All At Once
 
@@ -37,16 +37,16 @@ However, some actions do resolve at slightly different moments. So, when things 
 
 ## Range
 
-Game range is divided into the following zones.
+Range is divided into the following zones.
 
-|   Zone | Approx. Distance | Common Usages                                |
-| -----: | :--------------: | -------------------------------------------- |
-|   SELF |       Self       | `Healing and spells that affect self`        |
-|  REACH |   Within Reach   | `Fighting + shooting point-blank`            |
-|  CLOSE |   Beyond Reach   | `Reach actions and shooting close`           |
-|   NEAR | Surrounding Area | `Charge + fight, throwing and shooting near` |
-|    FAR | Field of Vision  | `Full move and shooting far`                 |
-| BEYOND |   Beyond Sight   | `Omnipresent magic`                          |
+|   Zone | Approx. Distance | Common Usages                                 |
+| -----: | :--------------: | --------------------------------------------- |
+|   SELF |       Self       | `Healing and spells that affect self`         |
+|  REACH |   Within Reach   | `Fighting + shooting point-blank`             |
+|  CLOSE |   Beyond Reach   | `Reach actions and shooting close`            |
+|   NEAR | Surrounding Area | `Charge + fight, throwing, and shooting near` |
+|    FAR | Field of Vision  | `Full move and shooting far`                  |
+| BEYOND |   Beyond Sight   | `Omnipresent magic`                           |
 
 ## Actions
 
