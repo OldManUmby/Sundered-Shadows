@@ -39,14 +39,15 @@ However, some actions do resolve at slightly different moments. So, when things 
 
 Range is divided into the following zones.
 
-|   Zone | Approx. Distance | Common Usages                                 |
-| -----: | :--------------: | --------------------------------------------- |
-|   SELF |       Self       | `Healing and spells that affect self`         |
-|  REACH |   Within Reach   | `Fighting + shooting point-blank`             |
-|  CLOSE |   Beyond Reach   | `Reach actions and shooting close`            |
-|   NEAR | Surrounding Area | `Charge + fight, throwing, and shooting near` |
-|    FAR | Field of Vision  | `Full move and shooting far`                  |
-| BEYOND |   Beyond Sight   | `Omnipresent magic`                           |
+|    Zone |      Approx. Distance       |
+| ------: | :-------------------------: |
+|    Self |            Self             |
+|   Reach |        Within reach         |
+|   Close |      Just beyond reach      |
+|    Near |      Surrounding area       |
+|     Far | Line of sight; within focus |
+| Distant | Line of sight; out of focus |
+|  Remote |        Beyond Sight         |
 
 ## Actions
 
