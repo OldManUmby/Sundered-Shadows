@@ -10,11 +10,11 @@ Dwarves are a race with a rich culture famed for their husky bodies and extraord
 
 #### Masters of Stone and Forge
 
-Dwarves are skilled at utilizing complex networks of mines and caverns to access the vast mineral treasures buried beneath the earth. They are unafraid of the depths of the soil and have a fantastic aptitude for finding rare metals and jewels buried in the bedrock. Because of their unmatched mining and resource extraction expertise, they are in high demand as experienced miners and gem cutters. In addition, dwarves are unequaled artisans and master craftsmen known for their unrivaled abilities in mining and metallurgy. Their forges constantly shimmer brilliantly, where raw materials are transformed into beautiful art pieces, such as elaborate armor, stunning jewelry, and ornate weapons.
+Dwarves are skilled at utilizing complex networks of mines and caverns to access the vast mineral treasures buried beneath the earth. They are unafraid of the depths of the soil and have a fantastic aptitude for finding rare metals and jewels buried in the bedrock. Because of their unmatched mining and resource extraction expertise, they are in high demand as experienced miners and gem cutters. In addition, dwarves are unequaled artisans and master craftsmen known for their unrivaled abilities in mining and metallurgy. Their forges constantly shimmer brilliantly, and raw materials are transformed into beautiful art pieces, such as elaborate armor, stunning jewelry, and ornate weapons.
 
 #### Clans and Kinship
 
-Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions, and unshakable commitment to honoring their ancient traditions.
+Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
 
 #### Beyond the Mountains
 
@@ -46,7 +46,7 @@ Deep Dwarves are a secretive lineage familiar with mysterious and perilous depth
 
 #### Hill Dwarf
 
-Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many different races.
+Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many races.
 
 `Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives. As such, they have abilities that enable them to navigate natural environments.`
 
@@ -60,7 +60,7 @@ The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven 
 
 Mountain Dwarves excel at building majestic structures that stand the test of time because of their unmatched stoneworking knowledge. Their magnificent architectural wonders, which feature enormous stone halls, complex carvings, and expertly carved pillars extending into their mountain homes' interiors, represent their deep connection to the mountains. Mountain Dwarves can easily navigate the underground tunnel network because of their acute eyes and natural ability to see in the dark.
 
-`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, they have abilities that enable them` <!--add copy here-->.
+`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, their abilities enable them` <!--add copy here-->.
 
 ##### Mountain Dwarf Traits
 
