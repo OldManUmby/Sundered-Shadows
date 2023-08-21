@@ -40,6 +40,22 @@ The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - wh
 
 Except where noted in their lineage, all races generate ability scores as follows. Roll 3d6 and tally the dice; repeat this process for each ability in order.
 
+### Age
+
+***Infant.*** <!--add copy here-->
+
+***Child.*** <!--add copy here-->
+
+***Young.*** <!--add copy here-->
+
+***Adult.*** <!--add copy here-->
+
+***Old.*** <!--add copy here-->
+
+***Venerable.*** <!--add copy here-->
+
+***Ancient.*** <!--add copy here-->
+
 ### Alignment
 
 ***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
