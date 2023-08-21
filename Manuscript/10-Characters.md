@@ -2,7 +2,7 @@
 
 # Ancestry
 
-In this section, you'll find instructions for creating a player character (PC). Glance through the ancestry and lineage options, then appropriately fill in the character sheet.
+In this section, you'll find instructions for creating a player character (PC). Glance through the ancestry and lineage options, then fill in the character sheet appropriately.
 
 ## Abilities
 
@@ -28,15 +28,13 @@ The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - wh
 
 | Ability Score | Ability Modifier |
 | :-----------: | :--------------: |
-|       3       |        -4        |
-|      4-5      |        -3        |
-|      6-7      |        -2        |
-|      8-9      |        -1        |
-|     10-11     |        0         |
-|     12-13     |        +1        |
-|     14-15     |        +2        |
-|     16-17     |        +3        |
-|      18       |        +4        |
+|       3       |        -3        |
+|      4-5      |        -2        |
+|      6-8      |        -1        |
+|     9-12      |        0         |
+|     13-15     |        +1        |
+|     16-17     |        +2        |
+|      18       |        +3        |
 
 ### Generating Ability Scores
 
