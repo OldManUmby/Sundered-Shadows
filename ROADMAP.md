@@ -60,9 +60,10 @@
 - [x] ***Gameplay.*** Add/Define Turns and Initiative.
 - [x] ***Gameplay.*** Add/Define Resource-Die.
 
-### July 17th, 2023
+### August 20th, 2023
 
 - [x] ***Comments.*** Adjusted comments.
+- [x] Gameplay. Add Age categories.
 
 ## Work-In-Progress
 
