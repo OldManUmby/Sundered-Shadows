@@ -40,6 +40,8 @@ The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - wh
 
 Except where noted in their lineage, all races generate ability scores as follows. Roll 3d6 and tally the dice; repeat this process for each ability in order.
 
+### Alignment
+
 ***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
 ***Neutral.*** Characters believe in the balance of law and chaos and, through their actions, will maintain that balance as best they can.
 ***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and freedom and individuality come before society.

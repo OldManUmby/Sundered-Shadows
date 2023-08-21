@@ -15,7 +15,7 @@ Time is divided into the following segments.
 
 ## Actions in the Moment
 
-All actions occur at the moment, and since all actions are simultaneous, there are no "turns." Still, each character gets their moment in the spotlight.
+All actions occur in the moment, and since all actions are simultaneous, there are no "turns." Still, each character gets their moment in the spotlight.
 
 ### All At Once
 
@@ -29,7 +29,7 @@ However, some actions do resolve at slightly different moments. So, when things 
 
 **"EARLY" in the Moment** | Quick, Ranged, Reach, and Surprise actions resolve EARLY, before all other actions. A Readied action from the previous Moment resolves EARLY or can become a Delayed action resolving NOW or LATE.
 
-**"NOW" in the Moment** | Most standard actions resolve NOW. If desired, a Delayed action resolves NOW. A Charge action begins NOW but resolves LATE. Readying an action NOW resolves EARLY in the next Moment.
+**In the Moment** | Most standard actions resolve at the moment. If desired, a Delayed action resolves NOW. A Charge action begins NOW but resolves LATE. Readying an action NOW resolves EARLY in the next Moment.
 
 **"LATE" in the Moment** | Bonus, Slow, and Charge actions resolve LATE. A Delayed action that traverses beyond LATE automatically becomes a Readied action Early the next Moment.
 
