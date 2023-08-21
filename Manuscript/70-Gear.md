@@ -1,3 +1,3 @@
 # ==GEAR==
 
-<!--Add Gear section-->
+<!--add copy here-->

@@ -1,6 +1,6 @@
 # ==BACK COVER==
 
-<!--Add Back Cover art-->
+<!--add copy here-->
 
 Immerse yourself in a rich tapestry of the dark and fantastical, where ancient prophecies whisper through forgotten ruins, and secret things lurk in the shadows. Whether you seek to sunder evil, uncover hidden truths, or survive the unforgiving dangers of the night, *Sundered Shadows* offers an environment ripe for adventure, danger, exploration, and glory!
 

@@ -8,21 +8,21 @@ In this section, you'll find instructions for creating a player character (PC). 
 
 The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - while the final three represent the mental aspects - `a.k.a. Mind/Intellect`.
 
-***Strength.*** <!--Add copy here -->
+***Strength.*** <!--add copy here-->
 
-***Dexterity.*** <!--Add copy here -->
+***Dexterity.*** <!--add copy here-->
 
-***Constitution.*** <!--Add copy here -->
+***Constitution.*** <!--add copy here-->
 
-***Intelligence.*** <!--Add copy here -->
+***Intelligence.*** <!--add copy here-->
 
-***Wisdom.*** <!--Add copy here -->
+***Wisdom.*** <!--add copy here-->
 
-***Charisma.*** <!--Add copy here -->
+***Charisma.*** <!--add copy here-->
 
 ### Ability Modifiers
 
-<!--Add copy here -->
+<!--add copy here-->
 
 :: Table - Ability Modifiers
 
@@ -42,3 +42,6 @@ The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - wh
 
 Except where noted in their lineage, all races generate ability scores as follows. Roll 3d6 and tally the dice; repeat this process for each ability in order.
 
+***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
+***Neutral.*** Characters believe in the balance of law and chaos and, through their actions, will maintain that balance as best they can.
+***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and freedom and individuality come before society.

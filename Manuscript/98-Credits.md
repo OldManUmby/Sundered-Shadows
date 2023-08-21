@@ -2,7 +2,7 @@
 
 ***Writing and Layout.*** B.A. Umberger
 
-<!--Add Credits here-->
+<!--add copy here-->
 
 ## Tributes
 
@@ -10,12 +10,12 @@ We'd like to take this opportunity to pay tribute to the following for their ins
 
 * David Arneson and Gary Gygax, the fathers of classic gaming.
 
-<!--Add Tributes here-->
+<!--add copy here-->
 
 ## Special Thanks
 
-<!--Add Thanks here-->
+<!--add copy here-->
 
 Visit https://sundered-shadows.com for news, support, and game materials, including forms, sheets, adventures, campaigns, and supplements, plus optional hacks and mods.
 
-© Copyright 2023. <!--Add Copyright info-->
+© Copyright 2023. <!--add copy here-->

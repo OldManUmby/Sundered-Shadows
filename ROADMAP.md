@@ -60,6 +60,10 @@
 - [x] ***Gameplay.*** Add/Define Turns and Initiative.
 - [x] ***Gameplay.*** Add/Define Resource-Die.
 
+### July 17th, 2023
+
+- [x] ***Comments.*** Adjusted comments.
+
 ## Work-In-Progress
 
 ### Introduction

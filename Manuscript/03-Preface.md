@@ -1,5 +1,3 @@
 # ==PREFACE==
 
-<!--Add Preface section-->
-
-<!--Add Tribute section-->
+<!--add copy here-->

@@ -27,7 +27,7 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 ***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
 ***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
 ***Languages.*** Dwarves can speak, read and write Common and Dwarvish.
-***Proficiency Options.*** Dwarves can choose from the following proficiencies: <!--Add Proficiencies here-->.
+***Proficiency Options.*** Dwarves can choose from the following proficiencies: <!--add copy here-->.
 
 ### Dwarven Lineages
 
@@ -42,7 +42,7 @@ Deep Dwarves are a secretive lineage familiar with mysterious and perilous depth
 ##### Deep Dwarf Traits
 
 ***Darkvision.*** `See acutely in total darkness to a range of 60 feet.`
-***Shadowcraft.*** `Blend into shadows and dark places.` <!--More info needed--> 
+***Shadowcraft.*** `Blend into shadows and dark places.`
 
 #### Hill Dwarf
 
@@ -52,7 +52,7 @@ Hill Dwarves are well-known for their friendly personalities and close relations
 
 ##### Hill Dwarf Traits
 
-<!--Add Traits here -->
+<!--add copy here-->
 
 #### Mountain Dwarf
 
@@ -60,12 +60,12 @@ The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven 
 
 Mountain Dwarves excel at building majestic structures that stand the test of time because of their unmatched stoneworking knowledge. Their magnificent architectural wonders, which feature enormous stone halls, complex carvings, and expertly carved pillars extending into their mountain homes' interiors, represent their deep connection to the mountains. Mountain Dwarves can easily navigate the underground tunnel network because of their acute eyes and natural ability to see in the dark.
 
-`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, they have abilities that enable them` <!--Add more here -->.
+`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, they have abilities that enable them` <!--add copy here-->.
 
 ##### Mountain Dwarf Traits
 
-<!--Add Traits here -->
+<!--add copy here-->
 
 ### Dwarven Archetypes
 
-<!--Add copy here -->
+<!--add copy here-->

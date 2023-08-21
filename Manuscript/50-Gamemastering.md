@@ -1,3 +1,3 @@
 # ==GAMEMASTERING==
 
-<!--Add Gamemastering section-->
+<!--add copy here-->

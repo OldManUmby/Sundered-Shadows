@@ -1,49 +1,70 @@
 # ==GAMEPLAY==
 
-<!--Add copy here-->
+<!--add copy here-->
 
-## Time
+## Segments of Time
 
 Game time is divided into the following segments.
 
-| Segments | Duration     | Common Usages              |
-| -------- | ------------ | -------------------------- |
-| Moment   | 1-10 seconds | Combat or Spellcasting     |
-| Interval | 1-10 minutes | Exploration or Socializing |
-| Period   | 1-10 hours   | Recovery or Travel         |
-| Downtime | 1-10 days    | Recreation or Training     |
+|  Segment | Approx. Duration | Common Usages                            |
+| -------: | :--------------: | ---------------------------------------- |
+|   Moment |   1-10 Seconds   | `EARLY, NOW and LATE Action Checks`      |
+| Interval |   1-10 Minutes   | `Exploration, Resting, and Tasks`        |
+|   Period |    1-10 Hours    | `Recovery, Studying, Travel, and Tasks`  |
+| Downtime |    1-10 days     | `Recreation, Training, Travel and Tasks` |
 
-## Turns
+## Actions in the Moment
 
-The gamemaster will make this determination, but generally, when things get dicey, and conflicts must be resolved, the order of actions becomes relevant. In such situations, initiative may be declared by the gamemaster to ensure everyone gets to take a turn. Initiative always takes place in the moment; thus, combat is the most common use of initiative.
+All actions occur in the moment, and since all actions are simultaneous, there are no "turns." Still, each character gets their moment in the spotlight. 
 
-### Initiative
+### All At Once
 
-***Group Initiative.*** One player rolls an Initiative Check using 1d10 for the PC's side versus a roll by the gamemaster for the NPC's side; each side adds their `lowest proficiency` from those entering the fray. In some instances, the rules or the gamemaster may apply other modifiers.
+1. Players declare their actions and order, while the gamemaster does the same.
 
-> Roll 1d10 + Proficiency + Other Modifiers.
+2. Action Checks are rolled.
 
-***Individual Initiative.*** In one-on-one conflicts, each participant rolls an Initiative Check using 1d10; each side adds their `proficiency` and their dexterity modifier to the check. In some instances, the rules or the gamemaster may apply other modifiers.
+3. Effectiveness and Performance are resolved.
 
-> Roll 1d10 + Proficiency + DEX Modifier + Other Modifiers.
+However, some actions do resolve at slightly different moments. So, when things get dicey, and the order of things must be determined, the action type takes precedence.
 
-#### Who Acts First?
+**"EARLY" in the Moment** | Quick, Ranged, Reach, and Surprise actions resolve EARLY, before all other actions. A Readied action from the previous Moment resolves EARLY or can become a Delayed action resolving NOW or LATE.
 
-The side with the highest initiative total gets to declare their actions first. In addition, each side may declare the order of their participants; this simulates a group's capacity to work together. When a tie occurs, it makes little difference what the order is as all actions are considered simultaneous.
+**"NOW" in the Moment** | Most standard actions resolve NOW. If desired, a Delayed action resolves NOW. A Charge action begins NOW but resolves LATE. Readying an action NOW resolves EARLY in the next Moment.
+
+**"LATE" in the Moment** | Bonus, Slow, and Charge actions resolve LATE. A Delayed action that traverses beyond LATE automatically becomes a Readied action Early the next Moment.
+
+**In any Moment** | When triggered, Delayed actions and Reactions resolve immediately in any moment or segment. `Saving throws are an example of a reaction.`
+
+## Range
+
+Game range is divided into the following zones.
+
+|   Zone | Approx. Distance | Common Usages                                |
+| -----: | :--------------: | -------------------------------------------- |
+|   SELF |       Self       | `Healing and spells that affect self`        |
+|  REACH |   Within Reach   | `Fighting + shooting point-blank`            |
+|  CLOSE |   Beyond Reach   | `Reach actions and shooting close`           |
+|   NEAR | Surrounding Area | `Charge + fight, throwing and shooting near` |
+|    FAR | Field of Vision  | `Full move and shooting far`                 |
+| BEYOND |   Beyond Sight   | `Omnipresent magic`                          |
 
 ## Actions
 
 Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
 
-An action check is generally not considered a solitary action. There are exceptions, but most often, an action check is a series of short, quick maneuvers, an action performed under stress or requiring extreme exertion, or a complex undertaking where a degree of concentration is needed, all under a single action check by a character.
+An action check is generally not considered a solitary action. There are exceptions, but most often, an action check is a series of short, quick attacks and maneuvers, an action performed under stress or requiring extreme exertion, or a complex undertaking where a degree of concentration is needed, all under a single action check by a character.
 
 ### Action Types
 
-***Standard.*** Actions like attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`.
-***Bonus.*** Extra action checks gained for reasons of momentum or special circumstances.
-***Extended.*** Tasks requiring more than one action check to perform.
-***Group.*** An assisted action check performed by multiple characters.
-***Save.*** A reaction check involving a character's natural ability and experience.
+**Standard** | Actions requiring action checks like attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`. Standard actions are typically resolved NOW.
+**Bonus** | Extra action checks gained for reasons of momentum or special circumstances. Bonus actions are resolved LATE.
+**Extended** | Tasks requiring more than one standard or group action to perform. Tasks often require several moments, intervals, or periods to complete; anything beyond that requires downtime, per the gamemaster.
+**Group** | An assisted standard action check performed by multiple characters. Group actions are typically resolved NOW.
+**Save** | A reaction check involving a character's natural ability and experience. Reactions are resolved in any moment or segment.
+
+#### Who Acts First?
+
+<!--add copy here-->
 
 ### Action Checks
 
@@ -101,7 +122,7 @@ However, mundane actions are only considered PER 1; to improve the performance r
 
 Once an action has been determined, a player adjusts the check based on the following factors.
 
-***Ability Score Modifiers.*** <!--Add copy here -->
+***Ability Score Modifiers.*** <!--add copy here-->
 
 <!--Add list of more Check Modifiers-->
 
