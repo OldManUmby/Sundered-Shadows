@@ -2,7 +2,7 @@
 
 # Ancestry
 
-In this section, you'll find instructions for creating a player character (PC). Glance through the ancestry and lineage options, then fill in the character sheet appropriately.
+In this section, you'll find instructions for creating a player character (PC). Glance through the ancestry and lineage options, then appropriately fill in the character sheet.
 
 ## Abilities
 
@@ -38,9 +38,11 @@ The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - wh
 
 ### Generating Ability Scores
 
-Except where noted in their lineage, all races generate ability scores as follows. Roll 3d6 and tally the dice; repeat this process for each ability in order.
+Except where noted in their lineage, all races generate ability scores the same. Roll 3d6 and tally the dice; repeat this process for each ability in order. `Upon completion, the player may swap any two ability scores.`
 
 ### Age
+
+The following age categories are used throughout the ruleset for all characters and creatures alike.
 
 ***Infant.*** <!--add copy here-->
 
@@ -59,5 +61,5 @@ Except where noted in their lineage, all races generate ability scores as follow
 ### Alignment
 
 ***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
-***Neutral.*** Characters believe in the balance of law and chaos and, through their actions, will maintain that balance as best they can.
+***Neutral.*** Characters believe in the balance of law and chaos and, through their actions or inactions, will maintain that balance as best they can.
 ***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and freedom and individuality come before society.
