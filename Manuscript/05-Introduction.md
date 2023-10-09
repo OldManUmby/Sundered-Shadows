@@ -8,7 +8,7 @@ A tabletop roleplaying game (TTRPG) is a collaborative storytelling pastime invo
 
 > ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Sundered Shadows. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many modern rulesets rely on tactical rules that get in the way, interfering with the moment's creativity. These games utilize a tactical landscape that is too restrictive; it's like watching a turn-by-turn video game in slow motion, and it gets worse under the guise of virtual tabletops (VTTs). Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick detail without worrying about the tactical rules.
 >
-> Although handouts and maps can be utilized, this methodology allows gaming groups to concentrate more on the storylines, descriptions, and characterizations. This provides an opportunity to visualize and respond to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
+> Although handouts and maps can be utilized, this methodology allows gaming groups to concentrate more on the storylines, descriptions, and characterizations. This provides an opportunity to visualize and respond to everything in more detail and in less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure.
 >
 > Many consider this mind’s eye approach the quintessential gaming style!
 
@@ -24,15 +24,15 @@ A few supplies are needed to utilize this ruleset; these items can be physical, 
 
 ### The Dice
 
-This ruleset utilizes gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 12-sided die (d12), and 20-sided die (d20); a pair of 10-sided die (d10) will also be required. Utilizing the d10 pair, one can also roll a d100 (a.k.a. percentile dice). The more dice available, the smoother the play.
+This ruleset utilizes gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 12-sided die (d12), and 20-sided die (d20); a pair of 10-sided die (d10) will also be required. One can use the d10 pair to roll a d100 (a.k.a. percentile dice). In the end, the more dice available, the smoother the play.
 
 > ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice to roll will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*. Other dice expressions include `Advantage and Disadvantage`; see `Gameplay` for more information.
 >
-> ***Percentile Dice (d100).*** This die type consists of two 10-sided dice, where one die represents the "tens" position, and the other represents the "ones" position. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of 100% is seen as "00" (double zeros) on the dice.
+> ***Percentile Dice (d100).*** As previously mentioned, this die type consists of two 10-sided dice, where one die represents the "tens" position, and the other represents the "ones" position. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of 100% is seen as "00" (double zeros) on the dice.
 
 ## Conventions
 
-These customary conventions are practiced throughout this ruleset.
+These customary conventions are practiced throughout the ruleset.
 
 ***Specific Beats General.*** You may find aspects of the rules that break or contradict other elements. When a contradiction occurs, specific rules often beat general rules; however, the gamemaster will arbitrate as needed.
 
@@ -40,4 +40,4 @@ These customary conventions are practiced throughout this ruleset.
 
 ## Jargon
 
-***Play the Odds.*** Within this ruleset, static values often replace variable dice mechanics to speed up gameplay; `this value will be highlighted within the rules`. If a character wishes to make a dice roll in place of the static value, they may do so, but not without risk. All static values are calculated using the average of the variable dice mechanic or approximately 50% of the intended die/dice range. Should a player choose to play the odds, they have roughly a 50/50 chance of attaining a higher or lower value; the gamemaster should always point out this fact before the player proceeds. If the player moves forward with the roll and obtains a lower number than the provided static value, they must accept the new value rolled. `The player may not circumvent the new value rolled by any means.`
+***Play the Odds.*** Within this ruleset, static values often replace variable dice mechanics to speed up gameplay; `this value will be highlighted within the rules`. If a character wishes to make a dice roll in place of the static value, they may do so, but not without risk. All static values are calculated using the average of the dice mechanic involved or approximately 50% of the intended die/dice range. Should a player choose to play the odds, they have roughly a 50/50 chance of attaining a higher or lower value; the gamemaster should always point out this fact before the player proceeds. If the player moves forward with the roll and obtains a lower number than the provided static value, they must accept the new value rolled. `The player may not circumvent the new value rolled by any means.`
