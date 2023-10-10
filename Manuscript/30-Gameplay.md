@@ -60,7 +60,7 @@ An action check is generally not considered a solitary action. There are excepti
 **Standard** | Actions requiring action checks like attacking, defending, maneuvering, spellcasting, and using `abilities, skills, and devices`. Standard actions are typically resolved NOW.
 **Bonus** | Extra action checks gained for reasons of momentum or special circumstances. Bonus actions are resolved LATE.
 **Extended** | Tasks requiring more than one standard or group action to perform. Tasks often require several moments, intervals, or periods to complete; anything beyond that requires downtime, per the gamemaster.
-**Group** | An assisted standard action check performed by multiple characters. Group actions are typically resolved NOW.
+**Group** | Standard action checks performed by multiple characters. These assisted actions are typically resolved NOW `but may also fall under the purview of tasks`.
 **Save** | A reaction check involving a character's natural ability and experience. Reactions are resolved in any moment or segment.
 
 #### Who Acts First?
