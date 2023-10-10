@@ -8,13 +8,15 @@ The Dwarves are a race renowned for their unyielding workmanship and tenacious s
 
 Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have an undoubtedly powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves typically stand 4 to 5 feet tall yet still weigh as much as an average human.
 
+`When creating a dwarven character, roll 4d6 for Constitution; retain the three highest dice, and discard the lowest die.`
+
 #### Masters of Stone and Forge
 
 Dwarves are skilled at utilizing complex networks of mines and caverns to access the vast mineral treasures buried beneath the earth. They are unafraid of the depths of the soil and have a fantastic aptitude for finding rare metals and jewels buried in the bedrock. Because of their unmatched mining and resource extraction expertise, they are in high demand as experienced miners and gem cutters. In addition, dwarves are unequaled artisans and master craftsmen known for their unrivaled abilities in mining and metallurgy. Their forges constantly shimmer brilliantly, and raw materials are transformed into beautiful art pieces, such as elaborate armor, stunning jewelry, and ornate weapons.
 
 #### Clans and Kinship
 
-Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
+Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions, and unshakable commitment to honoring their ancient traditions.
 
 #### Beyond the Mountains
 
@@ -24,9 +26,9 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 
 ***Abilities.*** For Strength and Constitution, roll 4d6; tally the highest three dice.
 ***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
-***Size.*** Dwarves are Medium size, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
+***Size.*** Dwarves are Medium-sized, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
 ***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
-***Languages.*** Dwarves can speak, read and write Common and Dwarvish.
+***Languages.*** Dwarves can speak, read, and write Common and Dwarvish.
 ***Proficiency Options.*** Dwarves can choose from the following proficiencies: <!--add copy here-->.
 
 ### Dwarven Lineages
