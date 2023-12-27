@@ -24,7 +24,7 @@ A few supplies are needed to utilize this ruleset; these items can be physical, 
 
 ### The Dice
 
-This ruleset utilizes gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 12-sided die (d12), and 20-sided die (d20); a pair of 10-sided die (d10) will also be required. One can use the d10 pair to roll a d100 (a.k.a. percentile dice). In the end, the more dice available, the smoother the play.
+This ruleset utilizes gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), and 20-sided die (d20). Ideally, a pair of 10-sided dies (d10) is best to roll a d100 (a.k.a. percentile dice). In the end, the more dice available, the smoother the play.
 
 > ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice to roll will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*. Other dice expressions include `Advantage and Disadvantage`; see `Gameplay` for more information.
 >
