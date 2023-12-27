@@ -61,7 +61,7 @@ An action check is generally not considered a solitary action. There are excepti
 **Bonus** | Extra action checks gained for reasons of momentum or special circumstances. Bonus actions are resolved LATE.
 **Extended** | Tasks requiring more than one standard or group action to perform. Tasks often require several moments, intervals, or periods to complete; anything beyond that requires downtime, per the gamemaster.
 **Group** | Standard action checks performed by multiple characters. These assisted actions are typically resolved NOW `but may also fall under the purview of tasks`.
-**Save** | A reaction check involving a character's natural ability and experience. Reactions are resolved in any moment or segment.
+**Save** | A reaction check involving a character's natural ability and experience. Reactions can be resolved at any moment or segment.
 
 #### Who Acts First?
 
@@ -83,7 +83,7 @@ An action check is generally not considered a solitary action. There are excepti
 
 Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. The gamemaster has three methods for determining DC.
 
-***Attacks.*** Used for attacks where an opposition can defend. An opponent's defense class provides the target number for the attack action.
+***Attacks.*** Actions where the opposition must defend itself. An opponent's defense class provides the target number for the attack action.
 
 > DC = The Defense Class of an opponent.
 
