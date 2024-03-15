@@ -6,12 +6,12 @@
 
 Time is divided into the following segments.
 
-|  Segment | Approx. Duration | Common Usages                            |
-| -------: | :--------------: | ---------------------------------------- |
-|   Moment |   1-10 Seconds   | `EARLY, NOW and LATE Action Checks`      |
-| Interval |   1-10 Minutes   | `Exploration, Resting, and Tasks`        |
-|   Period |    1-10 Hours    | `Recovery, Studying, Travel, and Tasks`  |
-| Downtime |    1-10 days     | `Recreation, Training, Travel and Tasks` |
+|  Segment | Approx. Duration | Usages                                                  |
+| -------: | :--------------: | ------------------------------------------------------- |
+|   Moment |   1-10 Seconds   | `EARLY, NOW, and LATE Action Checks and Combat Actions` |
+| Interval |   1-10 Minutes   | `Exploration, Resting, and Tasks`                       |
+|   Period |    1-10 Hours    | `Recovery, Relaxing, Studying, Marching, and Tasks`     |
+| Downtime |    1-10 days     | `Recreation, Training, Travel and Tasks`                |
 
 ## Actions in the Moment
 
@@ -29,25 +29,25 @@ However, some actions do resolve at slightly different moments. So, when things 
 
 **"EARLY" in the Moment** | Quick, Ranged, Reach, and Surprise actions resolve EARLY, before all other actions. A Readied action from the previous Moment resolves EARLY or can become a Delayed action resolving NOW or LATE.
 
-**In the Moment** | Most standard actions resolve at the moment. If desired, a Delayed action resolves NOW. A Charge action begins NOW but resolves LATE. Readying an action NOW resolves EARLY in the next Moment.
+**In THE Moment** | Most standard actions resolve at the moment. If desired, an earlier  Delayed action resolves NOW. A Charge action begins NOW but resolves LATE. Readying an action NOW resolves EARLY in the next Moment.
 
 **"LATE" in the Moment** | Bonus, Slow, and Charge actions resolve LATE. A Delayed action that traverses beyond LATE automatically becomes a Readied action Early the next Moment.
 
-**In any Moment** | When triggered, Delayed actions and Reactions resolve immediately in any moment or segment. `Saving throws are an example of a reaction.`
+**In ANY Moment** | When triggered, Delayed actions and Reactions resolve immediately in any moment or segment. `Saving throws are an example of a reaction.`
 
 ## Range
 
 Range is divided into the following zones.
 
-|    Zone |      Approx. Distance      |
-| ------: | :------------------------: |
-|    Self |            Self            |
-|   Reach |        Within reach        |
-|   Close |     Just beyond reach      |
-|    Near |      Surrounding area      |
-|     Far | Within sight; within focus |
-| Distant | Within sight; out of focus |
-|  Remote |        Beyond Sight        |
+|    Zone |     Approx. Distance      |
+| ------: | :-----------------------: |
+|    Self |           Self            |
+|   Reach |       Within reach        |
+|   Close |     Just beyond reach     |
+|    Near |     Surrounding area      |
+|     Far |   Within normal vision    |
+| Distant | Just beyond normal vision |
+|  Remote |       Beyond Sight        |
 
 ## Actions
 
@@ -61,7 +61,7 @@ An action check is generally not considered a solitary action. There are excepti
 **Bonus** | Extra action checks gained for reasons of momentum or special circumstances. Bonus actions are resolved LATE.
 **Extended** | Tasks requiring more than one standard or group action to perform. Tasks often require several moments, intervals, or periods to complete; anything beyond that requires downtime, per the gamemaster.
 **Group** | Standard action checks performed by multiple characters. These assisted actions are typically resolved NOW `but may also fall under the purview of tasks`.
-**Save** | A reaction check involving a character's natural ability and experience. Reactions can be resolved at any moment or segment.
+**Save** | A reaction check involving a character's natural ability and experience. Reactions can be resolved at any moment or segment, per the gamemaster.
 
 #### Who Acts First?
 
