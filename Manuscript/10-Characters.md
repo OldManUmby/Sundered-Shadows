@@ -2,7 +2,7 @@
 
 # Ancestry
 
-In this section, you'll find instructions for creating a player character (PC). Glance through the ancestry and lineage options, then appropriately fill in the character sheet.
+In this section, you'll find instructions for creating a player character (PC).
 
 ## Abilities
 
