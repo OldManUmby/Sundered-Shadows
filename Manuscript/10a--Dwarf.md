@@ -2,13 +2,13 @@
 
 ## Dwarf
 
-The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and fiery forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence replete with song and humor despite being frequently perceived as severe and stern. Hardy laughing and the clinking of tankards may be heard resonating through dwarven halls during victorious celebrations and festivals to honor their heroes and gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats and clans.
+The Dwarves are a race renowned for their unyielding workmanship and tenacious spirit that lives near or within craggy mountains where the sounds of hammers and fiery forges fill the air. These rugged mountain dwellers have built out a long and illustrious existence, replete with song and humor, despite being frequently perceived as severe and stern. Hardy laughing and the clinking of tankards may be heard resonating through dwarven halls during victorious celebrations and festivals to honor their heroes and gods. However, they conceal a keen awareness of history and an unwavering resolve beneath their cheery demeanor. Dwarves have deep memories, and they rarely forget wrongs from the past. They remain unified against any threat that attempts to intrude upon their territories and are passionate defenders of their habitats and clans.
 
 #### Stout and Hardy
 
-Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have an undoubtedly powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves typically stand 4 to 5 feet tall yet still weigh as much as an average human.
+Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have a powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves regularly stand 4 to 5 feet tall, yet still weigh as much as an average human.
 
-`When creating a dwarven character, roll 4d6 for Constitution, retain the three highest dice, and discard the lowest die.`
+`When creating a dwarven character, roll 4d6 for Constitution, keep the three highest dice, and discard the lowest die.`
 
 #### Masters of Stone and Forge
 
@@ -16,11 +16,11 @@ Dwarves are skilled at utilizing complex networks of mines and caverns to access
 
 #### Clans and Kinship
 
-Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
+Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions, and unshakable commitment to honoring their ancient traditions.
 
 #### Beyond the Mountains
 
-Even though dwarves frequently inhabit underground areas, their influence goes beyond the boundaries of their mountain dwellings. Many dwarves travel to the outside world for adventure or to trade their exquisitely produced goods. Some even take up arms as fearsome warriors and defenders, utilizing their strength, grit, and adept understanding of armor and weapons.
+Even though dwarves frequently inhabit underground areas, their influence goes beyond the boundaries of their mountain dwellings. Many dwarves travel to the outside world for adventure or to trade their superbly produced goods. Some even take up arms as fearsome warriors and defenders, using their strength, grit, and adept understanding of armor and weapons.
 
 ### Dwarven Traits
 
