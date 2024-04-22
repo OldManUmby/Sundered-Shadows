@@ -1,9 +1,9 @@
 # ==CHARACTERS==
 
+In this section, you'll find instructions for creating a player character (PC).
 # Ancestry
 
-In this section, you'll find instructions for creating a player character (PC).
-
+<!--add copy here-->
 ## Abilities
 
 The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - while the final three represent the mental aspects - `a.k.a. Mind/Intellect`.
@@ -59,5 +59,7 @@ The following age categories are used throughout the ruleset for all characters 
 ### Alignment
 
 ***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
+
 ***Neutral.*** Characters believe in the balance of law and chaos and, through their actions or inactions, will maintain that balance as best they can.
+
 ***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and freedom and individuality come before society.
