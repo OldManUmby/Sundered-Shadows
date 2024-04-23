@@ -23,8 +23,15 @@ A few supplies are needed to use this ruleset; these items can be physical, digi
 This ruleset uses gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), and 20-sided die (d20). Ideally, a pair of 10-sided dies (d10) is best to roll a d100 (a.k.a. percentile dice). In the end, the more dice available, the smoother the play.
 
 > ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice to roll will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*. Other dice expressions include `Advantage and Disadvantage`; see `Gameplay` for more information.
-> ***Percentile Dice (d100).*** As mentioned earlier, this die type comprises two 10-sided dice, where one die represents the "tens" position, and the other represents the "ones" position. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of 100% is "00" (double zeros) on the dice.
+> ***Percentile Dice (d100).*** As mentioned earlier, this die type comprises two 10-sided dice, where one die represents the "tens" position, and the other represents the "ones" position. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
+#### Advantage
+
+When the situation warrants advantage, roll an extra die and use the higher; discard the lower die. Advantage may be applied to any die roll, per the gamemaster.
+
+#### Disadvantage
+
+When the situation warrants disadvantage, roll an extra die and use the lower; discard the higher die. Disadvantage may be applied to any die roll, per the gamemaster.
 ## Conventions
 
 These customary conventions are practiced throughout the ruleset.

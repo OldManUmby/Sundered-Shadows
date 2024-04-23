@@ -6,19 +6,19 @@ In this section, you'll find instructions for creating a player character (PC).
 <!--add copy here-->
 ## Abilities
 
-The first three abilities list the physical aspects - `a.k.a. Body/Fitness` - while the final three represent the mental aspects - `a.k.a. Mind/Intellect`.
+The first three abilities list the physical aspects, while the final three represent the mental aspects.
 
-***Strength.*** <!--add copy here-->
+***Strength.*** Brawn, might and physical power.
 
-***Dexterity.*** <!--add copy here-->
+***Dexterity.*** Coordination, reflexes, and speed.
 
-***Constitution.*** <!--add copy here-->
+***Constitution.*** Health, vitality, and stamina.
 
-***Intelligence.*** <!--add copy here-->
+***Intelligence.*** Learning, judgement and reasoning.
 
-***Wisdom.*** <!--add copy here-->
+***Wisdom.*** Instinct, perception, and willpower.
 
-***Charisma.*** <!--add copy here-->
+***Charisma.*** Charm, influence, and presence.
 
 ### Ability Modifiers
 
