@@ -1,7 +1,6 @@
 # Project Outline
 
 <!-- add copy here -->
-
 ## Time
 
 Time within the game is divided into segments, each with its usage. A segment's duration is approximate and non-tactical; no exact measurements exist. The gamemaster determines each segment according to the situation and the character's actions. However, most actions live in the moment, and only a few extend into other segments. A moment is fleeting, lasting seconds, while an interval lasts minutes. A period lasts hours, while downtime can last days or longer.
@@ -43,13 +42,11 @@ Most actions are standard, like attacking, defending, maneuvering, spellcasting,
 **Save** | A reaction involving a character's natural ability and experience.
 
 An action check is generally not considered solitary. There are exceptions, like extended or group actions, but most often, an action check is a series of short, quick actions performed under stress, in desperation, requiring extreme exertion, or a complex undertaking where a degree of concentration is needed. In these instances, actions are bound by a single action check.
-
 ### Target Number
 
 For a character to make an action check, the action's [TN] Target Number must be ascertained using an associated attribute. For most actions, the appropriate attribute will be obvious based on the provided definitions but requires arbitration from the gamemaster. The attribute will function as the base target number for the action check. Next, the gamemaster will subtract the foe's `[DEF] Defense`; the lower the target number, the more difficult the action check.
 
 > `Target Number (TN) = Attribute - Defence Class (DC).`
-
 ### Action Check
 
 Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character attacks, defends, attempts something new or challenging, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
@@ -61,29 +58,19 @@ To make an action check, roll 1d20 and compare the result against the final TN.
 
 **Failure** | If the roll reaches or is higher than the TN, the character fails.
 **Critical Failure** | If the roll is a 20, then the character fails critically.
-
 #### Criticals
 
 <!-- add copy here -->
 
-
-
-
-
 **[ADV] Advantage** | Add an extra die, roll the dice, then discard the highest rolled die, keeping the lowest.
 
 **[DIS] Disadvantage** | Add an extra die, roll the dice, then discard the lowest rolled die, keeping the highest.
-
-
-
 ## Combat
 
 <!-- add copy here -->
-
 ### Initiative
 
 Most actions occur at the moment, and since all actions are simultaneous, there are no "turns." Still, each character gets their moment in the spotlight. This process is achieved through a special check called Initiative, determining who acts before the foes.
-
 #### Initiative Check
 
 Each player-character rolls either a DEX or WIS Check, whichever attribute is higher or more appropriate to the situation; the gamemaster will make this determination. A situation that leans heavily on reaction time would rely on Dexterity, but if common sense, instinct, or perception is key to first discerning the situation, then it makes more sense to use Wisdom. Each character that succeeds on the check may act before the foes; all other PCs will act after the foes.
@@ -91,11 +78,9 @@ Each player-character rolls either a DEX or WIS Check, whichever attribute is hi
 **Critical Success** |  The character gains a bonus action at the moment.
 
 **Critical Failure** |  The character may only take a standard action -OR- a move action at the moment, but not both.
-
 #### Check Modifiers
 
 <!-- add copy here -->
-
 ## Lineage
 
 <!-- add copy here -->
@@ -112,7 +97,6 @@ Small-sized humanoid | Prime DEX or WIS |
 
 **Human** | Versatile and resourceful, humans are known for their diverse cultures, ambition, and ability to thrive comfortably in many environments and professions.
 Medium-sized humanoid | Prime Any | 
-
 ## Role & Archetype
 
 <!-- add copy here -->
@@ -164,7 +148,6 @@ HD 1d12 | Prime STR |
 **Paragon** | <!-- add copy here -->
 
 **Ranger** | <!-- add copy here -->
-
 ## Attributes
 
 [STR] **Strength** | <!-- add copy here -->
@@ -178,19 +161,15 @@ HD 1d12 | Prime STR |
 [WIS] **Wisdom** | <!-- add copy here -->
 
 [CHA] **Charisma** | <!-- add copy here -->
-
 ### Generate Attributes
 
 Except for your PRIME attributes noted under your lineage and role, roll 3d6 for each attribute in order. Starting attributes for mortals range from 3 minimum to 18 maximum, up to 20 through gameplay. Anything over 20 is reserved for extraordinary beasts or immortals. If, through gameplay, an attribute reaches 0, a character dies [`see Death`].
-
 ## Hit Points
 
 xx
-
 ## Hit Dice
 
 xx
-
 ## Proficiency
 
 | Role    | Combat                | Spellcasting          |
@@ -208,4 +187,3 @@ Each class features two prime abilities, which gain proficiency bonus to saves.
 
 Save DC assigned by GM from a DC table (or thing) or based upon spellcasting ability.
 Spell Save DC = Base 8 + Proficiency + Ability Modifier (Base 8 could be spell level instead?)
-

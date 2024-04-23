@@ -19,7 +19,6 @@ The first three abilities list the physical aspects, while the final three repre
 ***Wisdom.*** Instinct, perception, and willpower.
 
 ***Charisma.*** Charm, influence, and presence.
-
 ### Ability Modifiers
 
 <!--add copy here-->
@@ -39,7 +38,6 @@ The first three abilities list the physical aspects, while the final three repre
 ### Generating Ability Scores
 
 Except where noted in their lineage, all races generate ability scores the same. Roll 3d6 and tally the dice; repeat this process for each ability in order. `Once all ability scores are rolled, the player may swap any two scores.`
-
 ### Age
 
 The following age categories are used throughout the ruleset for all characters and creatures alike.
@@ -55,7 +53,6 @@ The following age categories are used throughout the ruleset for all characters 
 ***Venerable.*** <!--add copy here-->
 
 ***Ancient.*** <!--add copy here-->
-
 ### Alignment
 
 ***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.

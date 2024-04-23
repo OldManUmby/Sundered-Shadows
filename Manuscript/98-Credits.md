@@ -3,7 +3,6 @@
 ***Writing and Layout.*** B.A. Umberger
 
 <!--add copy here-->
-
 ## Tributes
 
 We'd like to take this opportunity to pay tribute to the following for their inspiring game mechanics and hard work in progressing the world's greatest hobby:
@@ -11,7 +10,6 @@ We'd like to take this opportunity to pay tribute to the following for their ins
 * David Arneson and Gary Gygax, the fathers of classic roleplaying games.
 
 <!--add copy here-->
-
 ## Special Thanks
 
 <!--add copy here-->
