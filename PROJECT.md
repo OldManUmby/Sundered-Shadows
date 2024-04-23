@@ -58,13 +58,6 @@ To make an action check, roll 1d20 and compare the result against the final TN.
 
 **Failure** | If the roll reaches or is higher than the TN, the character fails.
 **Critical Failure** | If the roll is a 20, then the character fails critically.
-#### Criticals
-
-<!-- add copy here -->
-
-**[ADV] Advantage** | Add an extra die, roll the dice, then discard the highest rolled die, keeping the lowest.
-
-**[DIS] Disadvantage** | Add an extra die, roll the dice, then discard the lowest rolled die, keeping the highest.
 ## Combat
 
 <!-- add copy here -->
