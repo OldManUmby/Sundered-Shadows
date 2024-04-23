@@ -6,7 +6,7 @@ In this section, you'll find instructions for creating a player character (PC).
 <!--add copy here-->
 ## Abilities
 
-The first three abilities list the physical aspects, while the final three represent the mental aspects.
+All characters have a set of natural abilities. The first three abilities define the physical aspects, while the final three represent the mental aspects.
 
 ***Strength.*** Brawn, might and physical power.
 
