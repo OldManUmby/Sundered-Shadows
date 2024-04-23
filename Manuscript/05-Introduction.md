@@ -24,10 +24,10 @@ This ruleset uses gaming dice to validate a character’s actions during gamepla
 
 #### Advantage
 
-When the situation warrants advantage, roll an extra die and use the higher; discard the lower die. Advantage may be applied to any die roll, per the gamemaster.
+When the situation warrants advantage, roll an extra die and use the higher result; discard the lower die. Advantage may be applied to any die roll, per the gamemaster.
 #### Disadvantage
 
-When the situation warrants disadvantage, roll an extra die and use the lower; discard the higher die. Disadvantage may be applied to any die roll, per the gamemaster.
+When the situation warrants disadvantage, roll an extra die and use the lower result; discard the higher die. Disadvantage may be applied to any die roll, per the gamemaster.
 ## Conventions
 
 These customary conventions are practiced throughout the ruleset.
