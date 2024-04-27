@@ -1,24 +1,25 @@
 # ==CHARACTERS==
 
-In this section, you'll find instructions for creating a player character (PC).
+In this section, you'll find content for creating a player character (PC). Here, the following points are covered.
+
+***Ancestry.*** The core racial and heritage options for player characters.
+***Origin.*** The core background and cultural options for player characters.
+
 # Ancestry
 
 <!--add copy here-->
+
 ## Abilities
 
 All characters have a set of natural abilities. The first three abilities define the physical aspects, while the final three represent the mental aspects.
 
 ***Strength.*** Brawn, might and physical power.
-
 ***Dexterity.*** Coordination, reflexes, and speed.
-
 ***Constitution.*** Health, vitality, and stamina.
-
 ***Intelligence.*** Learning, judgement and reasoning.
-
 ***Wisdom.*** Instinct, perception, and willpower.
-
 ***Charisma.*** Charm, influence, and presence.
+
 ### Ability Modifiers
 
 <!--add copy here-->
@@ -38,21 +39,18 @@ All characters have a set of natural abilities. The first three abilities define
 ### Generating Ability Scores
 
 Except where noted in their lineage, all races generate ability scores the same. Roll 3d6 and tally the dice; repeat this process for each ability in order. `Once all ability scores are rolled, the player may swap any two scores.`
+
 ### Age
 
 The following age categories are used throughout the ruleset for all characters and creatures alike.
 
 ***Child.*** <!--add copy here-->
-
 ***Young.*** <!--add copy here-->
-
 ***Adult.*** <!--add copy here-->
-
 ***Old.*** <!--add copy here-->
-
 ***Venerable.*** <!--add copy here-->
-
 ***Ancient.*** <!--add copy here-->
+
 ### Alignment
 
 ***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
