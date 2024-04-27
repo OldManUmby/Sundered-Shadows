@@ -5,6 +5,7 @@
 Immerse yourself in a rich tapestry of the dark and fantastical, where ancient prophecies whisper through forgotten ruins, and secret things lurk in the shadows. Whether you seek to sunder evil, uncover hidden truths, or survive the unforgiving dangers of the night, *Sundered Shadows* offers an environment ripe for adventure, danger, exploration, and glory!
 
 *Sundered Shadows* is a return to non-tactical, theatre-of-the-mind gameplay. *Sundered Shadows* is a rules-lite, d20-based system designed for storytelling, danger, and action flow, and yet allows for a sundry of character features, gear, and supplemental rules. *Sundered Shadows* runs fast and loose, and although maps and miniatures can be utilized, most game aids are minimal.
+
 ### Game Features
 
 ***Old School Renaissance.*** *Sundered Shadows* is styled in the classic nature of early roleplaying games. As such, this ruleset utilizes the standard ability arrays and familiar concepts of many classic roleplaying games.
