@@ -1,4 +1,4 @@
-# ==INTRODUCTION==
+# INTRODUCTION
 
 A tabletop roleplaying game (TTRPG) is a collaborative storytelling pastime involving a playgroup of at least two players, though more players are typical. Together, this group plays adventures in a fictional setting similar to a novel, TV series, or movie.
 

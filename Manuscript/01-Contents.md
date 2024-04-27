@@ -1,3 +1,3 @@
-# ==CONTENTS==
+# CONTENTS
 
 <!--add copy here-->

@@ -1,4 +1,4 @@
-# ==BACK COVER==
+# BACK COVER
 
 <!--add copy here-->
 

@@ -1,4 +1,4 @@
-# ==GAMEPLAY==
+# GAMEPLAY
 
 <!--add copy here-->
 

@@ -1,4 +1,4 @@
-# ==GAMEMASTERING==
+# GAMEMASTERING
 
 <!--add copy here-->
 
