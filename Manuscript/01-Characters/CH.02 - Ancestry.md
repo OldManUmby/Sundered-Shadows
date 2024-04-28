@@ -1,3 +1,3 @@
-# Races
+# Ancestry
 
 <!--add copy here-->
