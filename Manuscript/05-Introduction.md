@@ -12,7 +12,7 @@ A tabletop roleplaying game (TTRPG) is a collaborative storytelling pastime invo
 
 The players handle the actions of the protagonists - a.k.a. player characters (PCs); the heroes trying to survive and thrive during the adventures. However, one player serves as the gamemaster (GM), whose sole job is to create and manage the adventures, plus narrate the actions of the antagonists - a.k.a. non-player characters (NPCs) - including all beasts, bosses, and powers-that-be. Although it's the gamemaster's job to create the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players co-write the ongoing storyline from each person's - or character's - point of view. The storyline is created out of the minds of the gamemaster AND the players, AND the outcomes of each roll of the dice.
 
->***Gamemaster's Discretion.*** One of the most critical aspects of *Sundered Shadows* is that the gamemaster arbitrates everything and has the final say over any rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed rule changes before playing; a session zero can be used this way.
+>***Gamemaster's Discretion.*** One of the most critical aspects of *Sundered Shadows* is that the gamemaster arbitrates everything and has the final say over ANY rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed rule changes before playing; a session zero can be used this way.
 
 ## What do I need to play?
 
@@ -31,7 +31,7 @@ Per the gamemaster, advantage may be applied to any die roll. Under such circums
 
 #### Disadvantage
 
-Per the gamemaster, disadvantage may be applied to any die roll. Under such circumstances, add an extra die to the roll and use the higher result; discard the lower die.
+Per the gamemaster, disadvantage may be applied to any die roll. Under such circumstances, add an extra die to the roll and use the lower result; discard the higher die.
 
 ## Conventions
 
