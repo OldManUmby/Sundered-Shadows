@@ -20,10 +20,10 @@ A few supplies are needed to use this ruleset; these items can be physical, digi
 
 ### The Dice
 
-This ruleset uses gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), and 20-sided die (d20). Ideally, a pair of 10-sided dice (d10) works best to roll percentile (d100).
+This ruleset uses gaming dice to validate a character’s actions during gameplay; a handful of dice will be needed, as in a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100).
 
-> ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice to roll will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*. Other dice expressions include `Advantage and Disadvantage`; see `Gameplay` for more information.
-> ***Percentile Dice (d100).*** As mentioned earlier, this die type comprises two 10-sided dice, where one die represents the "tens" position, and the other represents the "ones" position. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
+> ***Dice Expressions.*** When multiples of the same die type are described in the text, the number of dice to roll will appear before the die type. For example, two 6-sided dice (d6) are written as *2d6*.
+> ***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles, where one die represents the "tens" position, and the other represents the "ones" position; both are chosen beforehand. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
 #### Advantage
 
