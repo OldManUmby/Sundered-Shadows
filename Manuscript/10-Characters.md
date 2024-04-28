@@ -1,9 +1,6 @@
 # CHARACTERS
 
-In this section, you'll find content for creating a player character (PC). Here, the following points are covered.
-
-***Ancestry.*** The core racial and heritage options for player characters.
-***Origin.*** The core background and cultural options for player characters.
+This section covers the rules for creating a player character (PC).
 
 ## Ancestry
 
