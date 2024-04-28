@@ -1,4 +1,4 @@
-# CHARACTERS
+# CHARACTER CREATION
 
 This section contains rules for generating a player character (PC). Follow the steps below.
 
