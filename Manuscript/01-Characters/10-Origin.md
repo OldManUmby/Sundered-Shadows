@@ -1,6 +1,13 @@
 # CHARACTERS
 
-This section contains rules for creating a player character (PC).
+This section contains rules for generating a player character (PC). Follow the steps below.
+
+1. Choose a race and lineage. Record traits and prime requisite.
+2. Choose a class and archetype. Record features and spells. 
+3. Choose a background and experience. Record skillsets and tools.
+4. Generate ability scores and prime requisites. Record ability modifiers.
+5. Generate coinage and select starting gear. Record gear and resources.
+6. Complete all remaining character details.
 
 ## Abilities
 
@@ -33,7 +40,7 @@ All characters have a set of natural abilities. The first three abilities define
 
 ### Generating Ability Scores
 
-Except for prime requisites, as noted under each lineage, all races generate their ability scores the same. Roll 3d6 and tally the dice; repeat this process for each ability in order. Once all ability scores are rolled, the player may swap any two scores. Prime requisites may only be swapped with a higher score.
+All races generate their ability scores the same. Roll 3d6 and tally the dice; repeat this process for each ability in order. As noted under each lineage and class, prime requisites have advantage. After all ability scores are rolled, the player may swap any two scores once. Prime requisites may only be swapped with a higher score.
 
 ### Age
 
