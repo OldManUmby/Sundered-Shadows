@@ -17,4 +17,3 @@ Immerse yourself in a rich tapestry of the dark and fantastical, where ancient p
 ***Streamlined Ruleset.*** *Sundered Shadows* improves the action economy by removing unnecessary elements and combining many game mechanics that hamper the creative process and impede gameplay.
 
 ***Campaign Neutral.*** *Sundered Shadows* is a guidebook designed for any fantasy world the gamemaster can imagine or create. Gamesters are encouraged to fill in any missing details with their worldbuilding elements.
-
