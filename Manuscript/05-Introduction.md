@@ -27,11 +27,11 @@ This ruleset uses gaming dice to validate a character’s actions during gamepla
 
 #### Advantage
 
-Per the gamemaster, advantage may apply to any die roll. Under such circumstances, add an extra die to the roll and use the higher result; discard the lower die.
+Per the gamemaster, advantage may apply to any die roll. Under such circumstances, add an extra die to the roll and use the higher result; discard the low die. The process is the same for advantage with multiple dice; add an extra die to the pool, roll and discard the lowest die.
 
 #### Disadvantage
 
-Per the gamemaster, disadvantage may apply to any die roll. Under such circumstances, add an extra die to the roll and use the lower result; discard the higher die.
+Per the gamemaster, disadvantage may apply to any die roll. Under such circumstances, add an extra die to the roll and use the lower result; discard the high die. The process is the same for disadvantage with multiple dice; add an extra die to the pool, roll and discard the highest die.
 
 ## Conventions
 
