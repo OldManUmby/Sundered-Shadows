@@ -1,6 +1,6 @@
 # CHARACTERS
 
-This section covers the rules for creating a player character (PC).
+This section contains rules for creating a player character (PC).
 
 ## Ancestry
 
@@ -12,7 +12,7 @@ All characters have a set of natural abilities. The first three abilities define
 
 ***Strength.*** Brawn, might and physical power.
 ***Dexterity.*** Coordination, reflexes, and speed.
-***Constitution.*** Health, vitality, and stamina.
+***Constitution.*** Resilience, vitality, and stamina.
 ***Intelligence.*** Learning, judgement and reasoning.
 ***Wisdom.*** Instinct, perception, and willpower.
 ***Charisma.*** Charm, influence, and presence.
