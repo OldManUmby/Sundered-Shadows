@@ -1,13 +1,14 @@
 # CHARACTER CREATION
 
-This section contains rules for generating a player character (PC). Follow the steps below.
+This section contains rules for generating a player character (PC). Follow the steps below. Record your character's stats, information, and gear on the provided character sheet; see Appendix XX: Character Sheet.
 
-1. Choose a race and lineage. Record traits and prime requisite.
-2. Choose a class and archetype. Record features and spells. 
-3. Choose a background and experience. Record skillsets and tools.
-4. Generate ability scores and prime requisites. Record ability modifiers.
-5. Generate coinage and select starting gear. Record gear and resources.
-6. Complete all remaining character details.
+1. Choose a race and lineage.
+2. Choose a class and archetype.
+3. Choose a background and experience.
+4. Generate ability scores and prime requisites.
+5. Generate coinage and select starting gear.
+6. Calculate the defense class and hit points.
+7. Complete all remaining character details.
 
 ## Abilities
 
@@ -22,21 +23,23 @@ All characters have a set of natural abilities. The first three abilities define
 
 ### Ability Modifiers
 
-<!--add copy here-->
+The normal range for characters falls between 3 and 18. There are times when a score could drop below 3 or rise above 18. Should a score drop to 0 (zero), the character becomes incapacitated until such a time the score rises to 1 or more; for more information, see [[Incapacitation]]. A score of 20 is the highest possible score for a mortal character. Should a score rise above 20 permanently, the character becomes renowned; for more information, see [[Renowned]].
 
 :: Table - Ability Modifiers
 
 | Ability Score | Ability Modifier |
 | :-----------: | :--------------: |
+|       1       |        -5        |
+|       2       |        -4        |
 |       3       |        -3        |
 |      4-5      |        -2        |
 |      6-8      |        -1        |
 |     9-12      |        0         |
 |     13-15     |        +1        |
 |     16-17     |        +2        |
-|      18*      |        +3        |
-
-\*Add +1 modifier for each step above 18.
+|      18       |        +3        |
+|      19       |        +4        |
+|      20       |        +5        |
 
 ### Generating Ability Scores
 
