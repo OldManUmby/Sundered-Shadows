@@ -1,3 +1,3 @@
-# INDEX
+# Index
 
 <!--add copy here-->

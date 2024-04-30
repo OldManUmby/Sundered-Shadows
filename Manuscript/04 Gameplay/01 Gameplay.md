@@ -1,4 +1,4 @@
-# GAMEPLAY
+# Gameplay
 
 <!--add copy here-->
 

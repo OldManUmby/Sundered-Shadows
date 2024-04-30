@@ -1,14 +1,6 @@
-# CHARACTER CREATION
+# Character Features
 
-This section contains rules for generating a player character (PC). Follow the steps below. Record your character's stats, information, and gear on the provided character sheet; see Appendix XX: Character Sheet.
-
-1. Choose ancestry and lineage.
-2. Choose class and archetype.
-3. Choose background and experience.
-4. Generate ability scores and prime requisites.
-5. Generate coinage and select starting gear.
-6. Calculate defense class and hit points.
-7. Complete all remaining character details.
+<!--add copy here-->
 
 ## Abilities
 

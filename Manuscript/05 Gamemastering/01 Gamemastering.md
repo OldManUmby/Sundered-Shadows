@@ -1,4 +1,4 @@
-# GAMEMASTERING
+# Gamemastering
 
 <!--add copy here-->
 

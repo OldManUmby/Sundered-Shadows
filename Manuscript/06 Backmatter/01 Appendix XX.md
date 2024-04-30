@@ -1,3 +1,3 @@
-# APPENDIX XX
+# Appendix XX
 
 <!--add copy here-->

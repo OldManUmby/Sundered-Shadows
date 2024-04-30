@@ -1,3 +1,3 @@
-# GEAR
+# Gear
 
 <!--add copy here-->

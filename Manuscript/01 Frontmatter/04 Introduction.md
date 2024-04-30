@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Introduction
 
 A tabletop roleplaying game (TTRPG or RPG) is not just a game; it's a collaborative storytelling experience. These games bring together a group of players, usually more than two - although soloplay is also an option - to embark on adventures in a fictional setting, much like a novel, TV series, or movie.
 

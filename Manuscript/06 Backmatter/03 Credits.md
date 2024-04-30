@@ -1,4 +1,4 @@
-# CREDITS
+# Credits
 
 ***Writing and Layout.*** B.A. Umberger
 
