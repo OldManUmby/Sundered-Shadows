@@ -15,7 +15,7 @@ All characters have a set of natural abilities. The first three abilities define
 
 ### Ability Modifiers
 
-The normal range for characters is between 3 and 18. There are times when a score could drop below 3 or rise above 18. Should a score drop to 0 (zero), the character becomes incapacitated until the score rises to 1 or more; for more information, see [[Incapacitation]]. A score of 20 is the highest possible score for a mortal character. Should a score rise above 20 permanently, the character becomes renowned; for more information, see [[Renowned]].
+The normal range for characters is between 3 and 18. Sometimes, a score could drop below 3 or rise above 18. If a score drops to 0 (zero), the character becomes incapacitated until the score rises to 1 or more; see `Incapacitation` for more information. A score of 20 is the highest possible score for a mortal character. Should a score rise above 20 permanently, the character becomes renowned; see `Renowned` for more information.
 
 :: Table - Ability Modifiers
 
@@ -50,8 +50,8 @@ All characters and creatures use the following age categories throughout the rul
 
 ### Alignment
 
-***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before freedom and individuality.
+***Lawful.*** Characters believe in law, justice, order, and truth. Their word is their bond, and society comes before the needs of the individual.
 
 ***Neutral.*** Characters believe in the balance of law and chaos and, through their actions or inactions, will maintain that balance as best they can.
 
-***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and freedom and individuality come before society.
+***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and individuality comes before the needs of society.
