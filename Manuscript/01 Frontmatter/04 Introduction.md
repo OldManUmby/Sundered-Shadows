@@ -41,4 +41,4 @@ These customary conventions are practiced throughout the ruleset.
 
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction; a minimum of 1 always applies.
 
-***Terminology.*** Terms are defined throughout this ruleset. Where a term is used but not defined, browse the [[Manuscript/Backmatter/99.7 - Index|Index]] in the back of the material for its source.
+***Terminology.*** Terms are defined throughout this ruleset. Where a term is used but not defined, browse the Index in the back of the material for its source.
