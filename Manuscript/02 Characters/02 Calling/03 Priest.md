@@ -1,3 +1,3 @@
-# Classes
+# Priest
 
 <!--add copy here-->
