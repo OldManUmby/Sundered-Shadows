@@ -2,10 +2,10 @@
 
 ## Project Software
 
-***Obsidian.*** Primary markdown development.
-- ***Affinity Designer.*** Graphics, logos, and maps.
-- ***Affinity Photo.*** Photobashing.
-- ***Affinity Publisher.*** Print-ready and digital publishing files.
+***Obsidian.*** Writing, editing, and project management.
+- ***Affinity Designer.*** Graphics, logos, tradedress, and maps.
+- ***Affinity Photo.*** Photobashing, artwork, and maps.
+- ***Affinity Publisher.*** Digital and print publishing.
 
 ## Completed Tasks
 
@@ -17,16 +17,16 @@
 
 ### June 7th, 2023
 
-- [x] ***Scrutinize Title.***  Research the name "Sundered Shadows" against RPGs and domains.
-- [x] ***Establish Title.*** Utilize the name "Sundered Shadows" in the project and files.
+- [x] ***Scrutinize Title.***  Research the name "Sundered Shadows."
+- [x] ***Establish Title.*** Utilize "Sundered Shadows" in the project and files.
 - [x] ***Logo Design.*** Create the initial B&W logo design with basic layers.
 - [x] ***Export Logo.*** Export the B&W logo to JPG and PNG.
 - [x] ***GitHub Repo.*** Create the GitHub project repository and sync local files.
 
 ### June 8th, 2023
 
-- [x] ***Back Cover.*** Create initial copy text of the game summary on the Back Cover.
-- [x] ***Restructuring.*** Reorganized file structure for sub-files and balanced file size.
+- [x] ***Back Cover.*** Create the initial copy text on the Back Cover.
+- [x] ***Restructuring.*** Reorganized file structure and sub-files.
 
 ### July 14th, 2023
 
