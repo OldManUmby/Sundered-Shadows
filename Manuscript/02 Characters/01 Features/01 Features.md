@@ -4,14 +4,14 @@
 
 ## Abilities
 
-All characters have a set of natural abilities. The first three abilities define the physical aspects, while the final three represent the mental aspects.
+Every character possesses a unique set of innate abilities. The first trio embodies their physical prowess, while the latter trio encapsulates their mental acuity.
 
 ***Strength.*** Brawn, might, and physical power.
 ***Dexterity.*** Coordination, reflexes, and speed.
-***Constitution.*** Resilience, vitality, and stamina.
-***Intelligence.*** Learning, judgment, and reasoning.
-***Wisdom.*** Instinct, perception, and willpower.
-***Charisma.*** Charm, influence, and presence.
+***Constitution.*** Health, stamina, and toughness.
+***Intelligence.*** Judgment, reasoning, and savvy.
+***Wisdom.*** Awareness, focus, and instincts.
+***Charisma.*** Influence, nerve, and presence.
 
 ### Ability Modifiers
 
