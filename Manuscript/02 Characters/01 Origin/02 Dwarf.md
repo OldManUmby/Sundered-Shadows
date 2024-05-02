@@ -6,7 +6,7 @@ The Dwarves are a race renowned for their unyielding workmanship and tenacious s
 
 Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have a powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves regularly stand 4 to 5 feet tall yet still weigh as much as an average human.
 
-`When creating a dwarven character, roll 4d6 for Constitution, keep the three highest dice, and discard the lowest die.`
+`When creating a dwarven character, roll 4d6 for Strength or Constitution, keep the three highest dice, and discard the lowest die.`
 
 ## Masters of Stone and Forge
 
@@ -22,7 +22,7 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 
 ## Dwarven Traits
 
-***Abilities.*** For Strength and Constitution, roll 4d6; tally the highest three dice.
+***Abilities.*** For Strength or Constitution - choose one - roll 4d6; tally the highest three dice.
 ***Age.*** The starting age for dwarves is 40 to 50 years old. The average dwarf lives 300 years.
 ***Size.*** Dwarves are Medium-sized, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
 ***Speed.*** Base movement is 25 feet, and they are not encumbered by armor.
