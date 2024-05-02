@@ -2,6 +2,20 @@
 
 <!-- add copy here -->
 
+###### This Beta Material
+
+ Interspersed throughout this ruleset are various text blocks, each used differently, depending upon the content in question. Some text may even remain in the final product.
+
+>***Callouts.*** Quoteblocks like this are interspersed throughout the ruleset. Callouts typically contain optional or variant rules, references, commentary, or helpful advice.
+
+```
+Devblock. Beta content still under development.
+```
+
+`Inline Devblock. Beta content still under development.`
+
+---
+
 ## Time
 
 Time within the game is divided into segments, each with its usage. A segment's duration is approximate and non-tactical; no exact measurements exist. The gamemaster determines each segment according to the situation and the character's actions. However, most actions live in the moment, and only a few extend into other segments. A moment is fleeting, lasting seconds, while an interval lasts minutes. A period lasts hours, while downtime can last days or longer.
