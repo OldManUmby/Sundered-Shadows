@@ -14,7 +14,7 @@ Dwarves are skilled at utilizing complex networks of mines and caverns to access
 
 ## Clans and Kinship
 
-Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
+Strong Family ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
 
 ## Beyond the Mountains
 
