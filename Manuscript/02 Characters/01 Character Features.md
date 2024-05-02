@@ -48,9 +48,9 @@ When creating a character, or as a character advances in years, apply any adjust
 ***Venerable.*** <!--add copy here-->
 ***Ancient.*** <!--add copy here-->
 
-***Unnatural Aging.*** Characters and creatures rapidly aged or made young again by magic or effect are not impacted by crossing any age categories, but rather are closer to natural death or have prolonged it.
+***Unnatural Aging.*** Characters and creatures rapidly aged or made young again by magic or effect are not impacted by crossing any age categories but are closer to natural death or have prolonged it.
 
-***Immortality***. Characters who become immortal do not continue to age past adulthood unless they have already aged past that point; from there, all physical aging stops. They receive no penalties as they proceed through the years; only the bonuses. `In addition, for each "lifetime" spent as an immortal, they may master any one skillset or swap out any one skillset for a new one, assuming they have worked towards that goal.`
+***Immortality***. Characters who become immortal do not continue to age past adulthood unless they have already aged past that point; from there, all physical aging stops. They receive no penalties as they proceed through the years, only the bonuses. `In addition, for each "lifetime" spent as an immortal, they may master any one skillset or swap out any one skillset for a new one, assuming they have worked towards that goal.`
 
 ## Alignment
 
@@ -59,3 +59,7 @@ When creating a character, or as a character advances in years, apply any adjust
 ***Neutral.*** Characters believe in the balance of law and chaos and, through their actions or inactions, will maintain that balance as best they can.
 
 ***Chaotic.*** Characters believe in anarchy, chaos, disorder, and freedom. They cannot be trusted, and individuality comes before the needs of society.
+
+## Corruption (Optional)
+
+<!--add copy here-->
