@@ -4,7 +4,7 @@ The Dwarves are a race renowned for their unyielding workmanship and tenacious s
 
 ## Stout and Hardy
 
-Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have a powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves regularly stand 4 to 5 feet tall, yet still weigh as much as an average human.
+Dwarves are a race with a rich culture famed for their husky bodies and extraordinary endurance. Despite being smaller than most humanoids, they have a powerful presence. Dwarves are built for resiliency with a capacity to survive the harshest conditions. They have broad shoulders and robust frames. Dwarves regularly stand 4 to 5 feet tall yet still weigh as much as an average human.
 
 `When creating a dwarven character, roll 4d6 for Constitution, keep the three highest dice, and discard the lowest die.`
 
@@ -14,7 +14,7 @@ Dwarves are skilled at utilizing complex networks of mines and caverns to access
 
 ## Clans and Kinship
 
-Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions, and unshakable commitment to honoring their ancient traditions.
+Strong familial ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
 
 ## Beyond the Mountains
 
@@ -46,7 +46,7 @@ Deep Dwarves are a secretive lineage familiar with mysterious and perilous depth
 
 ### Hill Dwarf
 
-Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. Hill Dwarves, in contrast to their mountain-dwelling relatives, have seized the chances offered by their proximity to other cultures. Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many races.
+Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. In contrast to their mountain-dwelling relatives, Hill Dwarves have seized the chances offered by their proximity to other cultures. Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many races.
 
 `Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives. As such, they have abilities that enable them to navigate natural environments.`
 
