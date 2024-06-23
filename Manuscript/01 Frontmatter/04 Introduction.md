@@ -32,11 +32,11 @@ This ruleset uses gaming dice to validate a character’s actions during gamepla
 > ***Dice Expressions and Pools.*** When multiples of the same die type are described in the text, called dice pools, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*.
 > ***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, designated which is which beforehand. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
-#### Advantage
+#### Advantage (ADV)
 
 Per the shadowmaster, advantage (ADV) may be applied to any throw of the dice by adding an extra die to the roll and using the higher results; discard the low die.
 
-#### Disadvantage
+#### Disadvantage (DIS)
 
 Per the shadowmaster, disadvantage (DIS) may be applied to any throw of the dice by adding an extra die to the roll and using the lower results; discard the high die.
 
