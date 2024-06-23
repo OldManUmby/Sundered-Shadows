@@ -8,7 +8,7 @@ Dwarves are a race with a rich culture famed for their husky bodies and extraord
 
 ## Clans and Kinship
 
-Strong Family ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions and unshakable commitment to honoring their ancient traditions.
+Strong Family ties and a feeling of community are the cornerstones of dwarven culture. The importance of clans and kinship cannot be overstated, and a steadfast allegiance to one's family and fellows is expected. Every element of their lives is infused with a strong sense of honor and responsibility, influencing how they act and make decisions. Dwarves are renowned for their strong work ethic, constant pursuit of perfection in their chosen professions, and unshakable commitment to honoring their ancient traditions.
 
 ## Masters of Stone and Forge
 
@@ -21,8 +21,8 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 ## Dwarven Traits
 
 ***Abilities.*** Advantage when rolling for Strength or Constitution; choose one.
-***Age.*** The average dwarf lives 300 years.
-***Size.*** Dwarves are Medium-sized, standing 4 to 5 feet tall, sturdy, and about 150 pounds.
+***Age.*** The average dwarf matures as a human but lives 300 years.
+***Size.*** Dwarves are Medium-sized, standing 4 to 5 feet tall, sturdy, and average 150 pounds.
 ***Speed.*** Base movement is 25 feet; they are not encumbered by armor.
 ***Languages.*** Dwarves are fluent and literate in common and dwarvish dialects.
 ***Proficiencies.*** <!--add copy here-->

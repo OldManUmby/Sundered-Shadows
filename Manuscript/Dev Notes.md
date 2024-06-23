@@ -18,7 +18,7 @@ Devblock. Beta content still under development.
 
 ## Time
 
-Time within the game is divided into segments, each with its usage. A segment's duration is approximate and non-tactical; no exact measurements exist. The gamemaster determines each segment according to the situation and the character's actions. However, most actions live in the moment, and only a few extend into other segments. A moment is fleeting, lasting seconds, while an interval lasts minutes. A period lasts hours, while downtime can last days or longer.
+Time within the game is divided into segments, each with its usage. A segment's duration is approximate and non-tactical; no exact measurements exist. The shadowmaster determines each segment according to the situation and the character's actions. However, most actions live in the moment, and only a few extend into other segments. A moment is fleeting, lasting seconds, while an interval lasts minutes. A period lasts hours, while downtime can last days or longer.
 
 :: Table | Time Segements
 
@@ -31,7 +31,7 @@ Time within the game is divided into segments, each with its usage. A segment's 
 
 ## Ranges
 
-Ranges, or zones, are measured in areas. An area is approximate and non-tactical; no exact measurements exist. The gamemaster determines the size of each zone according to the number of areas involved, the situation, and the character's actions.
+Ranges, or zones, are measured in areas. An area is approximate and non-tactical; no exact measurements exist. The shadowmaster determines the size of each zone according to the number of areas involved, the situation, and the character's actions.
 
 Everything in reach or a few steps away is within 1 area, called the immediate area; this is close range. Most actions are performed in the immediate area, with only a few extending into other zones. Everything up and through 3 areas away is near range, called nearby or the surrounding area. Beyond 4 areas is far range and covers everything within sight and in focus, where details can still be distinguished, perhaps out to 6 areas. Still within sight but out of focus lies distant range, approximately 7+ areas away. Remote areas are further still, beyond the sight of a character. `Self is technically not a range but is included here for obvious reasons.`
 
@@ -60,14 +60,14 @@ An action check is generally not considered solitary. There are exceptions, like
 
 ### Target Number
 
-For a character to make an action check, the action's [TN] Target Number must be ascertained using an associated attribute. For most actions, the appropriate attribute will be obvious based on the provided definitions but requires arbitration from the gamemaster. The attribute will function as the base target number for the action check. Next, the gamemaster will subtract the foe's `[DEF] Defense`; the lower the target number, the more difficult the action check.
+For a character to make an action check, the action's [TN] Target Number must be ascertained using an associated attribute. For most actions, the appropriate attribute will be obvious based on the provided definitions but requires arbitration from the shadowmaster. The attribute will function as the base target number for the action check. Next, the shadowmaster will subtract the foe's `[DEF] Defense`; the lower the target number, the more difficult the action check.
 
 > `Target Number (TN) = Attribute - Defence Class (DC).`
 
 
 ### Action Check
 
-Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character attacks, defends, attempts something new or challenging, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
+Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character attacks, defends, attempts something new or challenging, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the shadowmaster will request an action check.
 
 To make an action check, roll 1d20 and compare the result against the final TN.
 
@@ -87,7 +87,7 @@ Most actions occur at the moment, and since all actions are simultaneous, there 
 
 #### Initiative Check
 
-Each player-character rolls either a DEX or WIS Check, whichever attribute is higher or more appropriate to the situation; the gamemaster will make this determination. A situation that leans heavily on reaction time would rely on Dexterity, but if common sense, instinct, or perception is key to first discerning the situation, then it makes more sense to use Wisdom. Each character that succeeds on the check may act before the foes; all other PCs will act after the foes.
+Each player-character rolls either a DEX or WIS Check, whichever attribute is higher or more appropriate to the situation; the shadowmaster will make this determination. A situation that leans heavily on reaction time would rely on Dexterity, but if common sense, instinct, or perception is key to first discerning the situation, then it makes more sense to use Wisdom. Each character that succeeds on the check may act before the foes; all other PCs will act after the foes.
 
 **Critical Success** |  The character gains a bonus action at the moment.
 

@@ -19,7 +19,7 @@ All actions occur in the moment, and since all actions are simultaneous, there a
 
 ### All At Once
 
-1. Players declare their actions and order, while the gamemaster does the same.
+1. Players declare their actions and order, while the shadowmaster does the same.
 2. Action Checks are rolled.
 3. Effectiveness and Performance are resolved.
 
@@ -49,7 +49,7 @@ Range is divided into the following zones.
 
 ## Actions
 
-Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the gamemaster will request an action check.
+Typically, most character actions do not require dice rolls; these are non-combat actions considered mundane. However, anytime a character is challenged, attacks, attempts something new, `performs a feat`, casts a spell, or the outcome of an action is in question, and a degree of success or failure must be ascertained, the shadowmaster will request an action check.
 
 An action check is generally not considered a solitary action. There are exceptions, but most often, an action check is a series of short, quick attacks and maneuvers, an action performed under stress or requiring extreme exertion, or a complex undertaking where a degree of concentration is needed, all under a single action check by a character.
 
@@ -59,11 +59,11 @@ An action check is generally not considered a solitary action. There are excepti
 
 **Bonus** | Extra action checks gained for reasons of momentum or special circumstances. Bonus actions are resolved LATE.
 
-**Extended** | Tasks requiring more than one standard or group action to perform. Tasks often require several moments, intervals, or periods to complete; anything beyond that requires downtime, per the gamemaster.
+**Extended** | Tasks requiring more than one standard or group action to perform. Tasks often require several moments, intervals, or periods to complete; anything beyond that requires downtime, per the shadowmaster.
 
 **Group** | Standard action checks performed by multiple characters. These assisted actions are typically resolved NOW `but may also fall under the purview of tasks`.
 
-**Save** | A reaction check involving a character's natural ability and experience. Reactions can be resolved at any moment or segment, per the gamemaster.
+**Save** | A reaction check involving a character's natural ability and experience. Reactions can be resolved at any moment or segment, per the shadowmaster.
 
 #### Who Acts First?
 
@@ -83,23 +83,23 @@ An action check is generally not considered a solitary action. There are excepti
 
 #### Defense/Difficulty Class (DC)
 
-Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. The gamemaster has three methods for determining DC.
+Defence Class (a.k.a. Defense) and Difficulty Class (a.k.a. Difficulty) are synonymous; both provide the required target number for all action checks. The shadowmaster has three methods for determining DC.
 
 ***Attacks.*** Actions where the opposition must defend itself. An opponent's defense class provides the target number for the attack action.
 
 > DC = The Defense Class of an opponent.
 
-***Contests.*** Used for actions that directly conflict with an opposing action. An opposed action check rolled by the gamemaster provides the target number for the action check.
+***Contests.*** Used for actions that directly conflict with an opposing action. An opposed action check rolled by the shadowmaster provides the target number for the action check.
 
-> DC = An Opposed Check rolled by the gamemaster.
+> DC = An Opposed Check rolled by the shadowmaster.
 
-***Proficiency.*** Used for actions involving an `ability, skill, device, or tool proficiency`. A level of difficulty assigned by the gamemaster provides the target number for the action check.
+***Proficiency.*** Used for actions involving an `ability, skill, device, or tool proficiency`. A level of difficulty assigned by the shadowmaster provides the target number for the action check.
 
-> DC = A Difficulty Class assigned by the gamemaster.
+> DC = A Difficulty Class assigned by the shadowmaster.
 
 #### Assigning DC
 
-For unopposed action checks, the gamemaster shall assign a level of difficulty based on the table below.
+For unopposed action checks, the shadowmaster shall assign a level of difficulty based on the table below.
 
 :: Table - Difficulty Classes
 
@@ -109,17 +109,17 @@ For unopposed action checks, the gamemaster shall assign a level of difficulty b
 
 #### DC Modifiers
 
-Once the initial target number has been determined, the gamemaster may adjust the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete range of DC target numbers is `0 thru 25`; a DC cannot be any lower or higher.
+Once the initial target number has been determined, the shadowmaster may adjust the DC, `-5 thru +5`, based on any significant factors the GM determines are appropriate to the situation. Thus, the complete range of DC target numbers is `0 thru 25`; a DC cannot be any lower or higher.
 
 <!--Add list of DC Modifiers-->
 
-Remember that the gamemaster only modifies the DC, not the character's action checks. Players need only deal with bonus points to the action check, never penalty points, as those are applied to the DC instead.
+Remember that the shadowmaster only modifies the DC, not the character's action checks. Players need only deal with bonus points to the action check, never penalty points, as those are applied to the DC instead.
 
-***Mundane Actions.*** If a target number reaches `DC 0`, the action becomes mundane. The gamemaster will make the final determination but, in most cases, will wave the action check entirely as a roll is not necessary to complete the action. 
+***Mundane Actions.*** If a target number reaches `DC 0`, the action becomes mundane. The shadowmaster will make the final determination but, in most cases, will wave the action check entirely as a roll is not necessary to complete the action. 
 
 However, mundane actions are only considered PER 1; to improve the performance rating of a mundane action, a character may Play the Odds vs. DC 2; `Critical Failure` occurs on a Natural 1 due to some apparent oversight on the part of the character. Otherwise, the action's performance is calculated normally.
 
-***Improbable Actions.*** If a target number reaches `DC 25`, the action becomes improbable. The gamemaster will make the final determination but, in most cases, will wave the action check entirely as the action cannot be attained by *mortal* characters. However, an *immortal* character may still roll an improbable action check (see `Immortality` for more information).
+***Improbable Actions.*** If a target number reaches `DC 25`, the action becomes improbable. The shadowmaster will make the final determination but, in most cases, will wave the action check entirely as the action cannot be attained by *mortal* characters. However, an *immortal* character may still roll an improbable action check (see `Immortality` for more information).
 
 #### Check Modifiers
 
