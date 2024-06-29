@@ -35,7 +35,7 @@ The normal range for ability scores is between 3 and 18. Sometimes, a score coul
 
 ### Generating Ability Scores
 
-All races generate their ability scores the same way. Roll 3d6 and tally the dice; repeat this process for each ability in order. As noted under each lineage and class, prime requisites have advantage when rolling for ability scores. Once all scores are rolled, the player may swap any two. Prime requisites may only be swapped to gain a higher score.
+All races generate their ability scores the same way. Roll 3d6 and tally the dice; repeat this process for each ability in order. As noted under each lineage and class, prime requisites have advantage when rolling for ability scores. Once all scores are rolled, the player may swap any two.
 
 ### Aging
 
