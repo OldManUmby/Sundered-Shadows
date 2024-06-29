@@ -29,7 +29,7 @@ A few supplies are needed to use this ruleset; these items can be physical, digi
 
 This ruleset uses gaming dice to validate a character’s actions during gameplay. A handful of dice will be needed, typically consisting of a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100) consisting of two 10-sided die (d10), or a single 10-sided die (d10) rolled twice.
 
-> ***Dice Expressions and Pools.*** When multiples of the same die type are described in the text, called dice pools, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*.
+> ***Dice Expressions and Pools.*** When multiples of the same die type are described in the text, called dice pools, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*. Modifiers may also appear at the end of the formula, as in *3d6+1*.
 > ***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, designated which is which beforehand. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
 #### Advantage (ADV)

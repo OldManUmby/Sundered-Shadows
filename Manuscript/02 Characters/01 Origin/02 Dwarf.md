@@ -33,7 +33,7 @@ Dwarven lineages have the traits of typical dwarves and those specified under ea
 
 ### Deep Dwarf
 
-Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark rather than leaving their massive underground cities, where they predominantly reside. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for secret lore. Those who acquire their trust have access to their in-depth knowledge of the Underdark, a valuable resource for anybody trying to explore its perilous depths or unearth its ancient secrets.
+Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark rather than leaving their massive underground cities, where they predominantly reside. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for secret lore. Those who acquire their trust have access to their vast libraries of knowledge, a valuable resource for anybody trying to explore perilous depths or unearth ancient secrets.
 
 #### Deep Dwarf Traits
 
