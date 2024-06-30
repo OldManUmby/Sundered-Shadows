@@ -1,9 +1,17 @@
 # Character Calling
 
-<!--add copy here-->
+<!--WIP-->
 
-***Role.*** <!--add copy here-->
+***Role.*** <!--WIP-->
+- ***Mage.*** <!--WIP-->
+- ***Priest.*** <!--WIP-->
+- ***Rogue.*** <!--WIP-->
+- ***Warrior.*** <!--WIP-->
 
-***Class.*** <!--add copy here-->
+***Class.*** <!--WIP-->
+- ***Mage.*** XX. Alchemist, Sorcerer, Warlock, Wizard, plus Elementalist, Specialist.
+- ***Priest.*** XX. Adept, Cleric, Druid, Paladin, plus Crusader, Inquisitor.
+- ***Rogue.*** XX. Bard, Duelist, Thief, XX, plus Acrobat, Assassin.
+- ***Warrior.*** XX. Barbarian, Cavalier, Fighter, Ranger, plus Blade, Herald.
 
-***Archetype.*** <!--add copy here-->
+***Archetype.*** <!--WIP-->

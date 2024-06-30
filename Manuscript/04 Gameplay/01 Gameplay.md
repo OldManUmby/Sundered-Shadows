@@ -1,6 +1,6 @@
 # Gameplay
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Segments of Time
 
@@ -67,7 +67,7 @@ An action check is generally not considered a solitary action. There are excepti
 
 #### Who Acts First?
 
-<!--add copy here-->
+<!--WIP-->
 
 ### Action Checks
 
@@ -125,7 +125,7 @@ However, mundane actions are only considered PER 1; to improve the performance r
 
 Once an action has been determined, a player adjusts the check based on the following factors.
 
-***Ability Score Modifiers.*** <!--add copy here-->
+***Ability Score Modifiers.*** <!--WIP-->
 
 <!--Add list of more Check Modifiers-->
 

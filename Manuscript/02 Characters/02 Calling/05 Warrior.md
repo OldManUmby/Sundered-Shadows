@@ -1,3 +1,3 @@
 # Warrior
 
-<!--add copy here-->
+<!--WIP-->

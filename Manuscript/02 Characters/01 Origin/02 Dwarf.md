@@ -25,7 +25,7 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 ***Size.*** Dwarves are Medium-sized, standing 4 to 5 feet tall, sturdy, and average 150 pounds.
 ***Speed.*** Base movement is 25 feet; they are not encumbered by armor.
 ***Languages.*** Dwarves are fluent and literate in common and dwarvish dialects.
-***Proficiencies.*** <!--add copy here-->
+***Proficiencies.*** <!--WIP-->
 
 ## Dwarven Lineages
 
@@ -51,7 +51,7 @@ Hill Dwarves are well-known for their friendly personalities and close relations
 
 `Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives. As such, they have abilities that enable them to navigate natural environments.`
 
-<!--add copy here-->
+<!--WIP-->
 
 ### Mountain Dwarf
 
@@ -61,10 +61,10 @@ Mountain Dwarves excel at building majestic structures that stand the test of ti
 
 #### Mountain Dwarf Traits
 
-`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, their abilities enable them` <!--add copy here-->.
+`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, their abilities enable them` <!--WIP-->.
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Dwarven Archetypes
 
-<!--add copy here-->
+<!--WIP-->

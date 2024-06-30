@@ -1,6 +1,6 @@
 # Halfling
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Halfling Lineages
 
@@ -8,34 +8,34 @@ Halfling lineages have the traits of typical halflings in addition to those spec
 
 ### Lightfoot Halfling
 
-<!--add copy here-->
+<!--WIP-->
 
 ### Meddler Halfling
 
-<!--add copy here-->
+<!--WIP-->
 
 ### Stout Halfling
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Halfling Abilities
 
 Except where noted in their lineage, all halflings generate ability scores as follows.
 
-***Strength.*** <!--add copy here-->
-***Dexterity.*** <!--add copy here-->
-***Constitution.*** <!--add copy here-->
-***Intelligence.*** <!--add copy here-->
-***Wisdom.*** <!--add copy here-->
-***Charisma.*** <!--add copy here-->
+***Strength.*** <!--WIP-->
+***Dexterity.*** <!--WIP-->
+***Constitution.*** <!--WIP-->
+***Intelligence.*** <!--WIP-->
+***Wisdom.*** <!--WIP-->
+***Charisma.*** <!--WIP-->
 
 ## Halfling Traits
 
 ***Age.*** The starting age for halflings is 20+1d10. The average halfling lives 150 years.
-***Size.*** <!--add copy here-->
-***Speed.*** <!--add copy here-->
-***Languages.*** <!--add copy here-->
+***Size.*** <!--WIP-->
+***Speed.*** <!--WIP-->
+***Languages.*** <!--WIP-->
 
 ## Halfling Classes
 
-<!--add copy here-->
+<!--WIP-->

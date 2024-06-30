@@ -1,11 +1,11 @@
 # shadowmastering
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Optional Rules
 
-<!--add copy here-->
+<!--WIP-->
 
 ### Corruption
 
-<!--add copy here-->
+<!--WIP-->

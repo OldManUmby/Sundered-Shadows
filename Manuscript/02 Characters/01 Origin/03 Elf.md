@@ -1,6 +1,6 @@
 # Elf
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Elven Lineages
 
@@ -8,34 +8,34 @@ Elven lineages have the traits of typical elves in addition to those specified.
 
 ### Dark Elf
 
-<!--add copy here-->
+<!--WIP-->
 
 ### High Elf
 
-<!--add copy here-->
+<!--WIP-->
 
 ### Wood Elf
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Elven Abilities
 
 Except where noted in their lineage, all elves generate ability scores as follows.
 
-***Strength.*** <!--add copy here-->
-***Dexterity.*** <!--add copy here-->
-***Constitution.*** <!--add copy here-->
-***Intelligence.*** <!--add copy here-->
-***Wisdom.*** <!--add copy here-->
-***Charisma.*** <!--add copy here-->
+***Strength.*** <!--WIP-->
+***Dexterity.*** <!--WIP-->
+***Constitution.*** <!--WIP-->
+***Intelligence.*** <!--WIP-->
+***Wisdom.*** <!--WIP-->
+***Charisma.*** <!--WIP-->
 
 ## Elven Traits
 
 ***Age.*** The starting age for elves is 100+1d10. The average elf lives 500 years.
 ***Size.*** Elves are Medium size, standing 5'+1d12" tall, slender, and about 150 pounds. 
-***Speed.*** <!--add copy here-->
-***Languages.*** <!--add copy here-->
+***Speed.*** <!--WIP-->
+***Languages.*** <!--WIP-->
 
 ## Elven Classes
 
-<!--add copy here-->
+<!--WIP-->

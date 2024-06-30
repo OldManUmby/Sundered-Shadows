@@ -1,21 +1,21 @@
 # Character Features
 
-<!--add copy here-->
+<!--WIP-->
 
 ## Abilities
 
-Every character possesses a unique combination of innate abilities. The first trio embodies their physical prowess, while the latter encapsulates their mental acuity.
+Every character possesses a unique combination of natural abilities. The first trio embodies their physical prowess, while the latter encapsulates their mental acuity.
 
-***Strength.*** Brawn, might, and physical power. <!--add copy here-->
-***Dexterity.*** Coordination, reflexes, and speed. <!--add copy here-->
-***Constitution.*** Health, stamina, and toughness. <!--add copy here-->
-***Intelligence.*** Judgment, reasoning, and savvy. <!--add copy here-->
-***Wisdom.*** Focus, instincts, and perception. <!--add copy here-->
-***Charisma.*** Influence, nerve, and presence. <!--add copy here-->
+***Strength.*** Brawn, might, and physical power. <!--WIP-->
+***Dexterity.*** Coordination, reflexes, and speed. <!--WIP-->
+***Constitution.*** Health, stamina, and toughness. <!--WIP-->
+***Intelligence.*** Judgment, reasoning, and savvy. <!--WIP-->
+***Wisdom.*** Focus, instincts, and perception. <!--WIP-->
+***Charisma.*** Influence, nerve, and presence. <!--WIP-->
 
 ### Ability Modifiers
 
-The normal range for ability scores is between 3 and 18. Sometimes, a score could drop below 3 or rise above 18. If a score drops to 0 (zero), the character becomes incapacitated until the score rises to 1 or more; see `Incapacitation` for more information. A score of 20 is the highest possible score for a mortal character. Should a score rise above 20 (permanently), the character becomes renowned; see `Renowned` for more information. `Renowned is the first step to becoming immortal; see Immortality for more information.`
+The normal range for ability scores is between 3 and 18. Sometimes, a score could drop below 3 or rise above 18. If a score drops to 0 (zero), the character becomes incapacitated until the score rises to 1 or more; see `Incapacitation` for more information. A score of 20 is the highest possible score for a mortal character. Should a score permanently rise above 20, the character becomes renowned; see `Renowned` for more information. `Renowned is the first step to becoming immortal; see Immortality for more information.`
 
 :: Table - Ability Modifiers
 
@@ -35,22 +35,22 @@ The normal range for ability scores is between 3 and 18. Sometimes, a score coul
 
 ### Generating Ability Scores
 
-All races generate their ability scores the same way. Roll 3d6 and tally the dice; repeat this process for each ability in order. As noted under each lineage and class, prime requisites have advantage when rolling for ability scores. Once all scores are rolled, the player may swap any two.
+All races generate their ability scores the same way. The base roll is 3d6, then tally the dice; repeat this process for each ability in order. As noted under each lineage and class, prime requisites have advantage when rolling for ability scores. Once all scores are rolled, the player may swap any two.
 
 ### Aging
 
 When creating a character, or as a character advances in years, apply any adjustment below.
 
-***Child.*** <!--add copy here-->
-***Young.*** <!--add copy here-->
-***Adult.*** <!--add copy here-->
-***Old.*** <!--add copy here; master a skillset-->
-***Venerable.*** <!--add copy here-->
-***Ancient.*** <!--add copy here-->
+***Child.*** When creating a child character, the base roll is 3d4 for each ability with no modifiers from lineage.
+***Young.*** When creating a young character, the base roll is 3d6 for each ability with no modifiers from lineage.
+***Adult.*** <!--WIP-->
+***Old.*** <!--WIP-->
+***Venerable.*** <!--WIP-->
+***Ancient.*** <!--WIP-->
 
 ***Unnatural Aging.*** Characters and creatures rapidly aged or made young again by magic or effect are not impacted by crossing any age categories but rather are closer to natural death or have prolonged it.
 
-***Immortality***. Characters who become immortal do not continue to age past adulthood unless they have already aged past that point; from there, all physical aging stops. They receive no penalties as they proceed through the years, only the bonuses. `In addition, for each lifespan spent as an immortal, they may master any skillset or swap out for a new one, assuming they have worked towards that goal.`
+***Immortality***. Characters who become immortal do not continue to age past adulthood unless they have already aged past that point; from there, all physical aging stops. They receive no penalties as they proceed through the years, only the bonuses. `In addition, for each lifespan spent as an immortal, they may master any skillset or swap out for a new one.`
 
 ## Alignment
 
@@ -62,4 +62,4 @@ When creating a character, or as a character advances in years, apply any adjust
 
 ## Corruption (Optional)
 
-<!--add copy here-->
+<!--WIP-->
