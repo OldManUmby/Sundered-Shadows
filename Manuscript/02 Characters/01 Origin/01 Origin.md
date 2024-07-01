@@ -3,8 +3,13 @@
 <!--WIP-->
 
 ## Ancestry
+
 <!--WIP-->
 
-***Lineage.*** <!--WIP-->
+## Lineage
 
-***Legacy.*** <!--WIP-->
+<!--WIP-->
+
+## Legacy
+
+<!--WIP-->
