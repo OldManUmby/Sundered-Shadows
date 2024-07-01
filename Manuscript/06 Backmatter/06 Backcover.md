@@ -8,7 +8,7 @@ Immerse yourself in a rich tapestry of the dark and fantastical, where ancient p
 
 ### Game Features
 
-***Old School Renaissance.*** *Sundered Shadows* is styled in the classic nature of early roleplaying games. As such, this ruleset utilizes the standard ability arrays and familiar concepts of many classic roleplaying games.
+***Old School Renaissance.*** *Sundered Shadows* is styled in the classic nature of early roleplaying games. As such, this ruleset utilizes the standard ability arrays and familiar concepts of many OSR-style games.
 
 ***Theatre-of-the-Mind.*** *Sundered Shadows* is a return to the non-tactical, back-and-forth, cinematic environment where everything in-game is wholly imagined, taking place in the minds of the players and the shadowmaster.
 
@@ -16,4 +16,4 @@ Immerse yourself in a rich tapestry of the dark and fantastical, where ancient p
 
 ***Streamlined Ruleset.*** *Sundered Shadows* improves the action economy by removing unnecessary elements and combining many game mechanics that hamper creativity and impede the game's flow.
 
-***Campaign Neutral.*** *Sundered Shadows* is a guidebook designed for any fantasy world the shadowmaster can imagine or create. shadowmasters are encouraged to fill in any missing details with their worldbuilding elements.
+***Campaign Neutral.*** *Sundered Shadows* is a guidebook designed for any fantasy world the shadowmaster can imagine or create. Shadowmasters are encouraged to fill in any missing details with their worldbuilding elements.
