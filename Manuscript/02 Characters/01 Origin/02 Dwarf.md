@@ -31,37 +31,35 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 
 Dwarven lineages have the traits of typical dwarves and those specified under each lineage.
 
-### Deep Dwarf
+### Bronze Dwarf
 
-Deep Dwarves are a secretive lineage familiar with mysterious and perilous depths. They reside in the deepest subterranean parts and are shrouded in mystery. They spend their time exploring the Underdark rather than leaving their massive underground cities, where they predominantly reside. They have evolved their unique cultural practices and social systems within the confines of their underground cities. Their way of life is based on adaptability, survival, and a never-ending quest for secret lore. Those who acquire their trust have access to their vast libraries of knowledge, a valuable resource for anybody trying to explore perilous depths or unearth ancient secrets.
+Bronze Dwarves are a unique lineage known for their bronze-colored skin and their pioneering role in refining minerals into various metals, including bronze, steel, and tin. They were the first among dwarves to master the art of alloying metals, a tradition that continues to define their culture. Renowned for their exceptional metalworking skills, Bronze Dwarves create finely detailed armor, weapons, and decorative pieces that are both functional and beautiful. These surface-dwelling dwarves prefer the rolling hills and valleys at the base of great mountain ranges, where they have established vibrant communities. Living in harmony with the land, Bronze Dwarves are also skilled farmers, brewers, and artisans, producing bountiful crops and fine ales. Their settlements, often built into the hillsides, are characterized by sturdy, well-crafted forts adorned with intricate bronze engravings. Known for their warm hospitality, Bronze Dwarves frequently host grand feasts and celebrations, reflecting their cheerful and communal nature. Despite their peaceful lifestyle, they are formidable warriors, their armor and weapons renowned for their strength and resilience. Bronze Dwarves typically have hair in shades of gold or copper and eyes of bright blue or hazel, mirroring the metals they work with.
 
-#### Deep Dwarf Traits
-
-`The Deep Dwarves' close ties to the dark have influenced their way of life. As such, they have abilities that enable them to exploit shadows and darkness.`
-
-***Languages.*** Deep Dwarves are fluent and literate in undercommon.
-***Darkvision.*** `See in total darkness to a range of 60 feet; some restrictions apply.`
-***Shadowcraft.*** `Blend into shadows and dark places.`
-
-### Hill Dwarf
-
-Hill Dwarves are well-known for their friendly personalities and close relationships with the outside world. They live in the undulating hills and valleys next to magnificent mountain ranges. In contrast to their mountain-dwelling relatives, Hill Dwarves have seized the chances offered by their proximity to other cultures. Hill Dwarves have developed thriving trade networks, are known for creating outstanding armor and weaponry, and have an innate love for blacksmithing. They have perfected their techniques to produce exceptional armor and weapons for many races.
-
-#### Hill Dwarf Traits
-
-`Hill Dwarves frequently act as stewards of their natural environs, coexisting peacefully with the regions surrounding their hills. Many Hill Dwarves gain a genuine understanding of the land because nature's tranquility is woven into their lives. As such, they have abilities that enable them to navigate natural environments.`
+#### Bronze Dwarf Traits
 
 <!--WIP-->
 
-### Mountain Dwarf
+### Deep Dwarf
 
-The steadfast and resilient Mountain Dwarves best exemplify traditional Dwarven culture. They are the ultimate masters of mining and stoneworking, living within vast mountain strongholds and plunging far beneath the surface in pursuit of valuable metals and gems. Due to their excellent vision, which enables them to perceive in complete darkness, they have a boon in places where light is rare, like the deep.
+Deep Dwarves are a secretive lineage that resides in the deepest subterranean parts of the world, far below the mountain halls of their kin. They are intimately familiar with the mysterious and perilous depths, spending their lives exploring the Underdark rather than venturing into the surface world. Shrouded in mystery, Deep Dwarves have evolved unique cultural practices and social systems within their massive underground cities. Their way of life is built on adaptability, survival, and an unending quest for secret lore and world history. They maintain vast libraries filled with ancient knowledge and hidden secrets, accessible only to those who earn their trust. Deep Dwarves typically have pale or ashen skin, dark hair, and piercing eyes that reflect the darkness of their subterranean homes. These features make them well-suited to their environment, and their keen senses aid in navigation and survival in the dark.
 
-Mountain Dwarves excel at building majestic structures that stand the test of time because of their unmatched stoneworking knowledge. Their magnificent architectural wonders, which feature enormous stone halls, complex carvings, and expertly carved pillars extending into their mountain homes' interiors, represent their deep connection to the mountains. Mountain Dwarves can easily navigate the underground tunnel network because of their acute eyes and natural ability to see in the dark.
+#### Deep Dwarf Traits
 
-#### Mountain Dwarf Traits
+<!--WIP-->
 
-`Mountain Dwarves receive extensive training in combat from an early age and are fierce protectors of their ancient lands. They are fierce fighters who wield battle axes and powerful warhammers with dexterity and strength. They become fearsome enemies and staunch allies due to their sturdy builds and steadfast resolve. As such, their abilities enable them` <!--WIP-->.
+### Iron Dwarf
+
+Iron Dwarves are a lineage known for their exceptional prowess in metallurgy and combat. They inhabit fortresses built within iron-rich mountains and are famed for their robust constitution and martial prowess. Iron Dwarves have a militaristic society where every member is trained in the art of war from a young age. Their forges are renowned for producing some of the sturdiest weapons and armor, imbued with the strength and durability of hardened steel. They are often called upon as mercenaries and blacksmiths, lending their skills to those who can afford their services. Despite their tough exterior and stern demeanor, Iron Dwarves hold a deep sense of honor and loyalty, valuing the bonds of kinship and the traditions of their forefathers. Iron Dwarves typically have tanned or ruddy skin, hair of deep red or auburn, and striking green or amber eyes, reflecting the heat of the forges and the iron they work with.
+
+#### Iron Dwarf Traits
+
+<!--WIP-->
+
+### Stone Dwarf
+
+Stone Dwarves are the quintessential dwarven lineage, embodying the classic traits of stubbornness and resilience. They live within the craggy mountains, maintaining a lifestyle deeply rooted in tradition and self-reliance. Known for their unwavering determination and strength, Stone Dwarves are master craftsmen and miners, tirelessly working the rich veins of ore and precious gems within their mountain homes. They are fiercely protective of their territories and prefer to keep to themselves, focusing on perfecting their skills and preserving their ancient ways. Stone Dwarves are renowned for their unmatched abilities in stonework and metalwork, creating some of the world's most exquisite and durable artifacts. They have earthy skin tones, with hair ranging from deep brown to jet black and eyes in shades of grey or dark blue, mirroring the stone and metal they work with.
+
+#### Stone Dwarf Traits
 
 <!--WIP-->
 
