@@ -30,7 +30,7 @@ While many humans live in bustling cities and towns, a significant number also r
 
 Human lineages have the traits of typical humans in addition to those specified.
 
-### Cultured
+### Cultured Human
 
 Cultured humans are those who live in the heart of civilization, often in bustling cities and towns. They are well-educated, refined, and deeply engaged in the arts, sciences, and politics. These individuals value knowledge, sophistication, and social status, often participating in scholarly pursuits, artistic endeavors, and high society. Cultured humans are known for their eloquence, manners, and fashion, often setting trends and influencing cultural developments. Their hair and eye colors vary widely, reflecting their diverse backgrounds, but are often well-groomed and styled to match their sophisticated demeanor. Cultured humans play a crucial role in shaping their societies' intellectual and artistic landscape.
 
@@ -38,23 +38,7 @@ Cultured humans are those who live in the heart of civilization, often in bustli
 
 <!--WIP-->
 
-### Outlander
-
-Outlander humans are those who live on the fringes of civilization, often in remote and rugged environments. They are hardy, self-reliant, and deeply connected to nature. These individuals are skilled in survival, hunting, and tracking, often leading nomadic or semi-nomadic lifestyles. Outlander humans value strength, resilience, and independence, thriving in harsh conditions where others might falter. They are known for their resourcefulness and adaptability, often serving as guides, scouts, and protectors of their communities. Outlanders typically have weathered skin from exposure to the elements, with hair and eyes in earth tones that help them blend into their natural surroundings.
-
-#### Outlander Human Traits
-
-<!--WIP-->
-
-### Wayward
-
-Wayward humans are the wanderers and adventurers of their race, driven by a desire for freedom and exploration. They reject the constraints of conventional society, choosing to forge their own paths and seek out new experiences. Wayward humans are often seen as rebels or free spirits, unafraid to challenge norms and take risks. They value individuality, creativity, and the thrill of discovery, often becoming explorers, mercenaries, or traveling bards. Their diverse experiences and unconventional lifestyles make them resourceful and versatile. Wayward humans often have a rugged, well-traveled appearance, with hair and eye colors reflecting the myriad cultures and lands they have encountered.
-
-#### Wayward Human Traits
-
-<!--WIP-->
-
-### Devoted
+### Devoted Human
 
 Devoted humans are dedicated to a cause, whether it be religious, ideological, or a personal mission. These individuals are deeply committed and often lead lives of service, sacrifice, and unwavering dedication. They can be found in various roles, such as knights sworn to protect their liege, priests devoted to their deity, or revolutionaries fighting for a cause. Devoted humans are known for their steadfastness, discipline, and sense of purpose. Their dedication often inspires those around them, and they are respected for their integrity and resolve. Devoted humans typically have a focused and determined look, with hair and eye colors that vary widely but often reflect the intensity of their commitment.
 
@@ -62,11 +46,27 @@ Devoted humans are dedicated to a cause, whether it be religious, ideological, o
 
 <!--WIP-->
 
-### Pariah
+### Outlander Human
+
+Outlander humans are those who live on the outer periphery of civilization, often in remote and rugged environments. They are hardy, self-reliant, and deeply connected to nature. These individuals are skilled in survival, hunting, and tracking, often leading nomadic or semi-nomadic lifestyles. Outlander humans value strength, resilience, and independence, thriving in harsh conditions where others might falter. They are known for their resourcefulness and adaptability, often serving as guides, scouts, and protectors of their communities. Outlanders typically have weathered skin from exposure to the elements, with hair and eyes in earth tones that help them blend into their natural surroundings.
+
+#### Outlander Human Traits
+
+<!--WIP-->
+
+### Pariah Human
 
 Pariah humans are the outcasts living in the shadow of other humans. They exist on the fringes of society, often marginalized and forced to survive through unconventional means. Pariahs are resourceful and resilient despite their ostracization, forming tight-knit communities with fellow outcasts. They are skilled in navigating the underbelly of cities, utilizing stealth, cunning, and ingenuity to get by. Pariah humans often have a rough and weathered appearance, with hair and eye colors that blend into the background, aiding their ability to remain unseen. Their experiences have made them wary and cautious but also fiercely loyal to those who accept them.
 
 #### Pariah Human Traits
+
+<!--WIP-->
+
+### Wayward Human
+
+Wayward humans are the wanderers and adventurers of their race, driven by a desire for freedom and exploration. They reject the constraints of conventional society, choosing to forge their own paths and seek out new experiences. Wayward humans are often seen as rebels or free spirits, unafraid to challenge norms and take risks. They value individuality, creativity, and the thrill of discovery, often becoming explorers, mercenaries, or traveling bards. Their diverse experiences and unconventional lifestyles make them resourceful and versatile. Wayward humans often have a rugged, well-traveled appearance, with hair and eye colors reflecting the myriad cultures and lands they have encountered.
+
+#### Wayward Human Traits
 
 <!--WIP-->
 
