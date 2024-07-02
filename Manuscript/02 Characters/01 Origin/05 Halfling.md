@@ -20,11 +20,11 @@ While many Halflings are content to live quiet lives within their peaceful commu
 
 ## Halfling Traits
 
-***Abilities.*** <!--WIP-->
+***Abilities.*** Advantage when rolling for dexterity or charisma; choose one.
 ***Age.*** The starting age for halflings is 20+1d10. The average halfling lives 150 years.
 ***Size.*** <!--WIP-->
 ***Speed.*** <!--WIP-->
-***Languages.*** <!--WIP-->
+***Languages.*** Halflings are fluent and literate in common and halfling dialects.
 
 ## Halfling Lineages
 

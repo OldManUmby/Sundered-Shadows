@@ -16,15 +16,15 @@ Humans have become masters of both commerce and war, their cities bustling with 
 
 ## Beyond the Cities
 
-While many humans live in bustling cities and towns, a significant number also reside in rural areas, frontier settlements, and uncharted territories. These pioneers and explorers are driven by a desire to discover new lands, resources, and opportunities. They often face harsh conditions and unknown dangers, relying on their ingenuity and determination to survive and thrive. Beyond the cities, humans establish farms, mines, and outposts, contributing to the expansion and prosperity of their civilizations. These adventurers and settlers play a crucial role in shaping the world, pushing the boundaries of human knowledge and influence. Their spirit of exploration and resilience embodies the core qualities of the human race.
+While many humans live in bustling cities and towns, many also reside in rural areas, frontier settlements, and uncharted territories. These pioneers and explorers are driven by a desire to discover new lands, resources, and opportunities. They often face harsh conditions and unknown dangers, relying on their ingenuity and determination to survive and thrive. Beyond the cities, humans establish farms, mines, and outposts, contributing to the expansion and prosperity of their civilizations. These adventurers and settlers play a crucial role in shaping the world, pushing the boundaries of human knowledge and influence. Their spirit of exploration and resilience embodies the core qualities of the human race.
 
 ## Human Traits
 
-***Abilities.*** <!--WIP-->
+***Abilities.*** Choose one ability and gain advantage when rolling.
 ***Age.*** The starting age for humans is 15+1d10. The average human lives 100 years.
 ***Size.*** <!--WIP-->
 ***Speed.*** <!--WIP-->
-***Languages.*** <!--WIP-->
+***Languages.*** Humans are fluent and literate in common and one additional language of choice.
 
 ## Human Lineages
 
@@ -32,7 +32,7 @@ Human lineages have the traits of typical humans in addition to those specified.
 
 ### Cultured Human
 
-Cultured humans are those who live in the heart of civilization, often in bustling cities and towns. They are well-educated, refined, and deeply engaged in the arts, sciences, and politics. These individuals value knowledge, sophistication, and social status, often participating in scholarly pursuits, artistic endeavors, and high society. Cultured humans are known for their eloquence, manners, and fashion, often setting trends and influencing cultural developments. Their hair and eye colors vary widely, reflecting their diverse backgrounds, but are often well-groomed and styled to match their sophisticated demeanor. Cultured humans play a crucial role in shaping their societies' intellectual and artistic landscape.
+Cultured humans are those who live in the heart of civilization, often in bustling cities and towns. They are well-educated, refined, and deeply engaged in the arts, sciences, and politics. These individuals value knowledge, sophistication, and social status, often participating in scholarly pursuits, artistic endeavors, and high society. Cultured humans are known for their eloquence, manners, and fashion, often setting trends and influencing cultural developments. Their hair and eye colors vary widely, reflecting their diverse backgrounds, but are often well-groomed and styled to match their sophisticated demeanor. Cultured humans are crucial in shaping their societies' intellectual and artistic landscape.
 
 #### Cultured Human Traits
 

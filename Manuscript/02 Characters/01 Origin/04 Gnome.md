@@ -20,11 +20,11 @@ While many gnomes prefer the safety and comfort of their burrows, some are drawn
 
 ## Gnome Traits
 
-***Abilities.*** <!--WIP-->
+***Abilities.*** Advantage when rolling for dexterity or intelligence; choose one.
 ***Age.*** The starting age for gnomes is XX. The average gnome lives XX years.
 ***Size.*** <!--WIP-->
 ***Speed.*** <!--WIP-->
-***Languages.*** <!--WIP-->
+***Languages.*** Gnomes are fluent and literate in common and gnome dialects.
 
 ## Gnome Lineages
 

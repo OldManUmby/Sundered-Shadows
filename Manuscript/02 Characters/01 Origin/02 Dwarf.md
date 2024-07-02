@@ -20,11 +20,11 @@ Even though dwarves frequently inhabit underground areas, their influence goes b
 
 ## Dwarven Traits
 
-***Abilities.*** Advantage when rolling for Strength or Constitution; choose one.
+***Abilities.*** Advantage when rolling for strength or constitution; choose one.
 ***Age.*** The average dwarf matures as a human but lives 300 years.
-***Size.*** Dwarves are Medium-sized, standing 4 to 5 feet tall, sturdy, and average 150 pounds.
-***Speed.*** Base movement is 25 feet; they are not encumbered by armor.
-***Languages.*** Dwarves are fluent and literate in common and dwarvish dialects.
+***Size.*** Dwarves are medium-sized, standing 4 to 5 feet tall, sturdy, and average 150 pounds.
+***Speed.*** <!--WIP-->; they are not encumbered by armor.
+***Languages.*** Dwarves are fluent and literate in common and dwarven dialects.
 ***Proficiencies.*** <!--WIP-->
 
 ## Dwarven Lineages

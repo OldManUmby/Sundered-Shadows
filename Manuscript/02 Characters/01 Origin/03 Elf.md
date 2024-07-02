@@ -20,11 +20,11 @@ They once lived in another realm far from other races, a realm now lost to them.
 
 ## Elven Traits
 
-***Abilities.*** <!--WIP-->
+***Abilities.*** Advantage when rolling for intelligence or charisma; choose one.
 ***Age.*** The starting age for elves is 100+1d10. The average elf lives 500 years.
-***Size.*** Elves are Medium size, standing 5'+1d12" tall, slender, and about 150 pounds. 
+***Size.*** Elves are medium size, standing 5'+1d12" tall, slender, and about 150 pounds. 
 ***Speed.*** <!--WIP-->
-***Languages.*** <!--WIP-->
+***Languages.*** Elves are fluent and literate in common, elven and ancient dialects.
 
 ## Elven Lineages
 
